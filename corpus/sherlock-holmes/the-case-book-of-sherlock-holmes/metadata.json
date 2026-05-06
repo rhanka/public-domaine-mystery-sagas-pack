@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-case-book-of-sherlock-holmes",
+  "title": "The Case-Book of Sherlock Holmes",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1927,
+  "gutenbergId": 69700,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/69700",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/69700.txt.utf-8",
+  "sha256": "f016d8ef7c57b8bf1d51c1165b192c6485ccbcd3d9a90020507d16e43004a255",
+  "bytes": 453738
+}

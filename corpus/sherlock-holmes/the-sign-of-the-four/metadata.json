@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-sign-of-the-four",
+  "title": "The Sign of the Four",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1890,
+  "gutenbergId": 2097,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/2097",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/2097.txt.utf-8",
+  "sha256": "dfecc526de4c79bcb33bf203cf94d23941149cb206a98c3e808b7bbdb8610fef",
+  "bytes": 236815
+}

@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-memoirs-of-sherlock-holmes",
+  "title": "The Memoirs of Sherlock Holmes",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1893,
+  "gutenbergId": 834,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/834",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/834.txt.utf-8",
+  "sha256": "d22d021e0755dbf0ed585f901362ab48c72a8b513fe3c0346f165d0e67a6a13d",
+  "bytes": 581650
+}

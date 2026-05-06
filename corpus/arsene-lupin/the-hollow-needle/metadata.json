@@ -1,0 +1,24 @@
+{
+  "saga": "arsene-lupin",
+  "sagaTitle": "Arsene Lupin",
+  "slug": "the-hollow-needle",
+  "title": "The Hollow Needle",
+  "author": {
+    "name": "Maurice Leblanc",
+    "birthYear": 1864,
+    "deathYear": 1941
+  },
+  "translators": [
+    {
+      "name": "Alexander Teixeira de Mattos",
+      "birthYear": 1865,
+      "deathYear": 1921
+    }
+  ],
+  "firstPublicationYear": 1909,
+  "gutenbergId": 4017,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/4017",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/4017.txt.utf-8",
+  "sha256": "a9e82213c6ebb346a2835aa27fd84f10e9d6590555504eee012b1d57de4e2016",
+  "bytes": 382043
+}

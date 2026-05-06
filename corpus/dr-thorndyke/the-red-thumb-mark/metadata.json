@@ -1,0 +1,18 @@
+{
+  "saga": "dr-thorndyke",
+  "sagaTitle": "Dr. Thorndyke",
+  "slug": "the-red-thumb-mark",
+  "title": "The Red Thumb Mark",
+  "author": {
+    "name": "R. Austin Freeman",
+    "birthYear": 1862,
+    "deathYear": 1943
+  },
+  "translators": [],
+  "firstPublicationYear": 1907,
+  "gutenbergId": 11128,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/11128",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/11128.txt.utf-8",
+  "sha256": "29c5b4e3d10a15e22a7e90faace28b3e21c8563b9e97ff6349abb477826ed113",
+  "bytes": 397835
+}

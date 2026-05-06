@@ -1,0 +1,19 @@
+{
+  "saga": "arsene-lupin",
+  "sagaTitle": "Arsene Lupin",
+  "slug": "the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar",
+  "title": "The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar",
+  "author": {
+    "name": "Maurice Leblanc",
+    "birthYear": 1864,
+    "deathYear": 1941
+  },
+  "translators": [],
+  "firstPublicationYear": 1907,
+  "gutenbergId": 6133,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/6133",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/6133.txt.utf-8",
+  "sha256": "0c603d25b2063cf1b4758ae11053833243e48ebc36f9ffb9a8869445ef10c6c3",
+  "bytes": 316736,
+  "notes": "English edition of the first Lupin collection."
+}

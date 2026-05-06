@@ -1,0 +1,18 @@
+{
+  "saga": "father-brown",
+  "sagaTitle": "Father Brown",
+  "slug": "the-innocence-of-father-brown",
+  "title": "The Innocence of Father Brown",
+  "author": {
+    "name": "G. K. Chesterton",
+    "birthYear": 1874,
+    "deathYear": 1936
+  },
+  "translators": [],
+  "firstPublicationYear": 1911,
+  "gutenbergId": 204,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/204",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/204.txt.utf-8",
+  "sha256": "ec2aee6236cd67a2d145a952f39ced640c153261d1c22b7fcde05c6377d28428",
+  "bytes": 449423
+}

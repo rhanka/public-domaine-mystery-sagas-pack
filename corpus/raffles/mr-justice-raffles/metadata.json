@@ -1,0 +1,18 @@
+{
+  "saga": "raffles",
+  "sagaTitle": "Raffles",
+  "slug": "mr-justice-raffles",
+  "title": "Mr. Justice Raffles",
+  "author": {
+    "name": "E. W. Hornung",
+    "birthYear": 1866,
+    "deathYear": 1921
+  },
+  "translators": [],
+  "firstPublicationYear": 1909,
+  "gutenbergId": 9806,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/9806",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/9806.txt.utf-8",
+  "sha256": "ec1d8abc73ce6f159ed3690641a97a39de64397da29aef0398c25d347819edb2",
+  "bytes": 353879
+}

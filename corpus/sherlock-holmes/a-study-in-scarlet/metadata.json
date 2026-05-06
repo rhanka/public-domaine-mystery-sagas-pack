@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "a-study-in-scarlet",
+  "title": "A Study in Scarlet",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1887,
+  "gutenbergId": 244,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/244",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/244.txt.utf-8",
+  "sha256": "43da22ec4a20afdaa4eb7613d6309507b2a55e88dd5c584af408b360cd8a6603",
+  "bytes": 244207
+}

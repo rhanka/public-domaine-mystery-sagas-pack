@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-adventures-of-sherlock-holmes",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1892,
+  "gutenbergId": 1661,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1661",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/1661.txt.utf-8",
+  "sha256": "754a639be325e94ee53c8b4fde226bb2633596bc9593bbe7d77245e76fc15e3b",
+  "bytes": 575770
+}

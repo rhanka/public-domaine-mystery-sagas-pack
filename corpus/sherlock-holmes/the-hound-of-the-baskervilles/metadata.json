@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-hound-of-the-baskervilles",
+  "title": "The Hound of the Baskervilles",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1902,
+  "gutenbergId": 2852,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/2852",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/2852.txt.utf-8",
+  "sha256": "67526140f0a565e01c70c0290f046f3c3b41e397ebb81dee90c9305b2fee9326",
+  "bytes": 360808
+}

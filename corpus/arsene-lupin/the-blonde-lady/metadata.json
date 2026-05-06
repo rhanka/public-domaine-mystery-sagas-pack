@@ -1,0 +1,24 @@
+{
+  "saga": "arsene-lupin",
+  "sagaTitle": "Arsene Lupin",
+  "slug": "the-blonde-lady",
+  "title": "The Blonde Lady",
+  "author": {
+    "name": "Maurice Leblanc",
+    "birthYear": 1864,
+    "deathYear": 1941
+  },
+  "translators": [
+    {
+      "name": "Alexander Teixeira de Mattos",
+      "birthYear": 1865,
+      "deathYear": 1921
+    }
+  ],
+  "firstPublicationYear": 1908,
+  "gutenbergId": 24839,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/24839",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/24839.txt.utf-8",
+  "sha256": "4897e9680171b4a119a85713bb041dc042cddf3f82fff925679cd53912b3bccd",
+  "bytes": 361421
+}

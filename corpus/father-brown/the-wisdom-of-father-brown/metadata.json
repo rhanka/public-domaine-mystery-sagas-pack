@@ -1,0 +1,18 @@
+{
+  "saga": "father-brown",
+  "sagaTitle": "Father Brown",
+  "slug": "the-wisdom-of-father-brown",
+  "title": "The Wisdom of Father Brown",
+  "author": {
+    "name": "G. K. Chesterton",
+    "birthYear": 1874,
+    "deathYear": 1936
+  },
+  "translators": [],
+  "firstPublicationYear": 1914,
+  "gutenbergId": 223,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/223",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/223.txt.utf-8",
+  "sha256": "66cd3e2a784048282cb965338377695d13c810d3fb99e01d31d6f12b11b502ff",
+  "bytes": 407401
+}

@@ -1,0 +1,18 @@
+{
+  "saga": "arsene-lupin",
+  "sagaTitle": "Arsene Lupin",
+  "slug": "the-crystal-stopper",
+  "title": "The Crystal Stopper",
+  "author": {
+    "name": "Maurice Leblanc",
+    "birthYear": 1864,
+    "deathYear": 1941
+  },
+  "translators": [],
+  "firstPublicationYear": 1912,
+  "gutenbergId": 1563,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/1563",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/1563.txt.utf-8",
+  "sha256": "7e4c5a8878680170b3b72c2958b8554819c7b0869b6704295cae3a26ae4e046c",
+  "bytes": 434511
+}

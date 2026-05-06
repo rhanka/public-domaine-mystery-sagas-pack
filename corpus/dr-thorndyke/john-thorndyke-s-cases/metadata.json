@@ -1,0 +1,18 @@
+{
+  "saga": "dr-thorndyke",
+  "sagaTitle": "Dr. Thorndyke",
+  "slug": "john-thorndyke-s-cases",
+  "title": "John Thorndyke's Cases",
+  "author": {
+    "name": "R. Austin Freeman",
+    "birthYear": 1862,
+    "deathYear": 1943
+  },
+  "translators": [],
+  "firstPublicationYear": 1909,
+  "gutenbergId": 13882,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/13882",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/13882.txt.utf-8",
+  "sha256": "9fd946a7e3ecfb3a616eafbea3f7ff524a2e8ca98bb951d526e5924bd545ca68",
+  "bytes": 451932
+}

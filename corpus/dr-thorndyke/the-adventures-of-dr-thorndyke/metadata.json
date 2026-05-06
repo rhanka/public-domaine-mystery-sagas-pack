@@ -1,0 +1,18 @@
+{
+  "saga": "dr-thorndyke",
+  "sagaTitle": "Dr. Thorndyke",
+  "slug": "the-adventures-of-dr-thorndyke",
+  "title": "The Adventures of Dr. Thorndyke",
+  "author": {
+    "name": "R. Austin Freeman",
+    "birthYear": 1862,
+    "deathYear": 1943
+  },
+  "translators": [],
+  "firstPublicationYear": 1912,
+  "gutenbergId": 59478,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/59478",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/59478.txt.utf-8",
+  "sha256": "618fd720d0a60ca18e9f4d07184f38acc256421b5db2a13d7171cc5cf61f396b",
+  "bytes": 397923
+}

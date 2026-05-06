@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "his-last-bow",
+  "title": "His Last Bow",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1917,
+  "gutenbergId": 2350,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/2350",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/2350.txt.utf-8",
+  "sha256": "c112b5569b96ba323286ff20700350088408a7921f90b6348255a1d212cc8caa",
+  "bytes": 331083
+}

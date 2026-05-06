@@ -1,0 +1,18 @@
+{
+  "saga": "raffles",
+  "sagaTitle": "Raffles",
+  "slug": "raffles-further-adventures-of-the-amateur-cracksman",
+  "title": "Raffles: Further Adventures of the Amateur Cracksman",
+  "author": {
+    "name": "E. W. Hornung",
+    "birthYear": 1866,
+    "deathYear": 1921
+  },
+  "translators": [],
+  "firstPublicationYear": 1901,
+  "gutenbergId": 707,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/707",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/707.txt.utf-8",
+  "sha256": "a906af16b0e735ad7497d1a755f3fb5052370025e2c4cfb924e3949e652445eb",
+  "bytes": 300000
+}

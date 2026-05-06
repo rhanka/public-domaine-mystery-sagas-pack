@@ -1,0 +1,19 @@
+{
+  "saga": "dr-thorndyke",
+  "sagaTitle": "Dr. Thorndyke",
+  "slug": "the-vanishing-man",
+  "title": "The Vanishing Man",
+  "author": {
+    "name": "R. Austin Freeman",
+    "birthYear": 1862,
+    "deathYear": 1943
+  },
+  "translators": [],
+  "firstPublicationYear": 1911,
+  "gutenbergId": 10476,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/10476",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/10476.txt.utf-8",
+  "sha256": "f86f784f86e18cb113282703a6bfc0a6553cae3b80d16a5e4401eaedfee025c7",
+  "bytes": 537747,
+  "notes": "Published in the UK as The Eye of Osiris."
+}

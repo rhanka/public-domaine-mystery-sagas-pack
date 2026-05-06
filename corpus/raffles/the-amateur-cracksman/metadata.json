@@ -1,0 +1,18 @@
+{
+  "saga": "raffles",
+  "sagaTitle": "Raffles",
+  "slug": "the-amateur-cracksman",
+  "title": "The Amateur Cracksman",
+  "author": {
+    "name": "E. W. Hornung",
+    "birthYear": 1866,
+    "deathYear": 1921
+  },
+  "translators": [],
+  "firstPublicationYear": 1899,
+  "gutenbergId": 706,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/706",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/706.txt.utf-8",
+  "sha256": "17446d0a8017e216d16c7500b91a9fde01c512ecfaeb3509b373c7c77f267cbe",
+  "bytes": 281543
+}

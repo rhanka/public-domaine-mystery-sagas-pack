@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-valley-of-fear",
+  "title": "The Valley of Fear",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1915,
+  "gutenbergId": 3289,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/3289",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/3289.txt.utf-8",
+  "sha256": "6e9a8f2c5910259a93922bac8dec3b963a073ec8d53dff87bfc2e6d6ee95971d",
+  "bytes": 322547
+}

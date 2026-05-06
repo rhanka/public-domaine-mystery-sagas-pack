@@ -1,0 +1,32 @@
+{
+  "name": "public-domain-mystery-sagas-pack",
+  "version": "0.1.0",
+  "description": "Public-domain mystery saga corpus pack for ontology and Graphify UATs.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "fetch": "tsx scripts/fetch-corpus.ts",
+    "check": "tsx scripts/check-corpus.ts",
+    "refresh": "npm run fetch && npm run check"
+  },
+  "exports": {
+    ".": "./dist/index.js",
+    "./catalog": "./dist/catalog.js"
+  },
+  "files": [
+    "corpus",
+    "dist",
+    "README.md",
+    "CORPUS_LICENSE.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  }
+}

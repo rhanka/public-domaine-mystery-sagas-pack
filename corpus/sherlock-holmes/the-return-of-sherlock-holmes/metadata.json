@@ -1,0 +1,18 @@
+{
+  "saga": "sherlock-holmes",
+  "sagaTitle": "Sherlock Holmes",
+  "slug": "the-return-of-sherlock-holmes",
+  "title": "The Return of Sherlock Holmes",
+  "author": {
+    "name": "Arthur Conan Doyle",
+    "birthYear": 1859,
+    "deathYear": 1930
+  },
+  "translators": [],
+  "firstPublicationYear": 1905,
+  "gutenbergId": 108,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/108",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/108.txt.utf-8",
+  "sha256": "39cb513dace06145a009e1def05245133c5b568102c6f65f39c942e0fd9c790b",
+  "bytes": 686349
+}

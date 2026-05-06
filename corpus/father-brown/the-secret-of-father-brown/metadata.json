@@ -1,0 +1,18 @@
+{
+  "saga": "father-brown",
+  "sagaTitle": "Father Brown",
+  "slug": "the-secret-of-father-brown",
+  "title": "The Secret of Father Brown",
+  "author": {
+    "name": "G. K. Chesterton",
+    "birthYear": 1874,
+    "deathYear": 1936
+  },
+  "translators": [],
+  "firstPublicationYear": 1927,
+  "gutenbergId": 70175,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/70175",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/70175.txt.utf-8",
+  "sha256": "ecd5faa2d690e0791ac650c43a893428c38ba0d1a04c10984cadbb415163f9c9",
+  "bytes": 349538
+}

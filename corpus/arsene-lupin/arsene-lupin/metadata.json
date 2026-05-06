@@ -1,0 +1,24 @@
+{
+  "saga": "arsene-lupin",
+  "sagaTitle": "Arsene Lupin",
+  "slug": "arsene-lupin",
+  "title": "Arsene Lupin",
+  "author": {
+    "name": "Maurice Leblanc",
+    "birthYear": 1864,
+    "deathYear": 1941
+  },
+  "translators": [
+    {
+      "name": "Edgar Jepson",
+      "birthYear": 1863,
+      "deathYear": 1938
+    }
+  ],
+  "firstPublicationYear": 1909,
+  "gutenbergId": 4014,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/4014",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/4014.txt.utf-8",
+  "sha256": "80a6cd26e5fc973e96d661e7b32290cc83009babc75504cbb6e454b8aba2b56e",
+  "bytes": 410055
+}

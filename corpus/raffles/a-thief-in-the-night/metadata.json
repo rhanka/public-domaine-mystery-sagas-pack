@@ -1,0 +1,18 @@
+{
+  "saga": "raffles",
+  "sagaTitle": "Raffles",
+  "slug": "a-thief-in-the-night",
+  "title": "A Thief in the Night",
+  "author": {
+    "name": "E. W. Hornung",
+    "birthYear": 1866,
+    "deathYear": 1921
+  },
+  "translators": [],
+  "firstPublicationYear": 1905,
+  "gutenbergId": 2098,
+  "sourceUrl": "https://www.gutenberg.org/ebooks/2098",
+  "downloadUrl": "https://www.gutenberg.org/ebooks/2098.txt.utf-8",
+  "sha256": "eaeb102978b91aea4d75582a1ab3dcc00f22ca1841f48d2a32fcbc78581b506d",
+  "bytes": 340680
+}
