@@ -33,6 +33,10 @@ scripts/
   check-corpus.ts
 ```
 
+## Public Graphify Demo
+
+A small committed Graphify demo is available in [examples/graphify-three-works](examples/graphify-three-works). It uses two Sherlock Holmes works and one Arsene Lupin work to exercise public ontology, reconciliation, and LLM-wiki UI scenarios.
+
 ## Commands
 
 ```bash

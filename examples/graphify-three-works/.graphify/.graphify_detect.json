@@ -1,0 +1,33 @@
+{
+  "files": {
+    "code": [],
+    "document": [
+      "corpus/a-study-in-scarlet.txt",
+      "corpus/arsene-lupin-gentleman-burglar.txt",
+      "corpus/the-adventures-of-sherlock-holmes.txt"
+    ],
+    "paper": [],
+    "image": [],
+    "video": []
+  },
+  "total_files": 3,
+  "total_words": 201857,
+  "needs_graph": true,
+  "warning": null,
+  "skipped_sensitive": [],
+  "graphifyignore_patterns": 0,
+  "scope": {
+    "requested_mode": "all",
+    "resolved_mode": "all",
+    "source": "cli",
+    "root": ".",
+    "candidate_count": null,
+    "included_count": 3,
+    "excluded_untracked_count": 0,
+    "excluded_ignored_count": 0,
+    "excluded_sensitive_count": 0,
+    "missing_committed_count": 0,
+    "warnings": [],
+    "recommendation": null
+  }
+}

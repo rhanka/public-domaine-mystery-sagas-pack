@@ -1,0 +1,200 @@
+{
+  "communities": {
+    "0": [
+      "node_adventures_sh",
+      "node_baker_street",
+      "node_deduction_method",
+      "node_detective_fiction_genre",
+      "node_haemoglobin_test",
+      "node_rationale_watson_narrator",
+      "node_scarlet"
+    ],
+    "1": [
+      "node_irene_adler",
+      "node_king_bohemia",
+      "node_scandal_bohemia",
+      "node_second_afghan_war",
+      "node_sherlock_holmes",
+      "node_stamford",
+      "node_watson"
+    ],
+    "2": [
+      "node_arsene_lupin",
+      "node_arsene_lupin_char",
+      "node_ganimard",
+      "node_gentleman_thief_archetype",
+      "node_la_provence",
+      "node_rationale_sh_crossover"
+    ]
+  },
+  "cohesion": {
+    "0": 0.52,
+    "1": 0.38,
+    "2": 0.4
+  },
+  "gods": [
+    {
+      "id": "node_sherlock_holmes",
+      "label": "Sherlock Holmes",
+      "edges": 10,
+      "degree": 10
+    },
+    {
+      "id": "node_scarlet",
+      "label": "A Study in Scarlet",
+      "edges": 8,
+      "degree": 8
+    },
+    {
+      "id": "node_adventures_sh",
+      "label": "The Adventures of Sherlock Holmes",
+      "edges": 8,
+      "degree": 8
+    },
+    {
+      "id": "node_arsene_lupin",
+      "label": "The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar",
+      "edges": 6,
+      "degree": 6
+    },
+    {
+      "id": "node_watson",
+      "label": "Dr. John H. Watson",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "node_deduction_method",
+      "label": "Holmes's Method of Deduction and Observation",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "node_detective_fiction_genre",
+      "label": "Detective Fiction Genre",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "node_arsene_lupin_char",
+      "label": "Arsène Lupin",
+      "edges": 4,
+      "degree": 4
+    },
+    {
+      "id": "node_baker_street",
+      "label": "221B Baker Street",
+      "edges": 3,
+      "degree": 3
+    },
+    {
+      "id": "node_haemoglobin_test",
+      "label": "Haemoglobin Blood-Stain Reagent Test",
+      "edges": 3,
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Rationale: Sherlock Holmes appears in Lupin stories as foil",
+      "target": "The Adventures of Sherlock Holmes",
+      "source_files": [
+        "corpus/arsene-lupin-gentleman-burglar.txt",
+        "corpus/the-adventures-of-sherlock-holmes.txt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "contextualises",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; peripheral node `Rationale: Sherlock Holmes appears in Lupin stories as foil` unexpectedly reaches hub `The Adventures of Sherlock Holmes`"
+    },
+    {
+      "source": "Gentleman Thief Archetype",
+      "target": "Detective Fiction Genre",
+      "source_files": [
+        "corpus/arsene-lupin-gentleman-burglar.txt",
+        "corpus/a-study-in-scarlet.txt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "contrasts_with",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities; peripheral node `Gentleman Thief Archetype` unexpectedly reaches hub `Detective Fiction Genre`"
+    },
+    {
+      "source": "Irene Adler",
+      "target": "Sherlock Holmes",
+      "source_files": [
+        "corpus/the-adventures-of-sherlock-holmes.txt",
+        "corpus/a-study-in-scarlet.txt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "intellectually_rivals",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `Irene Adler` unexpectedly reaches hub `Sherlock Holmes`"
+    },
+    {
+      "source": "The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar",
+      "target": "Detective Fiction Genre",
+      "source_files": [
+        "corpus/arsene-lupin-gentleman-burglar.txt",
+        "corpus/a-study-in-scarlet.txt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "belongs_to_genre",
+      "why": "inferred connection - not explicitly stated in source; bridges separate communities"
+    },
+    {
+      "source": "Rationale: Watson as unreliable/partial narrator",
+      "target": "The Adventures of Sherlock Holmes",
+      "source_files": [
+        "corpus/a-study-in-scarlet.txt",
+        "corpus/the-adventures-of-sherlock-holmes.txt"
+      ],
+      "confidence": "INFERRED",
+      "relation": "explains_narrative_choice_in",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `Rationale: Watson as unreliable/partial narrator` unexpectedly reaches hub `The Adventures of Sherlock Holmes`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Sherlock Holmes` connect `Community 1` to `Community 0`, `Community 2`?",
+      "why": "High betweenness centrality (0.397) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar` connect `Community 2` to `Community 1`, `Community 0`?",
+      "why": "High betweenness centrality (0.244) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `The Adventures of Sherlock Holmes` connect `Community 0` to `Community 1`, `Community 2`?",
+      "why": "High betweenness centrality (0.201) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `A Study in Scarlet` (e.g. with `Detective Fiction Genre` and `Rationale: Watson as unreliable/partial narrator`) actually correct?",
+      "why": "`A Study in Scarlet` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `The Adventures of Sherlock Holmes` (e.g. with `Detective Fiction Genre` and `Rationale: Sherlock Holmes appears in Lupin stories as foil`) actually correct?",
+      "why": "`The Adventures of Sherlock Holmes` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar` (e.g. with `Detective Fiction Genre` and `Rationale: Sherlock Holmes appears in Lupin stories as foil`) actually correct?",
+      "why": "`The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `SS La Provence (transatlantic voyage setting)`, `Second Afghan War (historical context)` to the rest of the system?",
+      "why": "2 weakly-connected nodes found - possible documentation gaps or missing edges."
+    }
+  ],
+  "labels": {
+    "0": "Community 0",
+    "1": "Community 1",
+    "2": "Community 2"
+  },
+  "tokens": {
+    "input": 9800,
+    "output": 1420
+  }
+}
