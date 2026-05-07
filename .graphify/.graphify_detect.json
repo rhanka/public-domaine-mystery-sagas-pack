@@ -2,9 +2,9 @@
   "files": {
     "code": [],
     "document": [
-      "corpus/a-study-in-scarlet.txt",
-      "corpus/arsene-lupin-gentleman-burglar.txt",
-      "corpus/the-adventures-of-sherlock-holmes.txt"
+      "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     ],
     "paper": [],
     "image": [],

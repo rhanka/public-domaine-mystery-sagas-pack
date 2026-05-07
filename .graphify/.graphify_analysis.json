@@ -99,8 +99,8 @@
       "source": "Rationale: Sherlock Holmes appears in Lupin stories as foil",
       "target": "The Adventures of Sherlock Holmes",
       "source_files": [
-        "corpus/arsene-lupin-gentleman-burglar.txt",
-        "corpus/the-adventures-of-sherlock-holmes.txt"
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
       ],
       "confidence": "INFERRED",
       "relation": "contextualises",
@@ -110,8 +110,8 @@
       "source": "Gentleman Thief Archetype",
       "target": "Detective Fiction Genre",
       "source_files": [
-        "corpus/arsene-lupin-gentleman-burglar.txt",
-        "corpus/a-study-in-scarlet.txt"
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
       ],
       "confidence": "INFERRED",
       "relation": "contrasts_with",
@@ -121,8 +121,8 @@
       "source": "Irene Adler",
       "target": "Sherlock Holmes",
       "source_files": [
-        "corpus/the-adventures-of-sherlock-holmes.txt",
-        "corpus/a-study-in-scarlet.txt"
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
       ],
       "confidence": "INFERRED",
       "relation": "intellectually_rivals",
@@ -132,8 +132,8 @@
       "source": "The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar",
       "target": "Detective Fiction Genre",
       "source_files": [
-        "corpus/arsene-lupin-gentleman-burglar.txt",
-        "corpus/a-study-in-scarlet.txt"
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
       ],
       "confidence": "INFERRED",
       "relation": "belongs_to_genre",
@@ -143,8 +143,8 @@
       "source": "Rationale: Watson as unreliable/partial narrator",
       "target": "The Adventures of Sherlock Holmes",
       "source_files": [
-        "corpus/a-study-in-scarlet.txt",
-        "corpus/the-adventures-of-sherlock-holmes.txt"
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
       ],
       "confidence": "INFERRED",
       "relation": "explains_narrative_choice_in",

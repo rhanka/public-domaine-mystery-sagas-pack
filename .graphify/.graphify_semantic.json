@@ -1,58 +1,43 @@
 {
-  "directed": false,
-  "multigraph": false,
-  "graph": {
-    "community_labels": {
-      "0": "Community 0",
-      "1": "Community 1",
-      "2": "Community 2"
-    }
-  },
   "nodes": [
     {
       "id": "node_scarlet",
       "label": "A Study in Scarlet",
       "file_type": "document",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "author": "A. Conan Doyle",
         "narrator": "John H. Watson, M.D.",
         "parts": 2,
         "setting_era": "1878 onwards"
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_adventures_sh",
       "label": "The Adventures of Sherlock Holmes",
       "file_type": "document",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
       "attributes": {
         "author": "Arthur Conan Doyle",
         "stories": 12
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_arsene_lupin",
       "label": "The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar",
       "file_type": "document",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "author": "Maurice Leblanc",
         "translator": "George Morehead",
         "stories": 9
-      },
-      "community": 2,
-      "community_name": "Community 2"
+      }
     },
     {
       "id": "node_sherlock_holmes",
       "label": "Sherlock Holmes",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "occupation": "consulting detective",
         "residence": "221B Baker Street",
@@ -62,75 +47,63 @@
           "eccentric",
           "violin player"
         ]
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     },
     {
       "id": "node_watson",
       "label": "Dr. John H. Watson",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "background": "Army Medical Department",
         "conflict": "Second Afghan War",
         "injury": "Jezail bullet wound, enteric fever"
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     },
     {
       "id": "node_baker_street",
       "label": "221B Baker Street",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "significance": "shared lodgings of Holmes and Watson"
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_deduction_method",
       "label": "Holmes's Method of Deduction and Observation",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "description": "Systematic inference from physical clues; distinguishing seeing from observing",
         "example": "Deducing Watson's Afghan service on first meeting"
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_haemoglobin_test",
       "label": "Haemoglobin Blood-Stain Reagent Test",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "inventor_fictional": "Sherlock Holmes",
         "significance": "medico-legal detection of blood stains",
         "supersedes": "Guiacum test"
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_stamford",
       "label": "Young Stamford",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "role": "intermediary who introduces Watson to Holmes"
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     },
     {
       "id": "node_arsene_lupin_char",
       "label": "Arsène Lupin",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "alias": "gentleman-burglar",
         "traits": [
@@ -140,515 +113,389 @@
           "dilettante"
         ],
         "adversary": "Ganimard"
-      },
-      "community": 2,
-      "community_name": "Community 2"
+      }
     },
     {
       "id": "node_ganimard",
       "label": "Ganimard",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "role": "French detective, personal enemy of Arsène Lupin"
-      },
-      "community": 2,
-      "community_name": "Community 2"
+      }
     },
     {
       "id": "node_la_provence",
       "label": "SS La Provence (transatlantic voyage setting)",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "significance": "confined setting for Lupin's crimes and identity mystery"
-      },
-      "community": 2,
-      "community_name": "Community 2"
+      }
     },
     {
       "id": "node_irene_adler",
       "label": "Irene Adler",
       "file_type": "concept",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
       "attributes": {
         "description": "The woman; opera singer, adventuress",
         "born": "New Jersey, 1858",
         "significance": "Only woman Holmes regards as intellectual equal"
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     },
     {
       "id": "node_king_bohemia",
       "label": "Wilhelm Gottsreich Sigismond von Ormstein, King of Bohemia",
       "file_type": "concept",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
       "attributes": {
         "alias": "Count Von Kramm",
         "case": "A Scandal in Bohemia"
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     },
     {
       "id": "node_scandal_bohemia",
       "label": "A Scandal in Bohemia (story)",
       "file_type": "concept",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
       "attributes": {
         "collection": "The Adventures of Sherlock Holmes",
         "key_theme": "compromising photograph, royal blackmail"
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     },
     {
       "id": "node_detective_fiction_genre",
       "label": "Detective Fiction Genre",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "description": "Literary genre centred on crime investigation and logical deduction"
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_gentleman_thief_archetype",
       "label": "Gentleman Thief Archetype",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "description": "Charming, aristocratic criminal who operates with style and wit"
-      },
-      "community": 2,
-      "community_name": "Community 2"
+      }
     },
     {
       "id": "node_rationale_sh_crossover",
       "label": "Rationale: Sherlock Holmes appears in Lupin stories as foil",
       "file_type": "rationale",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "explanation": "Chapter IX title 'Sherlock Holmes Arrives Too Late' signals deliberate intertextual rivalry between the two iconic detective/thief figures across French and English literary traditions"
-      },
-      "community": 2,
-      "community_name": "Community 2"
+      }
     },
     {
       "id": "node_rationale_watson_narrator",
       "label": "Rationale: Watson as unreliable/partial narrator",
       "file_type": "rationale",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "explanation": "Both A Study in Scarlet and Adventures frame events through Watson's perspective, limiting omniscience and humanising Holmes"
-      },
-      "community": 0,
-      "community_name": "Community 0"
+      }
     },
     {
       "id": "node_second_afghan_war",
       "label": "Second Afghan War (historical context)",
       "file_type": "concept",
-      "source_file": "corpus/a-study-in-scarlet.txt",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
       "attributes": {
         "period": "1878–1880",
         "relevance": "Provides Watson's backstory and injury"
-      },
-      "community": 1,
-      "community_name": "Community 1"
+      }
     }
   ],
-  "links": [
+  "edges": [
     {
       "source": "node_scarlet",
       "target": "node_sherlock_holmes",
       "relation": "introduces_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_scarlet",
-      "_tgt": "node_sherlock_holmes",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_scarlet",
       "target": "node_watson",
       "relation": "introduces_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_scarlet",
-      "_tgt": "node_watson",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_scarlet",
       "target": "node_baker_street",
       "relation": "establishes_setting",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_scarlet",
-      "_tgt": "node_baker_street",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_scarlet",
       "target": "node_haemoglobin_test",
       "relation": "features_concept",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_scarlet",
-      "_tgt": "node_haemoglobin_test",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_scarlet",
       "target": "node_deduction_method",
       "relation": "features_concept",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_scarlet",
-      "_tgt": "node_deduction_method",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_watson",
       "target": "node_second_afghan_war",
       "relation": "experienced",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_watson",
-      "_tgt": "node_second_afghan_war",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_stamford",
       "target": "node_sherlock_holmes",
       "relation": "introduces_to",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_stamford",
-      "_tgt": "node_sherlock_holmes",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_stamford",
       "target": "node_watson",
       "relation": "introduces_to",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_stamford",
-      "_tgt": "node_watson",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_sherlock_holmes",
       "target": "node_watson",
       "relation": "shares_lodgings_with",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_sherlock_holmes",
-      "_tgt": "node_watson",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_sherlock_holmes",
       "target": "node_baker_street",
       "relation": "resides_at",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_sherlock_holmes",
-      "_tgt": "node_baker_street",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_sherlock_holmes",
       "target": "node_haemoglobin_test",
       "relation": "invented",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_sherlock_holmes",
-      "_tgt": "node_haemoglobin_test",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_sherlock_holmes",
       "target": "node_deduction_method",
       "relation": "embodies",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_sherlock_holmes",
-      "_tgt": "node_deduction_method",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_adventures_sh",
       "target": "node_sherlock_holmes",
       "relation": "features_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_adventures_sh",
-      "_tgt": "node_sherlock_holmes",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_adventures_sh",
       "target": "node_watson",
       "relation": "features_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_adventures_sh",
-      "_tgt": "node_watson",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_adventures_sh",
       "target": "node_scandal_bohemia",
       "relation": "contains_story",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_adventures_sh",
-      "_tgt": "node_scandal_bohemia",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_adventures_sh",
       "target": "node_baker_street",
       "relation": "references_setting",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_adventures_sh",
-      "_tgt": "node_baker_street",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_adventures_sh",
       "target": "node_scarlet",
-      "relation": "precedes_chronologically",
+      "relation": "references_prior_work",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
       "attributes": {
-        "evidence": "Adventures references Study in Scarlet as past event"
-      },
-      "_src": "node_scarlet",
-      "_tgt": "node_adventures_sh",
-      "confidence_score": 1
+        "quote": "the dark incidents of the Study in Scarlet"
+      }
     },
     {
       "source": "node_scandal_bohemia",
       "target": "node_irene_adler",
       "relation": "centres_on",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_scandal_bohemia",
-      "_tgt": "node_irene_adler",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_scandal_bohemia",
       "target": "node_king_bohemia",
       "relation": "features_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_scandal_bohemia",
-      "_tgt": "node_king_bohemia",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_king_bohemia",
       "target": "node_sherlock_holmes",
       "relation": "hires",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_king_bohemia",
-      "_tgt": "node_sherlock_holmes",
-      "confidence_score": 1
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_irene_adler",
       "target": "node_sherlock_holmes",
       "relation": "intellectually_rivals",
       "confidence": "INFERRED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_irene_adler",
-      "_tgt": "node_sherlock_holmes",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_arsene_lupin",
       "target": "node_arsene_lupin_char",
       "relation": "features_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_arsene_lupin",
-      "_tgt": "node_arsene_lupin_char",
-      "confidence_score": 1
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_arsene_lupin",
       "target": "node_ganimard",
       "relation": "features_character",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_arsene_lupin",
-      "_tgt": "node_ganimard",
-      "confidence_score": 1
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_arsene_lupin",
       "target": "node_la_provence",
       "relation": "uses_setting",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_arsene_lupin",
-      "_tgt": "node_la_provence",
-      "confidence_score": 1
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_arsene_lupin_char",
       "target": "node_ganimard",
       "relation": "antagonises",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_arsene_lupin_char",
-      "_tgt": "node_ganimard",
-      "confidence_score": 1
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_arsene_lupin_char",
       "target": "node_gentleman_thief_archetype",
       "relation": "exemplifies",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_arsene_lupin_char",
-      "_tgt": "node_gentleman_thief_archetype",
-      "confidence_score": 1
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_arsene_lupin",
       "target": "node_sherlock_holmes",
       "relation": "references_character_as_foil",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "evidence": "Chapter IX: 'Sherlock Holmes Arrives Too Late'"
-      },
-      "_src": "node_arsene_lupin",
-      "_tgt": "node_sherlock_holmes",
-      "confidence_score": 1
+      }
     },
     {
       "source": "node_arsene_lupin",
       "target": "node_detective_fiction_genre",
       "relation": "belongs_to_genre",
       "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_arsene_lupin",
-      "_tgt": "node_detective_fiction_genre",
-      "confidence_score": 0.5
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_scarlet",
       "target": "node_detective_fiction_genre",
       "relation": "belongs_to_genre",
       "confidence": "INFERRED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_scarlet",
-      "_tgt": "node_detective_fiction_genre",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_adventures_sh",
       "target": "node_detective_fiction_genre",
       "relation": "belongs_to_genre",
       "confidence": "INFERRED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_adventures_sh",
-      "_tgt": "node_detective_fiction_genre",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
       "source": "node_deduction_method",
       "target": "node_detective_fiction_genre",
       "relation": "is_defining_concept_of",
       "confidence": "INFERRED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_deduction_method",
-      "_tgt": "node_detective_fiction_genre",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_haemoglobin_test",
       "target": "node_deduction_method",
       "relation": "supports",
       "confidence": "INFERRED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_haemoglobin_test",
-      "_tgt": "node_deduction_method",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_rationale_sh_crossover",
       "target": "node_arsene_lupin",
       "relation": "explains",
       "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_rationale_sh_crossover",
-      "_tgt": "node_arsene_lupin",
-      "confidence_score": 0.5
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_rationale_sh_crossover",
       "target": "node_adventures_sh",
       "relation": "contextualises",
       "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_rationale_sh_crossover",
-      "_tgt": "node_adventures_sh",
-      "confidence_score": 0.5
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "source": "node_rationale_watson_narrator",
       "target": "node_scarlet",
       "relation": "explains_narrative_choice_in",
       "confidence": "INFERRED",
-      "source_file": "corpus/a-study-in-scarlet.txt",
-      "_src": "node_rationale_watson_narrator",
-      "_tgt": "node_scarlet",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "source": "node_rationale_watson_narrator",
       "target": "node_adventures_sh",
       "relation": "explains_narrative_choice_in",
       "confidence": "INFERRED",
-      "source_file": "corpus/the-adventures-of-sherlock-holmes.txt",
-      "_src": "node_rationale_watson_narrator",
-      "_tgt": "node_adventures_sh",
-      "confidence_score": 0.5
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
+    },
+    {
+      "source": "node_scarlet",
+      "target": "node_adventures_sh",
+      "relation": "precedes_chronologically",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "attributes": {
+        "evidence": "Adventures references Study in Scarlet as past event"
+      }
     },
     {
       "source": "node_arsene_lupin_char",
       "target": "node_deduction_method",
       "relation": "subverts",
       "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
       "attributes": {
         "explanation": "Lupin's disguises and misdirection defeat detective reasoning, inverting the Holmes paradigm"
-      },
-      "_src": "node_arsene_lupin_char",
-      "_tgt": "node_deduction_method",
-      "confidence_score": 0.5
+      }
     },
     {
       "source": "node_gentleman_thief_archetype",
       "target": "node_detective_fiction_genre",
       "relation": "contrasts_with",
       "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt",
-      "_src": "node_gentleman_thief_archetype",
-      "_tgt": "node_detective_fiction_genre",
-      "confidence_score": 0.5
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     }
   ],
   "hyperedges": [
@@ -667,7 +514,7 @@
         "node_adventures_sh"
       ],
       "confidence": "EXTRACTED",
-      "source_file": "corpus/a-study-in-scarlet.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     },
     {
       "id": "hyper_detective_vs_thief",
@@ -686,7 +533,7 @@
         "node_arsene_lupin"
       ],
       "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin-gentleman-burglar.txt"
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
     },
     {
       "id": "hyper_victorian_crime_fiction",
@@ -702,7 +549,14 @@
         "node_detective_fiction_genre"
       ],
       "confidence": "INFERRED",
-      "source_file": "corpus/a-study-in-scarlet.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
     }
-  ]
+  ],
+  "canonical_entities": [],
+  "mentions": [],
+  "occurrences": [],
+  "evidence": [],
+  "mappings": [],
+  "input_tokens": 9800,
+  "output_tokens": 1420
 }

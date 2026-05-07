@@ -35,7 +35,7 @@ scripts/
 
 ## Public Graphify Demo
 
-A small committed Graphify demo is available in [examples/graphify-three-works](examples/graphify-three-works). It uses two Sherlock Holmes works and one Arsene Lupin work to exercise public ontology, reconciliation, and LLM-wiki UI scenarios.
+This repository commits a standard Graphify state in [.graphify](.graphify), generated from two Sherlock Holmes works and one Arsene Lupin work. The source selection and regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
 
 ## Commands
 

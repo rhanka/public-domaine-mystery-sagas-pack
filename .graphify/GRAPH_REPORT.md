@@ -29,15 +29,15 @@
 
 ## Surprising Connections (you probably didn't know these)
 - `Rationale: Sherlock Holmes appears in Lupin stories as foil` --contextualises--> `The Adventures of Sherlock Holmes`  [INFERRED]
-  corpus/arsene-lupin-gentleman-burglar.txt → corpus/the-adventures-of-sherlock-holmes.txt
+  corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt → corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt
 - `Gentleman Thief Archetype` --contrasts_with--> `Detective Fiction Genre`  [INFERRED]
-  corpus/arsene-lupin-gentleman-burglar.txt → corpus/a-study-in-scarlet.txt
+  corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt → corpus/sherlock-holmes/a-study-in-scarlet/text.txt
 - `Irene Adler` --intellectually_rivals--> `Sherlock Holmes`  [INFERRED]
-  corpus/the-adventures-of-sherlock-holmes.txt → corpus/a-study-in-scarlet.txt
+  corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt → corpus/sherlock-holmes/a-study-in-scarlet/text.txt
 - `The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar` --belongs_to_genre--> `Detective Fiction Genre`  [INFERRED]
-  corpus/arsene-lupin-gentleman-burglar.txt → corpus/a-study-in-scarlet.txt
+  corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt → corpus/sherlock-holmes/a-study-in-scarlet/text.txt
 - `Rationale: Watson as unreliable/partial narrator` --explains_narrative_choice_in--> `The Adventures of Sherlock Holmes`  [INFERRED]
-  corpus/a-study-in-scarlet.txt → corpus/the-adventures-of-sherlock-holmes.txt
+  corpus/sherlock-holmes/a-study-in-scarlet/text.txt → corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt
 
 ## Hyperedges (group relationships)
 - **Holmes–Watson Investigative Partnership** —  [EXTRACTED]

@@ -12,14 +12,14 @@ The selected source files are listed in [selection.json](selection.json).
 
 ## Generated Artifacts
 
-- [.graphify/GRAPH_REPORT.md](.graphify/GRAPH_REPORT.md) - human-readable graph audit report
-- [.graphify/graph.json](.graphify/graph.json) - Graphify graph export
-- [.graphify/graph.html](.graphify/graph.html) - standalone interactive visualization
+- [../../.graphify/GRAPH_REPORT.md](../../.graphify/GRAPH_REPORT.md) - human-readable graph audit report
+- [../../.graphify/graph.json](../../.graphify/graph.json) - Graphify graph export
+- [../../.graphify/graph.html](../../.graphify/graph.html) - standalone interactive visualization
 
 The generated graph has 20 nodes, 38 edges, and 3 reported communities. It intentionally keeps inferred edges visible so review and reconciliation flows have useful examples.
 
 ## Regeneration Notes
 
-The committed graph was generated with Graphify TypeScript 0.7.5 using the Anthropic direct backend. Runtime-local files such as absolute-path manifests and runtime config are intentionally not committed.
+The committed graph lives in the repository-standard `.graphify/` directory and was generated with Graphify TypeScript 0.7.5 using the Anthropic direct backend. Runtime-local files such as absolute-path manifests and runtime config are intentionally not committed.
 
-A clean regeneration should copy or select the three listed source files, run Graphify with `--all`, then commit only portable artifacts.
+A clean regeneration should select the three listed source files, run Graphify with `--all`, and commit only portable `.graphify/` artifacts.

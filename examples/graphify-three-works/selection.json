@@ -26,8 +26,8 @@
   "graph": {
     "nodes": 20,
     "edges": 38,
-    "report": ".graphify/GRAPH_REPORT.md",
-    "json": ".graphify/graph.json",
-    "html": ".graphify/graph.html"
+    "report": "../../.graphify/GRAPH_REPORT.md",
+    "json": "../../.graphify/graph.json",
+    "html": "../../.graphify/graph.html"
   }
 }
