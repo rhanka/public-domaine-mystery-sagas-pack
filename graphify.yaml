@@ -1,0 +1,35 @@
+version: 1
+
+# Project-owned Graphify configuration for the three-work ontology UAT.
+# Profile mode is strictly opt-in: this file activates configured-profile
+# behavior. The committed `.graphify/` demo at the repo root is generated
+# in the default non-profile mode and stays untouched by these settings
+# (write_html / write_wiki kept off).
+
+profile:
+  path: graphify/ontology-profile.yaml
+
+inputs:
+  # Three-work UAT scope: A Study in Scarlet, The Adventures of Sherlock
+  # Holmes, and The Extraordinary Adventures of Arsene Lupin. Each path
+  # is a leaf directory containing text.txt + metadata.json.
+  corpus:
+    - corpus/sherlock-holmes/a-study-in-scarlet
+    - corpus/sherlock-holmes/the-adventures-of-sherlock-holmes
+    - corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar
+  scope: all
+
+dataprep:
+  citation_minimum: section
+  preserve_source_structure: true
+
+outputs:
+  state_dir: .graphify
+  write_html: false
+  write_wiki: false
+  write_profile_report: true
+  ontology:
+    enabled: true
+    reconciliation:
+      decisions_path: graphify/reconciliation/decisions.jsonl
+      audit_log_path: .graphify/ontology/reconciliation/applied-patches.jsonl

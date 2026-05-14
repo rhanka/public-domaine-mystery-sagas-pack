@@ -1,0 +1,165 @@
+id: public-domain-mystery-uat
+version: 1
+default_language: en
+
+node_types:
+  Character:
+    aliases: [person, detective, suspect, adversary]
+    source_backed: true
+    status_policy: hardenable
+  Alias:
+    aliases: [name variant, disguise]
+    source_backed: true
+  Work:
+    aliases: [book, collection]
+    source_backed: true
+  ChapterOrStory:
+    aliases: [chapter, short story]
+    source_backed: true
+  Case:
+    aliases: [mystery, investigation]
+    source_backed: true
+    status_policy: hardenable
+  Event:
+    source_backed: true
+  Location:
+    source_backed: true
+  Object:
+    source_backed: true
+  Evidence:
+    source_backed: true
+  Organization:
+    source_backed: true
+  NarrativeRole:
+    aliases: [narrator, viewpoint]
+    source_backed: true
+
+relation_types:
+  appears_in:
+    source: [Character, Alias, NarrativeRole]
+    target: [Work, ChapterOrStory]
+    requires_evidence: true
+  alias_of:
+    source: Alias
+    target: Character
+    requires_evidence: true
+  narrates:
+    source: [Character, NarrativeRole]
+    target: [Work, ChapterOrStory]
+    requires_evidence: true
+  investigates:
+    source: Character
+    target: Case
+    requires_evidence: true
+  assists:
+    source: Character
+    target: Character
+    requires_evidence: true
+  commits:
+    source: Character
+    target: [Case, Event]
+    requires_evidence: true
+  suspected_of:
+    source: Character
+    target: Case
+    requires_evidence: true
+  located_in:
+    source: [Case, Event, Organization]
+    target: Location
+    requires_evidence: true
+  contains_evidence:
+    source: Case
+    target: [Evidence, Object]
+    requires_evidence: true
+  mentions:
+    source: [Work, ChapterOrStory, Case]
+    target: [Character, Alias, Location, Object, Evidence]
+    requires_evidence: true
+  opposes:
+    source: Character
+    target: Character
+    requires_evidence: true
+  same_as:
+    source: [Character, Work, Location]
+    target: [Character, Work, Location]
+    requires_evidence: true
+
+citation_policy:
+  minimum_granularity: section
+  require_source_file: true
+  allow_bbox: when_available
+
+hardening:
+  statuses: [candidate, needs_review, validated, rejected, deprecated]
+  default_status: candidate
+  promotion_requires:
+    - source_citation
+    - allowed_relation_type
+  status_transitions:
+    - from: candidate
+      to: needs_review
+    - from: candidate
+      to: validated
+      requires: [source_citation]
+    - from: candidate
+      to: rejected
+    - from: needs_review
+      to: validated
+      requires: [source_citation]
+    - from: needs_review
+      to: rejected
+    - from: validated
+      to: deprecated
+
+inference_policy:
+  allow_inferred_relations: true
+  allowed_relation_types: [appears_in, mentions, same_as]
+  require_evidence_refs: true
+
+evidence_policy:
+  require_evidence_refs: true
+  min_refs: 1
+  relation_types:
+    - appears_in
+    - alias_of
+    - narrates
+    - investigates
+    - assists
+    - commits
+    - suspected_of
+    - located_in
+    - contains_evidence
+    - mentions
+    - opposes
+    - same_as
+
+outputs:
+  ontology:
+    enabled: true
+    canonical_node_types:
+      - Character
+      - Work
+      - ChapterOrStory
+      - Case
+      - Event
+      - Location
+      - Object
+      - Evidence
+      - Organization
+      - NarrativeRole
+    relation_exports:
+      - appears_in
+      - alias_of
+      - narrates
+      - investigates
+      - assists
+      - commits
+      - suspected_of
+      - located_in
+      - contains_evidence
+      - mentions
+      - opposes
+      - same_as
+    wiki:
+      enabled: true
+      page_node_types: [Character, Work, ChapterOrStory, Case, Location]

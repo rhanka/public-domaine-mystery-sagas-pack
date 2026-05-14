@@ -5,3 +5,25 @@ coverage/
 .env
 .env.*
 *.log
+
+# Graphify runtime-local state (never commit)
+.graphify/needs_update
+.graphify/branch.json
+.graphify/worktree.json
+.graphify/cache/
+.graphify/transcripts/
+.graphify/converted/
+.graphify/profile/profile-state.json
+.graphify/profile/ontology-profile.normalized.json
+.graphify/profile/project-config.normalized.json
+.graphify/profile/semantic-detection.json
+.graphify/profile/registry-extraction.json
+.graphify/profile/registries/
+.graphify/ontology/reconciliation/applied-patches.jsonl
+.graphify/.graphify_runtime*
+.graphify/.graphify_node
+.graphify/.graphify_pdf_ocr.json
+.graphify/.graphify_transcripts.json
+.graphify/.graphify_detect_semantic.json
+.graphify/.graphify_extract.json
+.graphify/.graphify_ast.json
