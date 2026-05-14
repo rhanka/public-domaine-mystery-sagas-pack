@@ -20,6 +20,8 @@ coverage/
 .graphify/profile/registry-extraction.json
 .graphify/profile/registries/
 .graphify/ontology/reconciliation/applied-patches.jsonl
+.graphify/ontology/
+.graphify/scratch/
 .graphify/.graphify_runtime*
 .graphify/.graphify_node
 .graphify/.graphify_pdf_ocr.json
