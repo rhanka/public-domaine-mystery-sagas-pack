@@ -1,10 +1,9 @@
 # Graphify Ontology UAT (project-owned)
 
 This directory holds **project-owned** ontology configuration consumed by
-[`graphify.yaml`](../graphify.yaml). It is intentionally separate from the
-default non-profile demo committed under [`.graphify/`](../.graphify) at
-the repo root: that demo is a Graphify run output, while everything here
-is authoritative source the user maintains.
+[`graphify.yaml`](../graphify.yaml). The committed [`.graphify/`](../.graphify)
+directory is the generated documentary UAT export; everything under this
+directory remains the authoritative source the user maintains.
 
 ## Files
 

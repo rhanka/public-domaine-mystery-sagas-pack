@@ -1,562 +1,1464 @@
 {
   "nodes": [
     {
-      "id": "node_scarlet",
+      "id": "work_study_in_scarlet",
       "label": "A Study in Scarlet",
+      "type": "Work",
       "file_type": "document",
       "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "author": "A. Conan Doyle",
-        "narrator": "John H. Watson, M.D.",
-        "parts": 2,
-        "setting_era": "1878 onwards"
-      }
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#work"
+      ]
     },
     {
-      "id": "node_adventures_sh",
+      "id": "work_adventures_sherlock_holmes",
       "label": "The Adventures of Sherlock Holmes",
+      "type": "Work",
       "file_type": "document",
       "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-      "attributes": {
-        "author": "Arthur Conan Doyle",
-        "stories": 12
-      }
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#work"
+      ]
     },
     {
-      "id": "node_arsene_lupin",
-      "label": "The Extraordinary Adventures of Arsène Lupin, Gentleman-burglar",
+      "id": "work_extraordinary_arsene_lupin",
+      "label": "The Extraordinary Adventures of Arsene Lupin",
+      "type": "Work",
       "file_type": "document",
       "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "author": "Maurice Leblanc",
-        "translator": "George Morehead",
-        "stories": 9
-      }
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#work"
+      ]
     },
     {
-      "id": "node_sherlock_holmes",
+      "id": "story_scandal_bohemia",
+      "label": "A Scandal in Bohemia",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "story",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "story"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
+      ]
+    },
+    {
+      "id": "story_red_headed_league",
+      "label": "The Red-Headed League",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "story",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "story"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
+      ]
+    },
+    {
+      "id": "story_blue_carbuncle",
+      "label": "The Blue Carbuncle",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "story",
+      "confidence": "EXTRACTED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "story"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
+      ]
+    },
+    {
+      "id": "story_arrest_lupin",
+      "label": "The Arrest of Arsene Lupin",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "story",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "story"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#story"
+      ]
+    },
+    {
+      "id": "story_sherlock_holmes_too_late",
+      "label": "Sherlock Holmes Arrives Too Late",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "story",
+      "confidence": "EXTRACTED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "story"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#story"
+      ]
+    },
+    {
+      "id": "case_lauriston_gardens",
+      "label": "Lauriston Gardens murders",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
+    },
+    {
+      "id": "case_bohemia_photograph",
+      "label": "Bohemia photograph case",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "A Scandal in Bohemia",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "A Scandal in Bohemia"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
+      ]
+    },
+    {
+      "id": "case_red_headed_league",
+      "label": "Red-Headed League bank plot",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "The Red-Headed League",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "The Red-Headed League"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
+      ]
+    },
+    {
+      "id": "case_lupin_transatlantic",
+      "label": "Transatlantic Lupin arrest",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "The Arrest of Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "The Arrest of Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
+      ]
+    },
+    {
+      "id": "case_queen_necklace",
+      "label": "Queen's Necklace affair",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "The Queen's Necklace",
+      "confidence": "EXTRACTED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "The Queen's Necklace"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-queen's-necklace"
+      ]
+    },
+    {
+      "id": "character_sherlock_holmes",
       "label": "Sherlock Holmes",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "occupation": "consulting detective",
-        "residence": "221B Baker Street",
-        "traits": [
-          "analytical",
-          "scientific",
-          "eccentric",
-          "violin player"
-        ]
-      }
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "aliases": [
+        "Mr. Holmes"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
     },
     {
-      "id": "node_watson",
+      "id": "character_dr_watson",
       "label": "Dr. John H. Watson",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "background": "Army Medical Department",
-        "conflict": "Second Afghan War",
-        "injury": "Jezail bullet wound, enteric fever"
-      }
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "aliases": [
+        "Watson",
+        "John H. Watson"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
     },
     {
-      "id": "node_baker_street",
-      "label": "221B Baker Street",
-      "file_type": "concept",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "significance": "shared lodgings of Holmes and Watson"
-      }
-    },
-    {
-      "id": "node_deduction_method",
-      "label": "Holmes's Method of Deduction and Observation",
-      "file_type": "concept",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "description": "Systematic inference from physical clues; distinguishing seeing from observing",
-        "example": "Deducing Watson's Afghan service on first meeting"
-      }
-    },
-    {
-      "id": "node_haemoglobin_test",
-      "label": "Haemoglobin Blood-Stain Reagent Test",
-      "file_type": "concept",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "inventor_fictional": "Sherlock Holmes",
-        "significance": "medico-legal detection of blood stains",
-        "supersedes": "Guiacum test"
-      }
-    },
-    {
-      "id": "node_stamford",
+      "id": "character_stamford",
       "label": "Young Stamford",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "role": "intermediary who introduces Watson to Holmes"
-      }
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
     },
     {
-      "id": "node_arsene_lupin_char",
-      "label": "Arsène Lupin",
+      "id": "character_jefferson_hope",
+      "label": "Jefferson Hope",
+      "type": "Character",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "alias": "gentleman-burglar",
-        "traits": [
-          "master of disguise",
-          "operates in châteaux and salons",
-          "humorous",
-          "dilettante"
-        ],
-        "adversary": "Ganimard"
-      }
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 2",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 2"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
+      ]
     },
     {
-      "id": "node_ganimard",
-      "label": "Ganimard",
+      "id": "character_enoch_drebber",
+      "label": "Enoch Drebber",
+      "type": "Character",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "role": "French detective, personal enemy of Arsène Lupin"
-      }
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
     },
     {
-      "id": "node_la_provence",
-      "label": "SS La Provence (transatlantic voyage setting)",
+      "id": "character_joseph_stangerson",
+      "label": "Joseph Stangerson",
+      "type": "Character",
       "file_type": "concept",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "significance": "confined setting for Lupin's crimes and identity mystery"
-      }
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
     },
     {
-      "id": "node_irene_adler",
+      "id": "character_irene_adler",
       "label": "Irene Adler",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-      "attributes": {
-        "description": "The woman; opera singer, adventuress",
-        "born": "New Jersey, 1858",
-        "significance": "Only woman Holmes regards as intellectual equal"
-      }
+      "source_location": "A Scandal in Bohemia",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "A Scandal in Bohemia"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
+      ]
     },
     {
-      "id": "node_king_bohemia",
-      "label": "Wilhelm Gottsreich Sigismond von Ormstein, King of Bohemia",
+      "id": "character_king_bohemia",
+      "label": "King of Bohemia",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-      "attributes": {
-        "alias": "Count Von Kramm",
-        "case": "A Scandal in Bohemia"
-      }
+      "source_location": "A Scandal in Bohemia",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "A Scandal in Bohemia"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
+      ]
     },
     {
-      "id": "node_scandal_bohemia",
-      "label": "A Scandal in Bohemia (story)",
+      "id": "character_jabez_wilson",
+      "label": "Jabez Wilson",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-      "attributes": {
-        "collection": "The Adventures of Sherlock Holmes",
-        "key_theme": "compromising photograph, royal blackmail"
-      }
+      "source_location": "The Red-Headed League",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "The Red-Headed League"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
+      ]
     },
     {
-      "id": "node_detective_fiction_genre",
-      "label": "Detective Fiction Genre",
+      "id": "character_john_clay",
+      "label": "John Clay",
+      "type": "Character",
       "file_type": "concept",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "description": "Literary genre centred on crime investigation and logical deduction"
-      }
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "The Red-Headed League",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "The Red-Headed League"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
+      ]
     },
     {
-      "id": "node_gentleman_thief_archetype",
-      "label": "Gentleman Thief Archetype",
+      "id": "character_arsene_lupin",
+      "label": "Arsene Lupin",
+      "type": "Character",
       "file_type": "concept",
       "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "description": "Charming, aristocratic criminal who operates with style and wit"
-      }
+      "source_location": "collection",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "collection"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#collection"
+      ]
     },
     {
-      "id": "node_rationale_sh_crossover",
-      "label": "Rationale: Sherlock Holmes appears in Lupin stories as foil",
-      "file_type": "rationale",
+      "id": "character_ganimard",
+      "label": "Ganimard",
+      "type": "Character",
+      "file_type": "concept",
       "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "explanation": "Chapter IX title 'Sherlock Holmes Arrives Too Late' signals deliberate intertextual rivalry between the two iconic detective/thief figures across French and English literary traditions"
-      }
+      "source_location": "The Arrest of Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "The Arrest of Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
+      ]
     },
     {
-      "id": "node_rationale_watson_narrator",
-      "label": "Rationale: Watson as unreliable/partial narrator",
+      "id": "character_herlock_sholmes",
+      "label": "Herlock Sholmes",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "Sherlock Holmes Arrives Too Late",
+      "confidence": "EXTRACTED",
+      "status": "candidate",
+      "aliases": [
+        "Sherlock Holmes parody figure"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "Sherlock Holmes Arrives Too Late"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#sherlock-holmes-arrives-too-late"
+      ]
+    },
+    {
+      "id": "role_watson_narrator",
+      "label": "Watson narrator role",
+      "type": "NarrativeRole",
       "file_type": "rationale",
       "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "explanation": "Both A Study in Scarlet and Adventures frame events through Watson's perspective, limiting omniscience and humanising Holmes"
-      }
+      "source_location": "opening frame",
+      "confidence": "INFERRED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "opening frame"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#opening-frame"
+      ]
     },
     {
-      "id": "node_second_afghan_war",
-      "label": "Second Afghan War (historical context)",
+      "id": "location_221b_baker_street",
+      "label": "221B Baker Street",
+      "type": "Location",
       "file_type": "concept",
       "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-      "attributes": {
-        "period": "1878–1880",
-        "relevance": "Provides Watson's backstory and injury"
-      }
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
+    },
+    {
+      "id": "location_lauriston_gardens",
+      "label": "Lauriston Gardens",
+      "type": "Location",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
+    },
+    {
+      "id": "location_london",
+      "label": "London",
+      "type": "Location",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 1",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 1"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
+      ]
+    },
+    {
+      "id": "location_ss_la_provence",
+      "label": "SS La Provence",
+      "type": "Location",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "The Arrest of Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "The Arrest of Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
+      ]
+    },
+    {
+      "id": "evidence_blood_reagent",
+      "label": "Holmes blood-stain reagent",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "laboratory scene",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "laboratory scene"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#laboratory-scene"
+      ]
+    },
+    {
+      "id": "object_wedding_ring",
+      "label": "Wedding ring clue",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "case evidence",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case evidence"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case-evidence"
+      ]
+    },
+    {
+      "id": "object_bohemia_photograph",
+      "label": "Irene Adler photograph",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "A Scandal in Bohemia",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "A Scandal in Bohemia"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
+      ]
+    },
+    {
+      "id": "object_red_headed_ad",
+      "label": "Red-Headed League advertisement",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "The Red-Headed League",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "The Red-Headed League"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
+      ]
+    },
+    {
+      "id": "object_queens_necklace",
+      "label": "Queen's Necklace",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "The Queen's Necklace",
+      "confidence": "EXTRACTED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "The Queen's Necklace"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-queen's-necklace"
+      ]
+    },
+    {
+      "id": "organization_red_headed_league",
+      "label": "Red-Headed League",
+      "type": "Organization",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_location": "The Red-Headed League",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "The Red-Headed League"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
+      ]
+    },
+    {
+      "id": "event_hope_revenge",
+      "label": "Jefferson Hope revenge",
+      "type": "Event",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "source_location": "part 2",
+      "confidence": "INFERRED",
+      "status": "candidate",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part 2"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
+      ]
+    },
+    {
+      "id": "event_lupin_arrest",
+      "label": "Lupin arrest aboard La Provence",
+      "type": "Event",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_location": "The Arrest of Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "The Arrest of Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
+      ]
     }
   ],
   "edges": [
     {
-      "source": "node_scarlet",
-      "target": "node_sherlock_holmes",
-      "relation": "introduces_character",
+      "source": "character_sherlock_holmes",
+      "target": "work_study_in_scarlet",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part1"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part1"
+        }
+      ]
     },
     {
-      "source": "node_scarlet",
-      "target": "node_watson",
-      "relation": "introduces_character",
+      "source": "character_dr_watson",
+      "target": "work_study_in_scarlet",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part1"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part1"
+        }
+      ]
     },
     {
-      "source": "node_scarlet",
-      "target": "node_baker_street",
-      "relation": "establishes_setting",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source": "role_watson_narrator",
+      "target": "work_study_in_scarlet",
+      "relation": "narrates",
+      "confidence": "INFERRED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#opening"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "opening"
+        }
+      ]
     },
     {
-      "source": "node_scarlet",
-      "target": "node_haemoglobin_test",
-      "relation": "features_concept",
+      "source": "character_stamford",
+      "target": "work_study_in_scarlet",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part1"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part1"
+        }
+      ]
     },
     {
-      "source": "node_scarlet",
-      "target": "node_deduction_method",
-      "relation": "features_concept",
+      "source": "character_jefferson_hope",
+      "target": "work_study_in_scarlet",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part2"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part2"
+        }
+      ]
     },
     {
-      "source": "node_watson",
-      "target": "node_second_afghan_war",
-      "relation": "experienced",
+      "source": "character_enoch_drebber",
+      "target": "work_study_in_scarlet",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part1"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part1"
+        }
+      ]
     },
     {
-      "source": "node_stamford",
-      "target": "node_sherlock_holmes",
-      "relation": "introduces_to",
+      "source": "character_joseph_stangerson",
+      "target": "work_study_in_scarlet",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part1"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part1"
+        }
+      ]
     },
     {
-      "source": "node_stamford",
-      "target": "node_watson",
-      "relation": "introduces_to",
+      "source": "character_sherlock_holmes",
+      "target": "case_lauriston_gardens",
+      "relation": "investigates",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case"
+        }
+      ]
     },
     {
-      "source": "node_sherlock_holmes",
-      "target": "node_watson",
-      "relation": "shares_lodgings_with",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source": "character_dr_watson",
+      "target": "character_sherlock_holmes",
+      "relation": "assists",
+      "confidence": "INFERRED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case"
+        }
+      ]
     },
     {
-      "source": "node_sherlock_holmes",
-      "target": "node_baker_street",
-      "relation": "resides_at",
+      "source": "character_jefferson_hope",
+      "target": "case_lauriston_gardens",
+      "relation": "commits",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#confession"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "confession"
+        }
+      ]
     },
     {
-      "source": "node_sherlock_holmes",
-      "target": "node_haemoglobin_test",
-      "relation": "invented",
+      "source": "case_lauriston_gardens",
+      "target": "location_lauriston_gardens",
+      "relation": "located_in",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case"
+        }
+      ]
     },
     {
-      "source": "node_sherlock_holmes",
-      "target": "node_deduction_method",
-      "relation": "embodies",
+      "source": "case_lauriston_gardens",
+      "target": "object_wedding_ring",
+      "relation": "contains_evidence",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case"
+        }
+      ]
     },
     {
-      "source": "node_adventures_sh",
-      "target": "node_sherlock_holmes",
-      "relation": "features_character",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
+      "source": "case_lauriston_gardens",
+      "target": "evidence_blood_reagent",
+      "relation": "contains_evidence",
+      "confidence": "INFERRED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#laboratory"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "laboratory"
+        }
+      ]
     },
     {
-      "source": "node_adventures_sh",
-      "target": "node_watson",
-      "relation": "features_character",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
+      "source": "event_hope_revenge",
+      "target": "location_lauriston_gardens",
+      "relation": "located_in",
+      "confidence": "INFERRED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part2"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "part2"
+        }
+      ]
     },
     {
-      "source": "node_adventures_sh",
-      "target": "node_scandal_bohemia",
-      "relation": "contains_story",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_adventures_sh",
-      "target": "node_baker_street",
-      "relation": "references_setting",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_adventures_sh",
-      "target": "node_scarlet",
-      "relation": "references_prior_work",
+      "source": "story_scandal_bohemia",
+      "target": "character_sherlock_holmes",
+      "relation": "mentions",
       "confidence": "EXTRACTED",
       "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-      "attributes": {
-        "quote": "the dark incidents of the Study in Scarlet"
-      }
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
     },
     {
-      "source": "node_scandal_bohemia",
-      "target": "node_irene_adler",
-      "relation": "centres_on",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_scandal_bohemia",
-      "target": "node_king_bohemia",
-      "relation": "features_character",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_king_bohemia",
-      "target": "node_sherlock_holmes",
-      "relation": "hires",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_irene_adler",
-      "target": "node_sherlock_holmes",
-      "relation": "intellectually_rivals",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_arsene_lupin",
-      "target": "node_arsene_lupin_char",
-      "relation": "features_character",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_arsene_lupin",
-      "target": "node_ganimard",
-      "relation": "features_character",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_arsene_lupin",
-      "target": "node_la_provence",
-      "relation": "uses_setting",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_arsene_lupin_char",
-      "target": "node_ganimard",
-      "relation": "antagonises",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_arsene_lupin_char",
-      "target": "node_gentleman_thief_archetype",
-      "relation": "exemplifies",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_arsene_lupin",
-      "target": "node_sherlock_holmes",
-      "relation": "references_character_as_foil",
-      "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "evidence": "Chapter IX: 'Sherlock Holmes Arrives Too Late'"
-      }
-    },
-    {
-      "source": "node_arsene_lupin",
-      "target": "node_detective_fiction_genre",
-      "relation": "belongs_to_genre",
-      "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_scarlet",
-      "target": "node_detective_fiction_genre",
-      "relation": "belongs_to_genre",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
-    },
-    {
-      "source": "node_adventures_sh",
-      "target": "node_detective_fiction_genre",
-      "relation": "belongs_to_genre",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_deduction_method",
-      "target": "node_detective_fiction_genre",
-      "relation": "is_defining_concept_of",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
-    },
-    {
-      "source": "node_haemoglobin_test",
-      "target": "node_deduction_method",
-      "relation": "supports",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
-    },
-    {
-      "source": "node_rationale_sh_crossover",
-      "target": "node_arsene_lupin",
-      "relation": "explains",
-      "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_rationale_sh_crossover",
-      "target": "node_adventures_sh",
-      "relation": "contextualises",
-      "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    },
-    {
-      "source": "node_rationale_watson_narrator",
-      "target": "node_scarlet",
-      "relation": "explains_narrative_choice_in",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
-    },
-    {
-      "source": "node_rationale_watson_narrator",
-      "target": "node_adventures_sh",
-      "relation": "explains_narrative_choice_in",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
-    },
-    {
-      "source": "node_scarlet",
-      "target": "node_adventures_sh",
-      "relation": "precedes_chronologically",
+      "source": "character_irene_adler",
+      "target": "story_scandal_bohemia",
+      "relation": "appears_in",
       "confidence": "EXTRACTED",
       "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-      "attributes": {
-        "evidence": "Adventures references Study in Scarlet as past event"
-      }
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
     },
     {
-      "source": "node_arsene_lupin_char",
-      "target": "node_deduction_method",
-      "relation": "subverts",
+      "source": "character_king_bohemia",
+      "target": "story_scandal_bohemia",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "case_bohemia_photograph",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
+    },
+    {
+      "source": "character_irene_adler",
+      "target": "character_king_bohemia",
+      "relation": "opposes",
+      "confidence": "INFERRED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
+    },
+    {
+      "source": "case_bohemia_photograph",
+      "target": "object_bohemia_photograph",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
+    },
+    {
+      "source": "story_red_headed_league",
+      "target": "character_jabez_wilson",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#red-headed-league"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "red-headed-league"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "case_red_headed_league",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#red-headed-league"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "red-headed-league"
+        }
+      ]
+    },
+    {
+      "source": "character_john_clay",
+      "target": "case_red_headed_league",
+      "relation": "commits",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#red-headed-league"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "red-headed-league"
+        }
+      ]
+    },
+    {
+      "source": "case_red_headed_league",
+      "target": "object_red_headed_ad",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#red-headed-league"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "red-headed-league"
+        }
+      ]
+    },
+    {
+      "source": "case_red_headed_league",
+      "target": "organization_red_headed_league",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#red-headed-league"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "red-headed-league"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "work_extraordinary_arsene_lupin",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#collection"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "collection"
+        }
+      ]
+    },
+    {
+      "source": "character_ganimard",
+      "target": "story_arrest_lupin",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#arrest"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "arrest"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "case_lupin_transatlantic",
+      "relation": "suspected_of",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#arrest"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "arrest"
+        }
+      ]
+    },
+    {
+      "source": "character_ganimard",
+      "target": "case_lupin_transatlantic",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#arrest"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "arrest"
+        }
+      ]
+    },
+    {
+      "source": "event_lupin_arrest",
+      "target": "location_ss_la_provence",
+      "relation": "located_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#arrest"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "arrest"
+        }
+      ]
+    },
+    {
+      "source": "case_lupin_transatlantic",
+      "target": "location_ss_la_provence",
+      "relation": "located_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#arrest"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "arrest"
+        }
+      ]
+    },
+    {
+      "source": "story_sherlock_holmes_too_late",
+      "target": "character_herlock_sholmes",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#sholmes"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "sholmes"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "character_herlock_sholmes",
+      "relation": "opposes",
       "confidence": "INFERRED",
       "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-      "attributes": {
-        "explanation": "Lupin's disguises and misdirection defeat detective reasoning, inverting the Holmes paradigm"
-      }
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#sholmes"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "sholmes"
+        }
+      ]
     },
     {
-      "source": "node_gentleman_thief_archetype",
-      "target": "node_detective_fiction_genre",
-      "relation": "contrasts_with",
-      "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
-    }
-  ],
-  "hyperedges": [
-    {
-      "id": "hyper_holmes_watson_partnership",
-      "label": "Holmes–Watson Investigative Partnership",
-      "members": [
-        "node_sherlock_holmes",
-        "node_watson",
-        "node_baker_street",
-        "node_deduction_method"
-      ],
-      "relation": "constitutes_core_dynamic_of",
-      "targets": [
-        "node_scarlet",
-        "node_adventures_sh"
-      ],
+      "source": "case_queen_necklace",
+      "target": "object_queens_necklace",
+      "relation": "contains_evidence",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#queen-necklace"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "queen-necklace"
+        }
+      ]
     },
     {
-      "id": "hyper_detective_vs_thief",
-      "label": "Detective vs. Thief Intertextual Rivalry",
-      "members": [
-        "node_sherlock_holmes",
-        "node_arsene_lupin_char",
-        "node_ganimard",
-        "node_deduction_method",
-        "node_gentleman_thief_archetype"
+      "source": "work_extraordinary_arsene_lupin",
+      "target": "object_queens_necklace",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#queen-necklace"
       ],
-      "relation": "defines_cross_corpus_thematic_tension",
-      "targets": [
-        "node_scarlet",
-        "node_adventures_sh",
-        "node_arsene_lupin"
-      ],
-      "confidence": "INFERRED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "queen-necklace"
+        }
+      ]
     },
     {
-      "id": "hyper_victorian_crime_fiction",
-      "label": "Victorian/Edwardian Crime Fiction Corpus",
-      "members": [
-        "node_scarlet",
-        "node_adventures_sh",
-        "node_arsene_lupin",
-        "node_detective_fiction_genre"
+      "source": "work_adventures_sherlock_holmes",
+      "target": "story_scandal_bohemia",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#contents"
       ],
-      "relation": "forms_shared_genre_corpus",
-      "targets": [
-        "node_detective_fiction_genre"
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "contents"
+        }
+      ]
+    },
+    {
+      "source": "work_adventures_sherlock_holmes",
+      "target": "story_red_headed_league",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#contents"
       ],
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "contents"
+        }
+      ]
+    },
+    {
+      "source": "work_adventures_sherlock_holmes",
+      "target": "story_blue_carbuncle",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#contents"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "contents"
+        }
+      ]
+    },
+    {
+      "source": "work_extraordinary_arsene_lupin",
+      "target": "story_arrest_lupin",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#contents"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "contents"
+        }
+      ]
+    },
+    {
+      "source": "work_extraordinary_arsene_lupin",
+      "target": "story_sherlock_holmes_too_late",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#contents"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "contents"
+        }
+      ]
+    },
+    {
+      "source": "case_lauriston_gardens",
+      "target": "character_enoch_drebber",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case"
+        }
+      ]
+    },
+    {
+      "source": "case_lauriston_gardens",
+      "target": "character_joseph_stangerson",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+          "section": "case"
+        }
+      ]
+    },
+    {
+      "source": "case_bohemia_photograph",
+      "target": "character_irene_adler",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#scandal"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+          "section": "scandal"
+        }
+      ]
+    },
+    {
+      "source": "case_lupin_transatlantic",
+      "target": "character_arsene_lupin",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#arrest"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+          "section": "arrest"
+        }
+      ]
     }
   ],
-  "canonical_entities": [],
-  "mentions": [],
-  "occurrences": [],
-  "evidence": [],
-  "mappings": [],
-  "input_tokens": 9800,
-  "output_tokens": 1420
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
 }

@@ -33,9 +33,11 @@ scripts/
   check-corpus.ts
 ```
 
-## Public Graphify Demo
+## Public Graphify UAT Pack
 
-This repository commits a standard Graphify state in [.graphify](.graphify), generated from two Sherlock Holmes works and one Arsene Lupin work. The source selection and regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
+This repository commits a documentary Graphify UAT export in [.graphify](.graphify), generated from two Sherlock Holmes works and one Arsene Lupin work. The export is corpus-only: TypeScript source, scripts, and tests are excluded from the committed graph surface.
+
+The committed visualization contains 39 nodes, 43 edges, and 11 named communities. It is backed by the project-owned ontology configuration in [graphify](graphify), and the source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
 
 ## Commands
 

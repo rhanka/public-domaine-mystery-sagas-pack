@@ -61,7 +61,7 @@ cat > "$PATCH_PATH" <<EOF
     "source_id": "character_dr_watson",
     "target_id": "character_sherlock_holmes"
   },
-  "evidence_refs": ["corpus/sherlock-holmes/a-study-in-scarlet/text.txt#ch1"],
+  "evidence_refs": ["corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part 1"],
   "reason": "Watson assists Holmes throughout A Study in Scarlet.",
   "author": "preuat",
   "created_at": "2026-05-14T00:00:00.000Z"
