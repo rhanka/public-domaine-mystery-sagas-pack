@@ -10,7 +10,10 @@ directory remains the authoritative source the user maintains.
 - `ontology-profile.yaml` — node types, relation types, status policy,
   evidence policy, inference policy and ontology output settings for the
   three-work mystery UAT (`A Study in Scarlet`, `The Adventures of
-  Sherlock Holmes`, `Arsene Lupin, Gentleman-burglar`).
+  Sherlock Holmes`, `Arsene Lupin, Gentleman-burglar`). The current
+  profile also models pack metadata (`Saga`, `Author`, optional
+  `Translator`) plus structural `part_of` links so the documentary graph
+  is less shallow without widening the corpus scope.
 - `reconciliation/decisions.jsonl` — append-only authoritative decision
   log. Starts empty; every applied `graphify_ontology_patch_v1` is
   appended here through `graphify ontology patch apply --write`.
@@ -19,6 +22,7 @@ directory remains the authoritative source the user maintains.
 
 ```bash
 cd ../public-domaine-mystery-sagas-pack
+npm run graphify:deepen
 graphify profile validate --config graphify.yaml
 graphify profile dataprep --config graphify.yaml --all
 graphify profile ontology-output \
@@ -46,3 +50,6 @@ graphify ontology studio --config graphify.yaml --port 38917
   through `graphify ontology patch apply` so validation and audit are
   enforced.
 - This UAT must remain generic configuration, not Graphify built-ins.
+- `npm run graphify:deepen` only enriches the checked-in semantic
+  extraction. It does not widen the selected texts or re-include
+  repository code.

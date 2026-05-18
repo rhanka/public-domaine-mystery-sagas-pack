@@ -35,9 +35,9 @@ scripts/
 
 ## Public Graphify UAT Pack
 
-This repository commits a documentary Graphify UAT export in [.graphify](.graphify), generated from two Sherlock Holmes works and one Arsene Lupin work. The export is corpus-only: TypeScript source, scripts, and tests are excluded from the committed graph surface.
+This repository commits a documentary Graphify UAT export in [.graphify](.graphify), generated from two Sherlock Holmes works and one Arsene Lupin work. The export is corpus-only: TypeScript source, scripts, and tests are excluded from the committed graph surface, while pack-owned metadata adds a light saga/author layer and explicit narrative containment links.
 
-The committed visualization contains 39 nodes, 43 edges, and 11 named communities. It is backed by the project-owned ontology configuration in [graphify](graphify), and the source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
+The committed visualization contains 43 nodes, 65 edges, and 7 named communities. It is backed by the project-owned ontology configuration in [graphify](graphify), and the source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
 
 ## Commands
 

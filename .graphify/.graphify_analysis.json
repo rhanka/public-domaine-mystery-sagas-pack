@@ -1,92 +1,96 @@
 {
   "communities": {
     "0": [
-      "case_bohemia_photograph",
+      "author_arthur-conan-doyle",
       "case_red_headed_league",
-      "character_dr_watson",
-      "character_john_clay",
-      "character_sherlock_holmes",
-      "object_bohemia_photograph",
-      "object_red_headed_ad",
-      "organization_red_headed_league"
-    ],
-    "1": [
-      "character_irene_adler",
       "character_jabez_wilson",
-      "character_king_bohemia",
+      "character_john_clay",
+      "object_red_headed_ad",
+      "organization_red_headed_league",
+      "saga_sherlock-holmes",
       "story_blue_carbuncle",
       "story_red_headed_league",
-      "story_scandal_bohemia",
       "work_adventures_sherlock_holmes"
     ],
-    "2": [
-      "character_enoch_drebber",
-      "character_jefferson_hope",
-      "character_stamford",
-      "role_watson_narrator",
-      "work_study_in_scarlet"
-    ],
-    "3": [
-      "case_lauriston_gardens",
-      "character_joseph_stangerson",
-      "evidence_blood_reagent",
-      "object_wedding_ring"
-    ],
-    "4": [
+    "1": [
+      "author_maurice-leblanc",
+      "case_queen_necklace",
       "character_arsene_lupin",
       "character_herlock_sholmes",
+      "object_queens_necklace",
+      "saga_arsene-lupin",
       "story_sherlock_holmes_too_late",
       "work_extraordinary_arsene_lupin"
     ],
+    "2": [
+      "case_bohemia_photograph",
+      "character_dr_watson",
+      "character_irene_adler",
+      "character_king_bohemia",
+      "character_sherlock_holmes",
+      "object_bohemia_photograph",
+      "story_scandal_bohemia"
+    ],
+    "3": [
+      "character_joseph_stangerson",
+      "character_stamford",
+      "location_221b_baker_street",
+      "location_london",
+      "role_watson_narrator",
+      "work_study_in_scarlet"
+    ],
+    "4": [
+      "case_lauriston_gardens",
+      "character_enoch_drebber",
+      "character_jefferson_hope",
+      "evidence_blood_reagent",
+      "object_wedding_ring"
+    ],
     "5": [
       "case_lupin_transatlantic",
-      "event_lupin_arrest",
-      "location_ss_la_provence"
-    ],
-    "6": [
-      "case_queen_necklace",
-      "object_queens_necklace"
-    ],
-    "7": [
       "character_ganimard",
+      "event_lupin_arrest",
+      "location_ss_la_provence",
       "story_arrest_lupin"
     ],
-    "8": [
+    "6": [
       "event_hope_revenge",
       "location_lauriston_gardens"
-    ],
-    "9": [
-      "location_221b_baker_street"
-    ],
-    "10": [
-      "location_london"
     ]
   },
   "cohesion": {
-    "0": 0.25,
-    "1": 0.33,
-    "2": 0.4,
-    "3": 0.5,
-    "4": 0.67,
-    "5": 0.67,
-    "6": 1,
-    "7": 1,
-    "8": 1,
-    "9": 1,
-    "10": 1
+    "0": 0.24,
+    "1": 0.32,
+    "2": 0.48,
+    "3": 0.33,
+    "4": 0.4,
+    "5": 0.7,
+    "6": 1
   },
   "gods": [
     {
       "id": "work_study_in_scarlet",
       "label": "A Study in Scarlet",
-      "edges": 7,
-      "degree": 7
+      "edges": 16,
+      "degree": 16
     },
     {
       "id": "case_lauriston_gardens",
       "label": "Lauriston Gardens murders",
+      "edges": 8,
+      "degree": 8
+    },
+    {
+      "id": "work_extraordinary_arsene_lupin",
+      "label": "The Extraordinary Adventures of Arsene Lupin",
       "edges": 7,
       "degree": 7
+    },
+    {
+      "id": "story_scandal_bohemia",
+      "label": "A Scandal in Bohemia",
+      "edges": 6,
+      "degree": 6
     },
     {
       "id": "character_sherlock_holmes",
@@ -95,70 +99,58 @@
       "degree": 6
     },
     {
-      "id": "work_extraordinary_arsene_lupin",
-      "label": "The Extraordinary Adventures of Arsene Lupin",
-      "edges": 4,
-      "degree": 4
+      "id": "work_adventures_sherlock_holmes",
+      "label": "The Adventures of Sherlock Holmes",
+      "edges": 5,
+      "degree": 5
     },
     {
-      "id": "story_scandal_bohemia",
-      "label": "A Scandal in Bohemia",
-      "edges": 4,
-      "degree": 4
+      "id": "story_red_headed_league",
+      "label": "The Red-Headed League",
+      "edges": 5,
+      "degree": 5
+    },
+    {
+      "id": "story_arrest_lupin",
+      "label": "The Arrest of Arsene Lupin",
+      "edges": 5,
+      "degree": 5
     },
     {
       "id": "case_red_headed_league",
       "label": "Red-Headed League bank plot",
-      "edges": 4,
-      "degree": 4
-    },
-    {
-      "id": "work_adventures_sherlock_holmes",
-      "label": "The Adventures of Sherlock Holmes",
-      "edges": 3,
-      "degree": 3
+      "edges": 5,
+      "degree": 5
     },
     {
       "id": "case_bohemia_photograph",
       "label": "Bohemia photograph case",
-      "edges": 3,
-      "degree": 3
-    },
-    {
-      "id": "case_lupin_transatlantic",
-      "label": "Transatlantic Lupin arrest",
-      "edges": 3,
-      "degree": 3
-    },
-    {
-      "id": "character_irene_adler",
-      "label": "Irene Adler",
-      "edges": 3,
-      "degree": 3
+      "edges": 4,
+      "degree": 4
     }
   ],
   "surprises": [
     {
-      "source": "A Scandal in Bohemia",
-      "target": "Sherlock Holmes",
-      "source_files": [
-        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
-      ],
-      "confidence": "EXTRACTED",
-      "relation": "mentions",
-      "why": "bridges separate communities"
-    },
-    {
-      "source": "Sherlock Holmes",
-      "target": "Bohemia photograph case",
+      "source": "A Study in Scarlet",
+      "target": "Sherlock Holmes saga",
       "source_files": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json"
       ],
       "confidence": "EXTRACTED",
-      "relation": "investigates",
-      "why": "cross-file semantic connection"
+      "relation": "belongs_to_saga",
+      "why": "bridges separate communities; peripheral node `Sherlock Holmes saga` unexpectedly reaches hub `A Study in Scarlet`"
+    },
+    {
+      "source": "A Study in Scarlet",
+      "target": "Arthur Conan Doyle",
+      "source_files": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "written_by",
+      "why": "bridges separate communities; peripheral node `Arthur Conan Doyle` unexpectedly reaches hub `A Study in Scarlet`"
     },
     {
       "source": "Sherlock Holmes",
@@ -169,42 +161,60 @@
       ],
       "confidence": "EXTRACTED",
       "relation": "investigates",
-      "why": "cross-file semantic connection"
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "The Adventures of Sherlock Holmes",
+      "target": "Sherlock Holmes saga",
+      "source_files": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "belongs_to_saga",
+      "why": "peripheral node `Sherlock Holmes saga` unexpectedly reaches hub `The Adventures of Sherlock Holmes`"
+    },
+    {
+      "source": "The Adventures of Sherlock Holmes",
+      "target": "Arthur Conan Doyle",
+      "source_files": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "written_by",
+      "why": "peripheral node `Arthur Conan Doyle` unexpectedly reaches hub `The Adventures of Sherlock Holmes`"
     }
   ],
   "labels": {
-    "0": "Holmes investigations and evidence",
-    "1": "Sherlock Holmes story cycle",
-    "2": "A Study in Scarlet cast and narration",
-    "3": "Lauriston Gardens evidence chain",
-    "4": "Arsene Lupin and Sholmes rivalry",
+    "0": "Sherlock Holmes anthology and Red-Headed League",
+    "1": "Arsene Lupin anthology and rivalry",
+    "2": "Bohemia case and Holmes cast",
+    "3": "A Study in Scarlet framing and home base",
+    "4": "Lauriston Gardens evidence chain",
     "5": "La Provence arrest sequence",
-    "6": "Queen's Necklace affair",
-    "7": "Ganimard pursuit of Lupin",
-    "8": "Lauriston Gardens revenge setting",
-    "9": "221B Baker Street home base",
-    "10": "London setting"
+    "6": "Lauriston Gardens revenge setting"
   },
   "questions": [
     {
       "type": "bridge_node",
-      "question": "Why does `Sherlock Holmes` connect `Holmes investigations and evidence` to `A Study in Scarlet cast and narration`, `Lauriston Gardens evidence chain`, `Sherlock Holmes story cycle`?",
-      "why": "High betweenness centrality (0.293) - this node is a cross-community bridge."
+      "question": "Why does `A Study in Scarlet` connect `A Study in Scarlet framing and home base` to `Bohemia case and Holmes cast`, `Lauriston Gardens evidence chain`, `Sherlock Holmes anthology and Red-Headed League`, `Lauriston Gardens revenge setting`?",
+      "why": "High betweenness centrality (0.253) - this node is a cross-community bridge."
     },
     {
       "type": "bridge_node",
-      "question": "Why does `Lauriston Gardens murders` connect `Lauriston Gardens evidence chain` to `Holmes investigations and evidence`, `A Study in Scarlet cast and narration`, `Lauriston Gardens revenge setting`?",
-      "why": "High betweenness centrality (0.159) - this node is a cross-community bridge."
+      "question": "Why does `Sherlock Holmes` connect `Bohemia case and Holmes cast` to `A Study in Scarlet framing and home base`, `Lauriston Gardens evidence chain`, `Sherlock Holmes anthology and Red-Headed League`?",
+      "why": "High betweenness centrality (0.189) - this node is a cross-community bridge."
     },
     {
       "type": "bridge_node",
-      "question": "Why does `A Scandal in Bohemia` connect `Sherlock Holmes story cycle` to `Holmes investigations and evidence`?",
-      "why": "High betweenness centrality (0.156) - this node is a cross-community bridge."
+      "question": "Why does `Red-Headed League bank plot` connect `Sherlock Holmes anthology and Red-Headed League` to `Bohemia case and Holmes cast`?",
+      "why": "High betweenness centrality (0.095) - this node is a cross-community bridge."
     },
     {
       "type": "isolated_nodes",
-      "question": "What connects `The Blue Carbuncle`, `Queen's Necklace affair`, `Young Stamford` to the rest of the system?",
-      "why": "15 weakly-connected nodes found - possible documentation gaps or missing edges."
+      "question": "What connects `The Blue Carbuncle`, `Young Stamford`, `Jabez Wilson` to the rest of the system?",
+      "why": "9 weakly-connected nodes found - possible documentation gaps or missing edges."
     }
   ]
 }

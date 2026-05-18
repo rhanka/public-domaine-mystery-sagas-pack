@@ -1,10 +1,10 @@
 {
   "requested_mode": "all",
   "resolved_mode": "all",
-  "source": "cli",
+  "source": "configured-default",
   "root": ".",
   "git_root": "..",
-  "head": "fdde846fe28b56b5c6f7804c622264f4a339949c",
+  "head": "6eb6c9ecb1d9a6c4c212e956a8b6ad0740725e25",
   "candidate_count": null,
   "included_count": 26,
   "excluded_untracked_count": 0,
