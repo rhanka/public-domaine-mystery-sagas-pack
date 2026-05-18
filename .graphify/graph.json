@@ -3,21 +3,17 @@
   "multigraph": false,
   "graph": {
     "community_labels": {
-      "0": "Holmes investigations and evidence",
-      "1": "Sherlock Holmes story cycle",
-      "2": "A Study in Scarlet cast and narration",
-      "3": "Lauriston Gardens evidence chain",
-      "4": "Arsene Lupin and Sholmes rivalry",
+      "0": "Sherlock Holmes anthology and Red-Headed League",
+      "1": "Arsene Lupin anthology and rivalry",
+      "2": "Bohemia case and Holmes cast",
+      "3": "A Study in Scarlet framing and home base",
+      "4": "Lauriston Gardens evidence chain",
       "5": "La Provence arrest sequence",
-      "6": "Queen's Necklace affair",
-      "7": "Ganimard pursuit of Lupin",
-      "8": "Lauriston Gardens revenge setting",
-      "9": "221B Baker Street home base",
-      "10": "London setting"
+      "6": "Lauriston Gardens revenge setting"
     },
-    "built_from_commit": "fdde846fe28b56b5c6f7804c622264f4a339949c"
+    "built_from_commit": "6eb6c9ecb1d9a6c4c212e956a8b6ad0740725e25"
   },
-  "topology_signature": "n=39;e=43;case_bohemia_photograph,case_lauriston_gardens,case_lupin_transatlantic,case_queen_necklace,case_red_headed_league,character_arsene_lupin,character_dr_watson,character_enoch_drebber,character_ganimard,character_herlock_sholmes,character_irene_adler,character_jabez_wilson,character_jefferson_hope,character_john_clay,character_joseph_stangerson,character_king_bohemia,character_sherlock_holmes,character_stamford,event_hope_revenge,event_lupin_arrest,evidence_blood_reagent,location_221b_baker_street,location_lauriston_gardens,location_london,location_ss_la_provence,object_bohemia_photograph,object_queens_necklace,object_red_headed_ad,object_wedding_ring,organization_red_headed_league,role_watson_narrator,story_arrest_lupin,story_blue_carbuncle,story_red_headed_league,story_scandal_bohemia,story_sherlock_holmes_too_late,work_adventures_sherlock_holmes,work_extraordinary_arsene_lupin,work_study_in_scarlet|case_bohemia_photograph\tcharacter_irene_adler\tmentions;case_bohemia_photograph\tcharacter_sherlock_holmes\tinvestigates;case_bohemia_photograph\tobject_bohemia_photograph\tcontains_evidence;case_lauriston_gardens\tcharacter_enoch_drebber\tmentions;case_lauriston_gardens\tcharacter_jefferson_hope\tcommits;case_lauriston_gardens\tcharacter_joseph_stangerson\tmentions;case_lauriston_gardens\tcharacter_sherlock_holmes\tinvestigates;case_lauriston_gardens\tevidence_blood_reagent\tcontains_evidence;case_lauriston_gardens\tlocation_lauriston_gardens\tlocated_in;case_lauriston_gardens\tobject_wedding_ring\tcontains_evidence;case_lupin_transatlantic\tcharacter_arsene_lupin\tmentions;case_lupin_transatlantic\tcharacter_ganimard\tinvestigates;case_lupin_transatlantic\tlocation_ss_la_provence\tlocated_in;case_queen_necklace\tobject_queens_necklace\tcontains_evidence;case_red_headed_league\tcharacter_john_clay\tcommits;case_red_headed_league\tcharacter_sherlock_holmes\tinvestigates;case_red_headed_league\tobject_red_headed_ad\tcontains_evidence;case_red_headed_league\torganization_red_headed_league\tmentions;character_arsene_lupin\tcharacter_herlock_sholmes\topposes;character_arsene_lupin\twork_extraordinary_arsene_lupin\tappears_in;character_dr_watson\tcharacter_sherlock_holmes\tassists;character_dr_watson\twork_study_in_scarlet\tappears_in;character_enoch_drebber\twork_study_in_scarlet\tappears_in;character_ganimard\tstory_arrest_lupin\tappears_in;character_herlock_sholmes\tstory_sherlock_holmes_too_late\tmentions;character_irene_adler\tcharacter_king_bohemia\topposes;character_irene_adler\tstory_scandal_bohemia\tappears_in;character_jabez_wilson\tstory_red_headed_league\tmentions;character_jefferson_hope\twork_study_in_scarlet\tappears_in;character_joseph_stangerson\twork_study_in_scarlet\tappears_in;character_king_bohemia\tstory_scandal_bohemia\tappears_in;character_sherlock_holmes\tstory_scandal_bohemia\tmentions;character_sherlock_holmes\twork_study_in_scarlet\tappears_in;character_stamford\twork_study_in_scarlet\tappears_in;event_hope_revenge\tlocation_lauriston_gardens\tlocated_in;event_lupin_arrest\tlocation_ss_la_provence\tlocated_in;object_queens_necklace\twork_extraordinary_arsene_lupin\tmentions;role_watson_narrator\twork_study_in_scarlet\tnarrates;story_arrest_lupin\twork_extraordinary_arsene_lupin\tmentions;story_blue_carbuncle\twork_adventures_sherlock_holmes\tmentions;story_red_headed_league\twork_adventures_sherlock_holmes\tmentions;story_scandal_bohemia\twork_adventures_sherlock_holmes\tmentions;story_sherlock_holmes_too_late\twork_extraordinary_arsene_lupin\tmentions",
+  "topology_signature": "n=43;e=65;author_arthur-conan-doyle,author_maurice-leblanc,case_bohemia_photograph,case_lauriston_gardens,case_lupin_transatlantic,case_queen_necklace,case_red_headed_league,character_arsene_lupin,character_dr_watson,character_enoch_drebber,character_ganimard,character_herlock_sholmes,character_irene_adler,character_jabez_wilson,character_jefferson_hope,character_john_clay,character_joseph_stangerson,character_king_bohemia,character_sherlock_holmes,character_stamford,event_hope_revenge,event_lupin_arrest,evidence_blood_reagent,location_221b_baker_street,location_lauriston_gardens,location_london,location_ss_la_provence,object_bohemia_photograph,object_queens_necklace,object_red_headed_ad,object_wedding_ring,organization_red_headed_league,role_watson_narrator,saga_arsene-lupin,saga_sherlock-holmes,story_arrest_lupin,story_blue_carbuncle,story_red_headed_league,story_scandal_bohemia,story_sherlock_holmes_too_late,work_adventures_sherlock_holmes,work_extraordinary_arsene_lupin,work_study_in_scarlet|author_arthur-conan-doyle\twork_adventures_sherlock_holmes\twritten_by;author_arthur-conan-doyle\twork_study_in_scarlet\twritten_by;author_maurice-leblanc\twork_extraordinary_arsene_lupin\twritten_by;case_bohemia_photograph\tcharacter_irene_adler\tmentions;case_bohemia_photograph\tcharacter_sherlock_holmes\tinvestigates;case_bohemia_photograph\tobject_bohemia_photograph\tcontains_evidence;case_bohemia_photograph\tstory_scandal_bohemia\tpart_of;case_lauriston_gardens\tcharacter_enoch_drebber\tmentions;case_lauriston_gardens\tcharacter_jefferson_hope\tcommits;case_lauriston_gardens\tcharacter_joseph_stangerson\tmentions;case_lauriston_gardens\tcharacter_sherlock_holmes\tinvestigates;case_lauriston_gardens\tevidence_blood_reagent\tcontains_evidence;case_lauriston_gardens\tlocation_lauriston_gardens\tlocated_in;case_lauriston_gardens\tobject_wedding_ring\tcontains_evidence;case_lauriston_gardens\twork_study_in_scarlet\tpart_of;case_lupin_transatlantic\tcharacter_arsene_lupin\tmentions;case_lupin_transatlantic\tcharacter_ganimard\tinvestigates;case_lupin_transatlantic\tlocation_ss_la_provence\tlocated_in;case_lupin_transatlantic\tstory_arrest_lupin\tpart_of;case_queen_necklace\tobject_queens_necklace\tcontains_evidence;case_queen_necklace\twork_extraordinary_arsene_lupin\tpart_of;case_red_headed_league\tcharacter_john_clay\tcommits;case_red_headed_league\tcharacter_sherlock_holmes\tinvestigates;case_red_headed_league\tobject_red_headed_ad\tcontains_evidence;case_red_headed_league\torganization_red_headed_league\tmentions;case_red_headed_league\tstory_red_headed_league\tpart_of;character_arsene_lupin\tcharacter_herlock_sholmes\topposes;character_arsene_lupin\twork_extraordinary_arsene_lupin\tappears_in;character_dr_watson\tcharacter_sherlock_holmes\tassists;character_dr_watson\twork_study_in_scarlet\tappears_in;character_enoch_drebber\twork_study_in_scarlet\tappears_in;character_ganimard\tstory_arrest_lupin\tappears_in;character_herlock_sholmes\tstory_sherlock_holmes_too_late\tmentions;character_irene_adler\tcharacter_king_bohemia\topposes;character_irene_adler\tstory_scandal_bohemia\tappears_in;character_jabez_wilson\tstory_red_headed_league\tmentions;character_jefferson_hope\twork_study_in_scarlet\tappears_in;character_joseph_stangerson\twork_study_in_scarlet\tappears_in;character_king_bohemia\tstory_scandal_bohemia\tappears_in;character_sherlock_holmes\tstory_scandal_bohemia\tmentions;character_sherlock_holmes\twork_study_in_scarlet\tappears_in;character_stamford\twork_study_in_scarlet\tappears_in;event_hope_revenge\tlocation_lauriston_gardens\tlocated_in;event_hope_revenge\twork_study_in_scarlet\tpart_of;event_lupin_arrest\tlocation_ss_la_provence\tlocated_in;event_lupin_arrest\tstory_arrest_lupin\tpart_of;evidence_blood_reagent\twork_study_in_scarlet\tpart_of;location_221b_baker_street\twork_study_in_scarlet\tpart_of;location_lauriston_gardens\twork_study_in_scarlet\tpart_of;location_london\twork_study_in_scarlet\tpart_of;location_ss_la_provence\tstory_arrest_lupin\tpart_of;object_bohemia_photograph\tstory_scandal_bohemia\tpart_of;object_queens_necklace\twork_extraordinary_arsene_lupin\tpart_of;object_red_headed_ad\tstory_red_headed_league\tpart_of;object_wedding_ring\twork_study_in_scarlet\tpart_of;organization_red_headed_league\tstory_red_headed_league\tpart_of;role_watson_narrator\twork_study_in_scarlet\tpart_of;saga_arsene-lupin\twork_extraordinary_arsene_lupin\tbelongs_to_saga;saga_sherlock-holmes\twork_adventures_sherlock_holmes\tbelongs_to_saga;saga_sherlock-holmes\twork_study_in_scarlet\tbelongs_to_saga;story_arrest_lupin\twork_extraordinary_arsene_lupin\tpart_of;story_blue_carbuncle\twork_adventures_sherlock_holmes\tpart_of;story_red_headed_league\twork_adventures_sherlock_holmes\tpart_of;story_scandal_bohemia\twork_adventures_sherlock_holmes\tpart_of;story_sherlock_holmes_too_late\twork_extraordinary_arsene_lupin\tpart_of",
   "nodes": [
     {
       "id": "work_study_in_scarlet",
@@ -37,8 +33,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#work"
       ],
-      "community": 2,
-      "community_name": "A Study in Scarlet cast and narration"
+      "community": 3,
+      "community_name": "A Study in Scarlet framing and home base"
     },
     {
       "id": "work_adventures_sherlock_holmes",
@@ -58,8 +54,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#work"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 0,
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "work_extraordinary_arsene_lupin",
@@ -79,8 +75,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#work"
       ],
-      "community": 4,
-      "community_name": "Arsene Lupin and Sholmes rivalry"
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     },
     {
       "id": "story_scandal_bohemia",
@@ -100,8 +96,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "story_red_headed_league",
@@ -121,8 +117,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 0,
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "story_blue_carbuncle",
@@ -142,8 +138,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 0,
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "story_arrest_lupin",
@@ -163,8 +159,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#story"
       ],
-      "community": 7,
-      "community_name": "Ganimard pursuit of Lupin"
+      "community": 5,
+      "community_name": "La Provence arrest sequence"
     },
     {
       "id": "story_sherlock_holmes_too_late",
@@ -184,8 +180,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#story"
       ],
-      "community": 4,
-      "community_name": "Arsene Lupin and Sholmes rivalry"
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     },
     {
       "id": "case_lauriston_gardens",
@@ -205,7 +201,7 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 3,
+      "community": 4,
       "community_name": "Lauriston Gardens evidence chain"
     },
     {
@@ -226,8 +222,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
-      "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "case_red_headed_league",
@@ -248,7 +244,7 @@
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "case_lupin_transatlantic",
@@ -289,8 +285,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-queen's-necklace"
       ],
-      "community": 6,
-      "community_name": "Queen's Necklace affair"
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     },
     {
       "id": "character_sherlock_holmes",
@@ -313,8 +309,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "character_dr_watson",
@@ -338,8 +334,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "character_stamford",
@@ -359,8 +355,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 2,
-      "community_name": "A Study in Scarlet cast and narration"
+      "community": 3,
+      "community_name": "A Study in Scarlet framing and home base"
     },
     {
       "id": "character_jefferson_hope",
@@ -380,8 +376,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
-      "community": 2,
-      "community_name": "A Study in Scarlet cast and narration"
+      "community": 4,
+      "community_name": "Lauriston Gardens evidence chain"
     },
     {
       "id": "character_enoch_drebber",
@@ -401,8 +397,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 2,
-      "community_name": "A Study in Scarlet cast and narration"
+      "community": 4,
+      "community_name": "Lauriston Gardens evidence chain"
     },
     {
       "id": "character_joseph_stangerson",
@@ -423,7 +419,7 @@
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "community": 3,
-      "community_name": "Lauriston Gardens evidence chain"
+      "community_name": "A Study in Scarlet framing and home base"
     },
     {
       "id": "character_irene_adler",
@@ -443,8 +439,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "character_king_bohemia",
@@ -464,8 +460,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "character_jabez_wilson",
@@ -485,8 +481,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
-      "community": 1,
-      "community_name": "Sherlock Holmes story cycle"
+      "community": 0,
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "character_john_clay",
@@ -507,7 +503,7 @@
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "character_arsene_lupin",
@@ -527,8 +523,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#collection"
       ],
-      "community": 4,
-      "community_name": "Arsene Lupin and Sholmes rivalry"
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     },
     {
       "id": "character_ganimard",
@@ -548,8 +544,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
-      "community": 7,
-      "community_name": "Ganimard pursuit of Lupin"
+      "community": 5,
+      "community_name": "La Provence arrest sequence"
     },
     {
       "id": "character_herlock_sholmes",
@@ -572,8 +568,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#sherlock-holmes-arrives-too-late"
       ],
-      "community": 4,
-      "community_name": "Arsene Lupin and Sholmes rivalry"
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     },
     {
       "id": "role_watson_narrator",
@@ -593,8 +589,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#opening-frame"
       ],
-      "community": 2,
-      "community_name": "A Study in Scarlet cast and narration"
+      "community": 3,
+      "community_name": "A Study in Scarlet framing and home base"
     },
     {
       "id": "location_221b_baker_street",
@@ -614,8 +610,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 9,
-      "community_name": "221B Baker Street home base"
+      "community": 3,
+      "community_name": "A Study in Scarlet framing and home base"
     },
     {
       "id": "location_lauriston_gardens",
@@ -635,7 +631,7 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 8,
+      "community": 6,
       "community_name": "Lauriston Gardens revenge setting"
     },
     {
@@ -656,8 +652,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
-      "community": 10,
-      "community_name": "London setting"
+      "community": 3,
+      "community_name": "A Study in Scarlet framing and home base"
     },
     {
       "id": "location_ss_la_provence",
@@ -698,7 +694,7 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#laboratory-scene"
       ],
-      "community": 3,
+      "community": 4,
       "community_name": "Lauriston Gardens evidence chain"
     },
     {
@@ -719,7 +715,7 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case-evidence"
       ],
-      "community": 3,
+      "community": 4,
       "community_name": "Lauriston Gardens evidence chain"
     },
     {
@@ -740,8 +736,8 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
-      "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community": 2,
+      "community_name": "Bohemia case and Holmes cast"
     },
     {
       "id": "object_red_headed_ad",
@@ -762,7 +758,7 @@
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "object_queens_necklace",
@@ -782,8 +778,8 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-queen's-necklace"
       ],
-      "community": 6,
-      "community_name": "Queen's Necklace affair"
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     },
     {
       "id": "organization_red_headed_league",
@@ -804,7 +800,7 @@
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "community": 0,
-      "community_name": "Holmes investigations and evidence"
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
     },
     {
       "id": "event_hope_revenge",
@@ -824,7 +820,7 @@
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
-      "community": 8,
+      "community": 6,
       "community_name": "Lauriston Gardens revenge setting"
     },
     {
@@ -847,6 +843,90 @@
       ],
       "community": 5,
       "community_name": "La Provence arrest sequence"
+    },
+    {
+      "id": "saga_sherlock-holmes",
+      "label": "Sherlock Holmes saga",
+      "type": "Saga",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "community": 0,
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
+    },
+    {
+      "id": "author_arthur-conan-doyle",
+      "label": "Arthur Conan Doyle",
+      "type": "Author",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "community": 0,
+      "community_name": "Sherlock Holmes anthology and Red-Headed League"
+    },
+    {
+      "id": "saga_arsene-lupin",
+      "label": "Arsene Lupin saga",
+      "type": "Saga",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
+    },
+    {
+      "id": "author_maurice-leblanc",
+      "label": "Maurice Leblanc",
+      "type": "Author",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "community": 1,
+      "community_name": "Arsene Lupin anthology and rivalry"
     }
   ],
   "links": [
@@ -891,21 +971,21 @@
     {
       "source": "role_watson_narrator",
       "target": "work_study_in_scarlet",
-      "relation": "narrates",
-      "confidence": "INFERRED",
-      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+      "relation": "part_of",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
       "evidence_refs": [
-        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#opening"
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
-          "section": "opening"
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
         }
       ],
       "_src": "role_watson_narrator",
       "_tgt": "work_study_in_scarlet",
-      "confidence_score": 0.5
+      "confidence_score": 1
     },
     {
       "source": "character_stamford",
@@ -1499,115 +1579,115 @@
     {
       "source": "work_extraordinary_arsene_lupin",
       "target": "object_queens_necklace",
-      "relation": "mentions",
+      "relation": "part_of",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
       "evidence_refs": [
-        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#queen-necklace"
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-          "section": "queen-necklace"
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
         }
       ],
-      "_src": "work_extraordinary_arsene_lupin",
-      "_tgt": "object_queens_necklace",
+      "_src": "object_queens_necklace",
+      "_tgt": "work_extraordinary_arsene_lupin",
       "confidence_score": 1
     },
     {
       "source": "work_adventures_sherlock_holmes",
       "target": "story_scandal_bohemia",
-      "relation": "mentions",
+      "relation": "part_of",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
       "evidence_refs": [
-        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#contents"
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-          "section": "contents"
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
         }
       ],
-      "_src": "work_adventures_sherlock_holmes",
-      "_tgt": "story_scandal_bohemia",
+      "_src": "story_scandal_bohemia",
+      "_tgt": "work_adventures_sherlock_holmes",
       "confidence_score": 1
     },
     {
       "source": "work_adventures_sherlock_holmes",
       "target": "story_red_headed_league",
-      "relation": "mentions",
+      "relation": "part_of",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
       "evidence_refs": [
-        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#contents"
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-          "section": "contents"
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
         }
       ],
-      "_src": "work_adventures_sherlock_holmes",
-      "_tgt": "story_red_headed_league",
+      "_src": "story_red_headed_league",
+      "_tgt": "work_adventures_sherlock_holmes",
       "confidence_score": 1
     },
     {
       "source": "work_adventures_sherlock_holmes",
       "target": "story_blue_carbuncle",
-      "relation": "mentions",
+      "relation": "part_of",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
       "evidence_refs": [
-        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#contents"
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt",
-          "section": "contents"
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
         }
       ],
-      "_src": "work_adventures_sherlock_holmes",
-      "_tgt": "story_blue_carbuncle",
+      "_src": "story_blue_carbuncle",
+      "_tgt": "work_adventures_sherlock_holmes",
       "confidence_score": 1
     },
     {
       "source": "work_extraordinary_arsene_lupin",
       "target": "story_arrest_lupin",
-      "relation": "mentions",
+      "relation": "part_of",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
       "evidence_refs": [
-        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#contents"
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-          "section": "contents"
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
         }
       ],
-      "_src": "work_extraordinary_arsene_lupin",
-      "_tgt": "story_arrest_lupin",
+      "_src": "story_arrest_lupin",
+      "_tgt": "work_extraordinary_arsene_lupin",
       "confidence_score": 1
     },
     {
       "source": "work_extraordinary_arsene_lupin",
       "target": "story_sherlock_holmes_too_late",
-      "relation": "mentions",
+      "relation": "part_of",
       "confidence": "EXTRACTED",
-      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
       "evidence_refs": [
-        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#contents"
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
       ],
       "citations": [
         {
-          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
-          "section": "contents"
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
         }
       ],
-      "_src": "work_extraordinary_arsene_lupin",
-      "_tgt": "story_sherlock_holmes_too_late",
+      "_src": "story_sherlock_holmes_too_late",
+      "_tgt": "work_extraordinary_arsene_lupin",
       "confidence_score": 1
     },
     {
@@ -1665,6 +1745,424 @@
       ],
       "_src": "case_bohemia_photograph",
       "_tgt": "character_irene_adler",
+      "confidence_score": 1
+    },
+    {
+      "source": "work_study_in_scarlet",
+      "target": "saga_sherlock-holmes",
+      "relation": "belongs_to_saga",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "work_study_in_scarlet",
+      "_tgt": "saga_sherlock-holmes",
+      "confidence_score": 1
+    },
+    {
+      "source": "work_study_in_scarlet",
+      "target": "author_arthur-conan-doyle",
+      "relation": "written_by",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "work_study_in_scarlet",
+      "_tgt": "author_arthur-conan-doyle",
+      "confidence_score": 1
+    },
+    {
+      "source": "work_adventures_sherlock_holmes",
+      "target": "saga_sherlock-holmes",
+      "relation": "belongs_to_saga",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "work_adventures_sherlock_holmes",
+      "_tgt": "saga_sherlock-holmes",
+      "confidence_score": 1
+    },
+    {
+      "source": "work_adventures_sherlock_holmes",
+      "target": "author_arthur-conan-doyle",
+      "relation": "written_by",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "work_adventures_sherlock_holmes",
+      "_tgt": "author_arthur-conan-doyle",
+      "confidence_score": 1
+    },
+    {
+      "source": "work_extraordinary_arsene_lupin",
+      "target": "saga_arsene-lupin",
+      "relation": "belongs_to_saga",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "_src": "work_extraordinary_arsene_lupin",
+      "_tgt": "saga_arsene-lupin",
+      "confidence_score": 1
+    },
+    {
+      "source": "work_extraordinary_arsene_lupin",
+      "target": "author_maurice-leblanc",
+      "relation": "written_by",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "_src": "work_extraordinary_arsene_lupin",
+      "_tgt": "author_maurice-leblanc",
+      "confidence_score": 1
+    },
+    {
+      "source": "case_lauriston_gardens",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "case_lauriston_gardens",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "case_bohemia_photograph",
+      "target": "story_scandal_bohemia",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "case_bohemia_photograph",
+      "_tgt": "story_scandal_bohemia",
+      "confidence_score": 1
+    },
+    {
+      "source": "case_red_headed_league",
+      "target": "story_red_headed_league",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "case_red_headed_league",
+      "_tgt": "story_red_headed_league",
+      "confidence_score": 1
+    },
+    {
+      "source": "case_lupin_transatlantic",
+      "target": "story_arrest_lupin",
+      "relation": "part_of",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "_src": "case_lupin_transatlantic",
+      "_tgt": "story_arrest_lupin",
+      "confidence_score": 1
+    },
+    {
+      "source": "case_queen_necklace",
+      "target": "work_extraordinary_arsene_lupin",
+      "relation": "part_of",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "_src": "case_queen_necklace",
+      "_tgt": "work_extraordinary_arsene_lupin",
+      "confidence_score": 1
+    },
+    {
+      "source": "location_221b_baker_street",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "location_221b_baker_street",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "location_lauriston_gardens",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "location_lauriston_gardens",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "location_london",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "location_london",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "location_ss_la_provence",
+      "target": "story_arrest_lupin",
+      "relation": "part_of",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "_src": "location_ss_la_provence",
+      "_tgt": "story_arrest_lupin",
+      "confidence_score": 1
+    },
+    {
+      "source": "evidence_blood_reagent",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "evidence_blood_reagent",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "object_wedding_ring",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "object_wedding_ring",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "object_bohemia_photograph",
+      "target": "story_scandal_bohemia",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "object_bohemia_photograph",
+      "_tgt": "story_scandal_bohemia",
+      "confidence_score": 1
+    },
+    {
+      "source": "object_red_headed_ad",
+      "target": "story_red_headed_league",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "object_red_headed_ad",
+      "_tgt": "story_red_headed_league",
+      "confidence_score": 1
+    },
+    {
+      "source": "organization_red_headed_league",
+      "target": "story_red_headed_league",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ],
+      "_src": "organization_red_headed_league",
+      "_tgt": "story_red_headed_league",
+      "confidence_score": 1
+    },
+    {
+      "source": "event_hope_revenge",
+      "target": "work_study_in_scarlet",
+      "relation": "part_of",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ],
+      "_src": "event_hope_revenge",
+      "_tgt": "work_study_in_scarlet",
+      "confidence_score": 1
+    },
+    {
+      "source": "event_lupin_arrest",
+      "target": "story_arrest_lupin",
+      "relation": "part_of",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ],
+      "_src": "event_lupin_arrest",
+      "_tgt": "story_arrest_lupin",
       "confidence_score": 1
     }
   ],

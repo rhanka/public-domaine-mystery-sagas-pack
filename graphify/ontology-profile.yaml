@@ -13,6 +13,15 @@ node_types:
   Work:
     aliases: [book, collection]
     source_backed: true
+  Saga:
+    aliases: [series, cycle]
+    source_backed: true
+  Author:
+    aliases: [creator, writer]
+    source_backed: true
+  Translator:
+    aliases: [translator, edition translator]
+    source_backed: true
   ChapterOrStory:
     aliases: [chapter, short story]
     source_backed: true
@@ -42,6 +51,22 @@ relation_types:
   alias_of:
     source: Alias
     target: Character
+    requires_evidence: true
+  belongs_to_saga:
+    source: Work
+    target: Saga
+    requires_evidence: true
+  written_by:
+    source: Work
+    target: Author
+    requires_evidence: true
+  translated_by:
+    source: Work
+    target: Translator
+    requires_evidence: true
+  part_of:
+    source: [ChapterOrStory, Case, Event, Location, Object, Evidence, Organization, NarrativeRole]
+    target: [Work, ChapterOrStory]
     requires_evidence: true
   narrates:
     source: [Character, NarrativeRole]
@@ -139,6 +164,9 @@ outputs:
     canonical_node_types:
       - Character
       - Work
+      - Saga
+      - Author
+      - Translator
       - ChapterOrStory
       - Case
       - Event
@@ -150,6 +178,10 @@ outputs:
     relation_exports:
       - appears_in
       - alias_of
+      - belongs_to_saga
+      - written_by
+      - translated_by
+      - part_of
       - narrates
       - investigates
       - assists
@@ -162,4 +194,4 @@ outputs:
       - same_as
     wiki:
       enabled: true
-      page_node_types: [Character, Work, ChapterOrStory, Case, Location]
+      page_node_types: [Character, Work, Saga, Author, ChapterOrStory, Case, Location]

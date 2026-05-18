@@ -3,7 +3,7 @@
   "purpose": "Small public Graphify demo for ontology, reconciliation, and LLM-wiki UI mockups.",
   "generated_with": {
     "package": "graphifyy",
-    "version": "0.7.5",
+    "version": "0.9.2",
     "backend": "anthropic"
   },
   "source_corpus": [
@@ -24,8 +24,8 @@
     }
   ],
   "graph": {
-    "nodes": 20,
-    "edges": 38,
+    "nodes": 43,
+    "edges": 65,
     "report": "../../.graphify/GRAPH_REPORT.md",
     "json": "../../.graphify/graph.json",
     "html": "../../.graphify/graph.html"
