@@ -750,6 +750,82 @@
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ]
+    },
+    {
+      "id": "saga_sherlock-holmes",
+      "label": "Sherlock Holmes saga",
+      "type": "Saga",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "id": "author_arthur-conan-doyle",
+      "label": "Arthur Conan Doyle",
+      "type": "Author",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "id": "saga_arsene-lupin",
+      "label": "Arsene Lupin saga",
+      "type": "Saga",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "id": "author_maurice-leblanc",
+      "label": "Maurice Leblanc",
+      "type": "Author",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
     }
   ],
   "edges": [
@@ -1455,6 +1531,470 @@
           "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
           "section": "arrest"
         }
+      ]
+    },
+    {
+      "source": "work_study_in_scarlet",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_study_in_scarlet",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_adventures_sherlock_holmes",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_adventures_sherlock_holmes",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_extraordinary_arsene_lupin",
+      "relation": "belongs_to_saga",
+      "target": "saga_arsene-lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_extraordinary_arsene_lupin",
+      "relation": "written_by",
+      "target": "author_maurice-leblanc",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_scandal_bohemia",
+      "relation": "part_of",
+      "target": "work_adventures_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_red_headed_league",
+      "relation": "part_of",
+      "target": "work_adventures_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_blue_carbuncle",
+      "relation": "part_of",
+      "target": "work_adventures_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_arrest_lupin",
+      "relation": "part_of",
+      "target": "work_extraordinary_arsene_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_sherlock_holmes_too_late",
+      "relation": "part_of",
+      "target": "work_extraordinary_arsene_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_lauriston_gardens",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_bohemia_photograph",
+      "relation": "part_of",
+      "target": "story_scandal_bohemia",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_red_headed_league",
+      "relation": "part_of",
+      "target": "story_red_headed_league",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_lupin_transatlantic",
+      "relation": "part_of",
+      "target": "story_arrest_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_queen_necklace",
+      "relation": "part_of",
+      "target": "work_extraordinary_arsene_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "role_watson_narrator",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "location_221b_baker_street",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "location_lauriston_gardens",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "location_london",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "location_ss_la_provence",
+      "relation": "part_of",
+      "target": "story_arrest_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_blood_reagent",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_wedding_ring",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_bohemia_photograph",
+      "relation": "part_of",
+      "target": "story_scandal_bohemia",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_red_headed_ad",
+      "relation": "part_of",
+      "target": "story_red_headed_league",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_queens_necklace",
+      "relation": "part_of",
+      "target": "work_extraordinary_arsene_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "organization_red_headed_league",
+      "relation": "part_of",
+      "target": "story_red_headed_league",
+      "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "event_hope_revenge",
+      "relation": "part_of",
+      "target": "work_study_in_scarlet",
+      "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "event_lupin_arrest",
+      "relation": "part_of",
+      "target": "story_arrest_lupin",
+      "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
       ]
     }
   ],
