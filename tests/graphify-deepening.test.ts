@@ -140,4 +140,126 @@ describe("graphify documentary deepening", () => {
       )
     ).toBe(true)
   })
+
+  test("adds detailed fact, motive, method, crime and disguise ontology nodes", () => {
+    const graph = deepenDocumentarySemanticGraph(
+      {
+        nodes: [
+          {
+            id: "work_study_in_scarlet",
+            label: "A Study in Scarlet",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "case_lauriston_gardens",
+            label: "Lauriston Gardens murders",
+            type: "Case",
+            file_type: "concept",
+            source_file: "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+            source_location: "part 1",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_enoch_drebber",
+            label: "Enoch Drebber",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+            source_location: "part 1",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_jefferson_hope",
+            label: "Jefferson Hope",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+            source_location: "part 2",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "location_lauriston_gardens",
+            label: "Lauriston Gardens",
+            type: "Location",
+            file_type: "concept",
+            source_file: "corpus/sherlock-holmes/a-study-in-scarlet/text.txt",
+            source_location: "part 1",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "work_extraordinary_arsene_lupin",
+            label: "The Extraordinary Adventures of Arsene Lupin",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "case_lupin_transatlantic",
+            label: "Transatlantic Lupin arrest",
+            type: "Case",
+            file_type: "concept",
+            source_file: "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+            source_location: "The Arrest of Arsene Lupin",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_arsene_lupin",
+            label: "Arsene Lupin",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+            source_location: "collection",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "location_ss_la_provence",
+            label: "SS La Provence",
+            type: "Location",
+            file_type: "concept",
+            source_file: "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt",
+            source_location: "The Arrest of Arsene Lupin",
+            confidence: "EXTRACTED"
+          }
+        ],
+        edges: []
+      },
+      WORKS
+    )
+
+    expect(graph.nodes.some((node) => node.id === "crime_drebber_stangerson_murders" && node.type === "CrimeOrScheme")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "fact_drebber_found_dead" && node.type === "Fact")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "motive_jefferson_hope_revenge" && node.type === "Motive")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "method_blood_stain_reagent" && node.type === "ForensicMethod")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "disguise_bernard_dandrezy" && node.type === "DisguisePersona")).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "motive_jefferson_hope_revenge" &&
+          edge.relation === "motivates" &&
+          edge.target === "crime_drebber_stangerson_murders"
+      )
+    ).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "crime_transatlantic_jewel_theft" &&
+          edge.relation === "occurs_at" &&
+          edge.target === "location_ss_la_provence"
+      )
+    ).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "character_arsene_lupin" &&
+          edge.relation === "disguises_as" &&
+          edge.target === "disguise_bernard_dandrezy"
+      )
+    ).toBe(true)
+  })
 })

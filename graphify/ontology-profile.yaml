@@ -31,6 +31,22 @@ node_types:
     status_policy: hardenable
   Event:
     source_backed: true
+  Fact:
+    aliases: [documented fact, observation, case fact]
+    source_backed: true
+  CrimeOrScheme:
+    aliases: [crime, plot, scheme, fraud, theft]
+    source_backed: true
+    status_policy: hardenable
+  Motive:
+    aliases: [reason, incentive, revenge, reputation]
+    source_backed: true
+  ForensicMethod:
+    aliases: [method, deduction, test, investigative technique]
+    source_backed: true
+  DisguisePersona:
+    aliases: [persona, assumed identity, disguise]
+    source_backed: true
   Location:
     source_backed: true
   Object:
@@ -65,7 +81,7 @@ relation_types:
     target: Translator
     requires_evidence: true
   part_of:
-    source: [ChapterOrStory, Case, Event, Location, Object, Evidence, Organization, NarrativeRole]
+    source: [ChapterOrStory, Case, Event, Fact, CrimeOrScheme, Motive, ForensicMethod, DisguisePersona, Location, Object, Evidence, Organization, NarrativeRole]
     target: [Work, ChapterOrStory]
     requires_evidence: true
   narrates:
@@ -82,7 +98,39 @@ relation_types:
     requires_evidence: true
   commits:
     source: Character
-    target: [Case, Event]
+    target: [Case, Event, CrimeOrScheme]
+    requires_evidence: true
+  involves:
+    source: [Case, Event, Fact, CrimeOrScheme]
+    target: [Character, Location, Object, Evidence, Organization, DisguisePersona, CrimeOrScheme]
+    requires_evidence: true
+  occurs_at:
+    source: [Case, Event, Fact, CrimeOrScheme]
+    target: Location
+    requires_evidence: true
+  targets:
+    source: [CrimeOrScheme, Motive]
+    target: [Character, Object, Location, Organization]
+    requires_evidence: true
+  motivates:
+    source: Motive
+    target: [Character, Case, Event, CrimeOrScheme]
+    requires_evidence: true
+  uses_method:
+    source: [Character, Case, CrimeOrScheme, Organization]
+    target: [ForensicMethod, Evidence, DisguisePersona]
+    requires_evidence: true
+  establishes_fact:
+    source: [Evidence, Object, ForensicMethod, Character]
+    target: Fact
+    requires_evidence: true
+  disguises_as:
+    source: Character
+    target: DisguisePersona
+    requires_evidence: true
+  used_in:
+    source: [DisguisePersona, ForensicMethod]
+    target: [Case, Event, CrimeOrScheme]
     requires_evidence: true
   suspected_of:
     source: Character
@@ -151,6 +199,14 @@ evidence_policy:
     - investigates
     - assists
     - commits
+    - involves
+    - occurs_at
+    - targets
+    - motivates
+    - uses_method
+    - establishes_fact
+    - disguises_as
+    - used_in
     - suspected_of
     - located_in
     - contains_evidence
@@ -170,6 +226,11 @@ outputs:
       - ChapterOrStory
       - Case
       - Event
+      - Fact
+      - CrimeOrScheme
+      - Motive
+      - ForensicMethod
+      - DisguisePersona
       - Location
       - Object
       - Evidence
@@ -186,6 +247,14 @@ outputs:
       - investigates
       - assists
       - commits
+      - involves
+      - occurs_at
+      - targets
+      - motivates
+      - uses_method
+      - establishes_fact
+      - disguises_as
+      - used_in
       - suspected_of
       - located_in
       - contains_evidence
@@ -194,4 +263,4 @@ outputs:
       - same_as
     wiki:
       enabled: true
-      page_node_types: [Character, Work, Saga, Author, ChapterOrStory, Case, Location]
+      page_node_types: [Character, Work, Saga, Author, ChapterOrStory, Case, Fact, CrimeOrScheme, Motive, ForensicMethod, DisguisePersona, Location]
