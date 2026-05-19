@@ -45,7 +45,7 @@
     "source": "configured-default",
     "root": ".",
     "git_root": "..",
-    "head": "6eb6c9ecb1d9a6c4c212e956a8b6ad0740725e25",
+    "head": "bccb63d883ec42147c608be3f327f0e39224cbd3",
     "candidate_count": null,
     "included_count": 26,
     "excluded_untracked_count": 0,
