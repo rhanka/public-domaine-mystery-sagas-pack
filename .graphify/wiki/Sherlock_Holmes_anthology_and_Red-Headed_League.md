@@ -1,39 +1,40 @@
 # Sherlock Holmes anthology and Red-Headed League
 
-> 12 nodes
+> 17 nodes
 
 ## Key Concepts
 
-- **A Scandal in Bohemia** (10 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Sherlock Holmes** (9 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Bohemia photograph case** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Bohemia photograph leverage scheme** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Irene Adler** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **King of Bohemia** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Irene Adler photograph** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Staged fire alarm reveal** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Fire alarm reveals the photograph hiding place** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Dr. John H. Watson** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Wedding ring advertisement trap** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Royal reputation motive** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **The Red-Headed League** (13 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League bank plot** (9 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League bank tunnel scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Jabez Wilson** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Decoy encyclopedia-copying job** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Jabez Wilson lured away from his shop** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **John Clay** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **City and Suburban Bank** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League newspaper advertisement** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League advertisement** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **City bank cellar** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Vincent Spaulding alias** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Encyclopedia copying-job pages** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Duncan Ross** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Inspector Peter Jones** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Mr. Merryweather (City and Suburban Bank)** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (3 shared connections)
-- [[Lauriston Gardens revenge setting]] (1 shared connections)
-- [[La Provence arrest sequence]] (1 shared connections)
-- [[Bohemia case and Holmes cast]] (1 shared connections)
-- [[Community 7]] (1 shared connections)
+- [[Community 8]] (1 shared connections)
+- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 - `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 45 (92%)
-- INFERRED: 4 (8%)
+- EXTRACTED: 62 (100%)
+- INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 
 ---

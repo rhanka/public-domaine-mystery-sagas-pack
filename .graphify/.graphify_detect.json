@@ -36,7 +36,7 @@
   "total_files": 26,
   "total_words": 1746353,
   "needs_graph": true,
-  "warning": "Large corpus: 26 files · ~1,746,353 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.",
+  "warning": "Large corpus: 26 files · ~1 746 353 words. Semantic extraction will be expensive (many Claude tokens). Consider running on a subfolder, or use --no-semantic to run AST-only.",
   "skipped_sensitive": [],
   "graphifyignore_patterns": 0,
   "scope": {
@@ -45,7 +45,7 @@
     "source": "configured-default",
     "root": ".",
     "git_root": "..",
-    "head": "bccb63d883ec42147c608be3f327f0e39224cbd3",
+    "head": "06731345263216d58a2ef191d6ed1c964fd651c7",
     "candidate_count": null,
     "included_count": 26,
     "excluded_untracked_count": 0,

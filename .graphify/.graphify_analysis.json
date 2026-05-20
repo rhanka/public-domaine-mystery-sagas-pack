@@ -1,42 +1,56 @@
 {
   "communities": {
     "0": [
+      "case_red_headed_league",
+      "character_duncan_ross",
+      "character_jabez_wilson",
+      "character_john_clay",
+      "character_merryweather",
+      "character_peter_jones",
+      "character_vincent_spaulding",
+      "crime_red_headed_bank_tunnel",
+      "evidence_encyclopedia_pages",
+      "fact_wilson_lured_from_shop",
+      "location_bank_cellar",
+      "location_city_suburban_bank",
+      "method_decoy_copying_job",
+      "object_red_headed_ad",
+      "object_red_headed_advertisement",
+      "organization_red_headed_league",
+      "story_red_headed_league"
+    ],
+    "1": [
       "case_bohemia_photograph",
       "character_dr_watson",
+      "character_godfrey_norton",
       "character_irene_adler",
       "character_king_bohemia",
+      "character_king_of_bohemia",
       "character_sherlock_holmes",
       "crime_bohemia_photograph_leverage",
       "fact_fire_alarm_reveals_photo",
+      "location_briony_lodge",
+      "method_blood_stain_reagent",
       "method_ring_advertisement_trap",
       "method_staged_fire_alarm",
       "motive_bohemia_reputation",
       "object_bohemia_photograph",
       "story_scandal_bohemia"
     ],
-    "1": [
+    "2": [
       "case_lupin_transatlantic",
       "character_arsene_lupin",
       "character_ganimard",
       "crime_transatlantic_jewel_theft",
       "disguise_bernard_dandrezy",
+      "disguise_rozaine",
       "event_lupin_arrest",
+      "evidence_ganimard_telegram",
       "fact_ganimard_identifies_lupin",
+      "location_la_provence_ship",
       "location_ss_la_provence",
       "motive_lupin_notoriety_game",
       "story_arrest_lupin"
-    ],
-    "2": [
-      "case_red_headed_league",
-      "character_jabez_wilson",
-      "character_john_clay",
-      "crime_red_headed_bank_tunnel",
-      "fact_wilson_lured_from_shop",
-      "location_bank_cellar",
-      "method_decoy_copying_job",
-      "object_red_headed_ad",
-      "organization_red_headed_league",
-      "story_red_headed_league"
     ],
     "3": [
       "author_maurice-leblanc",
@@ -44,6 +58,7 @@
       "character_herlock_sholmes",
       "crime_queens_necklace_theft",
       "object_queens_necklace",
+      "object_queens_necklace_artifact",
       "saga_arsene-lupin",
       "story_sherlock_holmes_too_late",
       "work_extraordinary_arsene_lupin"
@@ -59,99 +74,110 @@
     ],
     "5": [
       "case_lauriston_gardens",
-      "character_jefferson_hope",
-      "character_joseph_stangerson",
-      "crime_drebber_stangerson_murders",
-      "evidence_blood_reagent",
-      "motive_jefferson_hope_revenge"
+      "character_john_rance",
+      "character_lestrade",
+      "character_tobias_gregson",
+      "evidence_blood_reagent"
     ],
     "6": [
+      "character_jefferson_hope",
+      "character_john_ferrier",
+      "character_lucy_ferrier",
+      "location_pondicherry_lodge",
+      "motive_jefferson_hope_revenge"
+    ],
+    "7": [
+      "event_hope_revenge",
+      "evidence_footprints_lauriston",
+      "fact_drebber_found_dead",
+      "location_lauriston_gardens",
+      "object_rache_marking"
+    ],
+    "8": [
       "author_arthur-conan-doyle",
       "saga_sherlock-holmes",
       "story_blue_carbuncle",
       "work_adventures_sherlock_holmes"
     ],
-    "7": [
+    "9": [
       "character_enoch_drebber",
-      "fact_drebber_found_dead",
-      "method_blood_stain_reagent"
-    ],
-    "8": [
-      "event_hope_revenge",
-      "location_lauriston_gardens"
+      "character_joseph_stangerson",
+      "crime_drebber_stangerson_murders",
+      "object_pillbox"
     ]
   },
   "cohesion": {
-    "0": 0.32,
-    "1": 0.44,
-    "2": 0.38,
-    "3": 0.36,
+    "0": 0.22,
+    "1": 0.26,
+    "2": 0.37,
+    "3": 0.33,
     "4": 0.33,
-    "5": 0.47,
-    "6": 0.5,
-    "7": 0.67,
-    "8": 1
+    "5": 0.5,
+    "6": 0.4,
+    "7": 0.6,
+    "8": 0.5,
+    "9": 0.5
   },
   "gods": [
     {
       "id": "work_study_in_scarlet",
       "label": "A Study in Scarlet",
-      "edges": 22,
-      "degree": 22
-    },
-    {
-      "id": "story_scandal_bohemia",
-      "label": "A Scandal in Bohemia",
-      "edges": 10,
-      "degree": 10
+      "edges": 26,
+      "degree": 26
     },
     {
       "id": "story_red_headed_league",
       "label": "The Red-Headed League",
-      "edges": 9,
-      "degree": 9
+      "edges": 13,
+      "degree": 13
     },
     {
       "id": "story_arrest_lupin",
       "label": "The Arrest of Arsene Lupin",
-      "edges": 9,
-      "degree": 9
+      "edges": 12,
+      "degree": 12
     },
     {
       "id": "case_lauriston_gardens",
       "label": "Lauriston Gardens murders",
-      "edges": 9,
-      "degree": 9
+      "edges": 12,
+      "degree": 12
+    },
+    {
+      "id": "story_scandal_bohemia",
+      "label": "A Scandal in Bohemia",
+      "edges": 11,
+      "degree": 11
     },
     {
       "id": "character_sherlock_holmes",
       "label": "Sherlock Holmes",
-      "edges": 9,
-      "degree": 9
+      "edges": 10,
+      "degree": 10
     },
     {
       "id": "work_extraordinary_arsene_lupin",
       "label": "The Extraordinary Adventures of Arsene Lupin",
-      "edges": 8,
-      "degree": 8
-    },
-    {
-      "id": "crime_drebber_stangerson_murders",
-      "label": "Drebber and Stangerson murders",
-      "edges": 7,
-      "degree": 7
+      "edges": 9,
+      "degree": 9
     },
     {
       "id": "case_red_headed_league",
       "label": "Red-Headed League bank plot",
-      "edges": 6,
-      "degree": 6
+      "edges": 9,
+      "degree": 9
     },
     {
-      "id": "case_lupin_transatlantic",
-      "label": "Transatlantic Lupin arrest",
-      "edges": 6,
-      "degree": 6
+      "id": "character_arsene_lupin",
+      "label": "Arsene Lupin",
+      "edges": 9,
+      "degree": 9
+    },
+    {
+      "id": "case_bohemia_photograph",
+      "label": "Bohemia photograph case",
+      "edges": 8,
+      "degree": 8
     }
   ],
   "surprises": [
@@ -220,28 +246,29 @@
     "5": "La Provence arrest sequence",
     "6": "Lauriston Gardens revenge setting",
     "7": "Community 7",
-    "8": "Community 8"
+    "8": "Community 8",
+    "9": "Community 9"
   },
   "questions": [
     {
       "type": "bridge_node",
-      "question": "Why does `A Study in Scarlet` connect `Lauriston Gardens evidence chain` to `Sherlock Holmes anthology and Red-Headed League`, `La Provence arrest sequence`, `Community 7`, `Lauriston Gardens revenge setting`, `Community 8`?",
-      "why": "High betweenness centrality (0.242) - this node is a cross-community bridge."
+      "question": "Why does `A Study in Scarlet` connect `Lauriston Gardens evidence chain` to `Arsene Lupin anthology and rivalry`, `Lauriston Gardens revenge setting`, `Community 9`, `Community 8`, `La Provence arrest sequence`, `Community 7`?",
+      "why": "High betweenness centrality (0.261) - this node is a cross-community bridge."
     },
     {
       "type": "bridge_node",
-      "question": "Why does `Sherlock Holmes` connect `Sherlock Holmes anthology and Red-Headed League` to `Lauriston Gardens evidence chain`, `La Provence arrest sequence`, `Bohemia case and Holmes cast`, `Community 7`?",
-      "why": "High betweenness centrality (0.213) - this node is a cross-community bridge."
+      "question": "Why does `Sherlock Holmes` connect `Arsene Lupin anthology and rivalry` to `Lauriston Gardens evidence chain`, `La Provence arrest sequence`, `Sherlock Holmes anthology and Red-Headed League`?",
+      "why": "High betweenness centrality (0.253) - this node is a cross-community bridge."
     },
     {
       "type": "bridge_node",
-      "question": "Why does `A Scandal in Bohemia` connect `Sherlock Holmes anthology and Red-Headed League` to `Lauriston Gardens revenge setting`?",
-      "why": "High betweenness centrality (0.104) - this node is a cross-community bridge."
+      "question": "Why does `Red-Headed League bank plot` connect `Sherlock Holmes anthology and Red-Headed League` to `Arsene Lupin anthology and rivalry`?",
+      "why": "High betweenness centrality (0.153) - this node is a cross-community bridge."
     },
     {
       "type": "isolated_nodes",
       "question": "What connects `The Blue Carbuncle`, `Young Stamford`, `Watson narrator role` to the rest of the system?",
-      "why": "7 weakly-connected nodes found - possible documentation gaps or missing edges."
+      "why": "13 weakly-connected nodes found - possible documentation gaps or missing edges."
     }
   ]
 }
