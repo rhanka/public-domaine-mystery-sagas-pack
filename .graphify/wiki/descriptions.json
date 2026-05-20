@@ -1,20 +1,20 @@
 {
   "schema": "graphify_wiki_description_index_v1",
-  "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+  "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
   "prompt_version": "wiki-description-v1",
   "nodes": {
     "case_lauriston_gardens": {
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_lauriston_gardens",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Lauriston Gardens murders center on the deaths of Enoch Drebber and Joseph Stangerson, with blood traces, the wedding ring, and the revenge inscription shaping Holmes's reconstruction.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "b9bb0d3a48ec45702b161c25866fae2ccad291e169b06270bccb912df3b62031",
+      "cache_key": "9f3d63252b08283da2021353c2ad9a8769fe630196017781d1e2a86a45bf25a4",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -26,14 +26,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_bohemia_photograph",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Bohemia photograph case turns on the King's fear that Irene Adler can use a compromising photograph against his reputation.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "2a02df96b88111d7031042e4a2edd7748a41b7725fa86af7e4a59aa946092204",
+      "cache_key": "40ce6a76266a63acacf747611ce4e535281ed8dd9eeb20d48d304a2beddc9641",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -45,14 +45,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_lupin_transatlantic",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Transatlantic Lupin arrest case follows the hunt for Lupin aboard La Provence after passengers learn that the famous thief is hiding among them.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "ba666b226fe0713fc89e30460c0f97b989dd73322676ab14b43e4c445c73b448",
+      "cache_key": "d4534f36e791ceb4ad336a8ca3be2c5755ca6b02ccb2730c6b604bf9afe766f5",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -64,14 +64,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_queen_necklace",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Queen's Necklace affair is a Lupin case centered on the necklace as both coveted object and narrative proof of the thief's reach.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-queen's-necklace"
       ],
       "confidence": 0.9,
-      "cache_key": "df22f12163cf28bcceaad3ce096bdcbbe77c4e3fbf80f9412eabeb982dc2bfbd",
+      "cache_key": "b513a517928f0da0c411f82e932deb5a6c75c869bcfe7f30d3e32555f35c546b",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -83,14 +83,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_sherlock_holmes",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "Sherlock Holmes is the consulting detective whose laboratory methods, close observation, and staged tests connect the Lauriston Gardens murders, the Bohemia photograph case, and the Red-Headed League bank plot.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "cc09e71c0ab909b32f4ed7c89f318fc9bfa7174ffd8f05aec4171179c64a3e5a",
+      "cache_key": "cf6033b01987a12be319912771252b57ea1979cee40e9972265e72290ce227b9",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -102,14 +102,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_dr_watson",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "Dr. John H. Watson is the witness-narrator who introduces Holmes, records the Baker Street partnership, and anchors the reader's view of the investigations.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "640467ad9dfacb986eabc073f9e20971bf9cbe51e75be3f5f9e08966520e1158",
+      "cache_key": "0a9932d9020d8c1923a0e52ae966cbe216fb91cefc09ef7fd811e562183d9451",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -121,14 +121,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_arsene_lupin",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "Arsene Lupin is the gentleman-burglar whose disguise, notoriety, and rivalry with detectives structure the La Provence theft and later stories.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#collection"
       ],
       "confidence": 0.9,
-      "cache_key": "fe0b79bcdbda20ae992890d88b76244e271360a98ae355f51c61da2583db14fe",
+      "cache_key": "2dc3d5f7f70371c5baea99938b60c1b68e5bc9f988e5ae21a87b1a99eaab39bc",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -140,14 +140,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "object_wedding_ring",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The wedding ring is a concrete clue from the Lauriston Gardens scene and becomes a trap when Holmes tries to draw the murderer back to recover it.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case-evidence"
       ],
       "confidence": 0.9,
-      "cache_key": "ce7f8422a5530551e9cd8d189eecfa411e10aac1e4127d41d4dfc9f45c9650c5",
+      "cache_key": "ff3d68b7de5a61d1e82a27c72bf62eef3d8b6e04a8b52788e404fdd588f368c4",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -159,14 +159,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "organization_red_headed_league",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Red-Headed League is a decoy organization whose advertisement and copying job conceal the bank tunnel plan.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "44f2e4bbc89901828ce073a6c6fad7e1eb0940f0536276bc1d31a2c4ae14bc58",
+      "cache_key": "dd2c0866a6d32fdf47ec5b278d0246463916a3f1371300db3f66e5a4d2b26920",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -178,14 +178,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_sherlock-holmes",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Sherlock Holmes saga groups Conan Doyle's Holmes works so cases, methods, recurring protagonists, and Baker Street settings can be read across books and stories.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "feea9116ed9bb0b447961ae63b6eee8e65f0506f5ec1caa576d42ead14f86501",
+      "cache_key": "5c0829e85e7e02c95aa38bbec009881d05af402f3caa1b35924a49502fba9c38",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -197,14 +197,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_arsene-lupin",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Arsene Lupin saga groups Leblanc's Lupin stories around thefts, disguises, detective rivalry, and the burglar's public persona.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "fe043d28e04294fe2ac7e15216f7e3f21f8d6c74c81834a80995a614ecf1bf44",
+      "cache_key": "0c37ebda43748d6be24cc9e0fe71e6e5e669dde9df2dd16cdc38c5c7be577be6",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -216,14 +216,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "crime_drebber_stangerson_murders",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Drebber and Stangerson murders are modeled as the underlying crime scheme behind the Lauriston Gardens case, driven by Jefferson Hope's revenge motive.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "edd7a72355935e4c52fa12e85065accd9ce406219996b4b6fec059ab74cfa9b1",
+      "cache_key": "453c22158ac1f0daa2eea012f1072e4741c142e943d2387a38ee42372c09bf94",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -235,14 +235,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "motive_jefferson_hope_revenge",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "Jefferson Hope's revenge motive explains why the Lauriston Gardens case is not a robbery but a retaliatory murder plot.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
       "confidence": 0.9,
-      "cache_key": "e2cb479ddf95f08cbe1340dcb562a14cfe9bd9d3987bc96558eb82b8b6203147",
+      "cache_key": "bebbb47482d6c999a74aa5d880f677316b0b1eab0c9147af6701af1afa444c05",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -254,14 +254,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "method_blood_stain_reagent",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The blood-stain reagent test is an early forensic method Holmes demonstrates before the case, then ties to the interpretation of blood evidence at Lauriston Gardens.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#laboratory-scene"
       ],
       "confidence": 0.9,
-      "cache_key": "f4305b0177f2a8a088cde7fb1e9364da49379ffd7c896b9ba8679b9a1f610973",
+      "cache_key": "713e183b36e4bf1dec462543bb0a9411182f0b0ff1a5b053f25d35e77fb9adab",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -273,14 +273,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "method_staged_fire_alarm",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The staged fire alarm is Holmes's tactic for making Irene Adler reveal where she has hidden the photograph.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "75579709ead5ca9672ef645012538038491ef40ba967ffb89dc73207747ff6dc",
+      "cache_key": "052b0b215cd154abf321ddd571453b3583da24f275f1e2a52a3c51678a6ff5cb",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -292,14 +292,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "crime_red_headed_bank_tunnel",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Red-Headed League bank tunnel scheme uses a fake clerical job to remove Jabez Wilson from his shop while John Clay works toward the bank cellar.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "88bbb1f33f75fe6ab833a2f3461acb3d4630990af9ca620990b132949f32c18e",
+      "cache_key": "e9f812a6fb1c34c38d51662037955af3893bfc8e9286b1da0b7f51f6297f33a1",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -311,14 +311,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "crime_transatlantic_jewel_theft",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The La Provence jewel theft captures Lupin's habit of making theft, disguise, and public reputation part of the same performance.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "7a2c364b702774fc28a3ebf592928227966d4efc6f35233a53780f6852b43b3a",
+      "cache_key": "aa38f3790dae3e8c5073cecb12e7cd00e05f15bc3aff96de412b857d044b6643",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -330,14 +330,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "disguise_bernard_dandrezy",
       "target_kind": "node",
-      "graph_hash": "d32021893bbdb9f02774c08b2da06469272fdd425143cb9745a695ec06cebe60",
+      "graph_hash": "8c8a5a9af318a440b4e2436fd0c39d21d6a0a2c7199898e1035800351eab40d6",
       "status": "generated",
       "description": "The Bernard d'Andrezy persona is the assumed identity under which Lupin travels before Ganimard identifies him.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "6cf71c4d0822a5cf2a128784efe334d00a76f4f3a54767d630bcd3fba3f42613",
+      "cache_key": "3e1a65d51420cae285e31489cefbcf0c74507f6fa8b2955b3123b15975eef824",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
