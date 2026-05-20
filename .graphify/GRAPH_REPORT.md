@@ -1,4 +1,4 @@
-# Graph Report - .  (2026-05-18)
+# Graph Report - .  (2026-05-20)
 
 ## Corpus Check
 - cluster-only mode - file stats not available
@@ -10,7 +10,7 @@
 
 
 ## Graph Freshness
-- Built from Git commit: `bccb63d`
+- Built from Git commit: `29dfff9`
 - Compare this hash to `git rev-parse HEAD` before trusting freshness-sensitive graph output.
 ## God Nodes (most connected - your core abstractions)
 1. `A Study in Scarlet` - 22 edges
