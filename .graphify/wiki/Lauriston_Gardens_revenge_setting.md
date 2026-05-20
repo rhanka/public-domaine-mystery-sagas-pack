@@ -1,28 +1,28 @@
 # Lauriston Gardens revenge setting
 
-> 4 nodes
+> 5 nodes
 
 ## Key Concepts
 
-- **The Adventures of Sherlock Holmes** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Sherlock Holmes saga** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
-- **Arthur Conan Doyle** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
-- **The Blue Carbuncle** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Jefferson Hope** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Salt Lake Valley (Hope backstory)** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Jefferson Hope revenge motive** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Lucy Ferrier** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **John Ferrier** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (2 shared connections)
-- [[Sherlock Holmes anthology and Red-Headed League]] (1 shared connections)
-- [[Bohemia case and Holmes cast]] (1 shared connections)
+- [[Lauriston Gardens evidence chain]] (3 shared connections)
+- [[Community 9]] (2 shared connections)
+- [[La Provence arrest sequence]] (1 shared connections)
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
-- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 10 (100%)
+- EXTRACTED: 14 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

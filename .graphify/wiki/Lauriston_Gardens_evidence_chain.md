@@ -4,7 +4,7 @@
 
 ## Key Concepts
 
-- **A Study in Scarlet** (22 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **A Study in Scarlet** (26 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 - **Wedding ring clue** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 - **Wedding ring left at the murder scene** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 - **Young Stamford** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
@@ -14,10 +14,11 @@
 
 ## Relationships
 
-- [[La Provence arrest sequence]] (7 shared connections)
-- [[Sherlock Holmes anthology and Red-Headed League]] (3 shared connections)
-- [[Community 7]] (3 shared connections)
-- [[Lauriston Gardens revenge setting]] (2 shared connections)
+- [[Community 7]] (5 shared connections)
+- [[Arsene Lupin anthology and rivalry]] (4 shared connections)
+- [[Community 9]] (4 shared connections)
+- [[Lauriston Gardens revenge setting]] (3 shared connections)
+- [[La Provence arrest sequence]] (3 shared connections)
 - [[Community 8]] (2 shared connections)
 
 ## Source Files
@@ -26,7 +27,7 @@
 
 ## Audit Trail
 
-- EXTRACTED: 31 (100%)
+- EXTRACTED: 35 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

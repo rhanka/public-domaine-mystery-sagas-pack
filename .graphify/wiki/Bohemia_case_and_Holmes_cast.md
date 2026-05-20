@@ -1,32 +1,34 @@
 # Bohemia case and Holmes cast
 
-> 10 nodes
+> 13 nodes
 
 ## Key Concepts
 
-- **The Red-Headed League** (9 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League bank plot** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League bank tunnel scheme** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Decoy encyclopedia-copying job** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Jabez Wilson lured away from his shop** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Jabez Wilson** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **John Clay** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League advertisement** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **City bank cellar** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **The Arrest of Arsene Lupin** (12 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Arsene Lupin** (9 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Transatlantic Lupin arrest** (8 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Ganimard** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **SS La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **La Provence jewel theft** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Bernard d'Andrezy persona** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Ganimard identifies Lupin on La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **La Provence transatlantic liner** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Rozaine traveler persona** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Lupin arrest aboard La Provence** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Lupin notoriety game** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Ganimard's telegram identifying Lupin** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens revenge setting]] (1 shared connections)
-- [[Sherlock Holmes anthology and Red-Headed League]] (1 shared connections)
+- [[A Study in Scarlet framing and home base]] (3 shared connections)
 
 ## Source Files
 
-- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 36 (100%)
+- EXTRACTED: 61 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

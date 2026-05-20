@@ -1,19 +1,21 @@
 # Community 7
 
-> 3 nodes
+> 5 nodes
 
 ## Key Concepts
 
-- **Enoch Drebber** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Drebber found dead at Lauriston Gardens** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Blood-stain reagent test** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Lauriston Gardens** (7 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Drebber found dead at Lauriston Gardens** (6 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **RACHE bloodstain marking** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Cab and boot footprints at Lauriston Gardens** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Jefferson Hope revenge** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (3 shared connections)
-- [[La Provence arrest sequence]] (2 shared connections)
-- [[Community 8]] (1 shared connections)
-- [[Sherlock Holmes anthology and Red-Headed League]] (1 shared connections)
+- [[Lauriston Gardens evidence chain]] (5 shared connections)
+- [[Community 9]] (2 shared connections)
+- [[La Provence arrest sequence]] (1 shared connections)
+- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
 
 ## Source Files
 
@@ -21,8 +23,8 @@
 
 ## Audit Trail
 
-- EXTRACTED: 11 (100%)
-- INFERRED: 0 (0%)
+- EXTRACTED: 19 (90%)
+- INFERRED: 2 (10%)
 - AMBIGUOUS: 0 (0%)
 
 ---

@@ -1,32 +1,43 @@
 # Arsene Lupin anthology and rivalry
 
-> 10 nodes
+> 16 nodes
 
 ## Key Concepts
 
-- **The Arrest of Arsene Lupin** (9 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Transatlantic Lupin arrest** (6 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Arsene Lupin** (6 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **SS La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **La Provence jewel theft** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Bernard d'Andrezy persona** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Ganimard** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Ganimard identifies Lupin on La Provence** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Lupin arrest aboard La Provence** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Lupin notoriety game** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **A Scandal in Bohemia** (11 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Sherlock Holmes** (10 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Bohemia photograph case** (8 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Irene Adler** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Irene Adler photograph** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Bohemia photograph leverage scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **King of Bohemia** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Blood-stain reagent test** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Staged fire alarm reveal** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Fire alarm reveals the photograph hiding place** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Briony Lodge, St. John's Wood** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Dr. John H. Watson** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Wedding ring advertisement trap** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Royal reputation motive** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **King of Bohemia** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Godfrey Norton** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Relationships
 
-- [[A Study in Scarlet framing and home base]] (3 shared connections)
+- [[Lauriston Gardens evidence chain]] (4 shared connections)
+- [[Community 8]] (1 shared connections)
+- [[La Provence arrest sequence]] (1 shared connections)
+- [[Sherlock Holmes anthology and Red-Headed League]] (1 shared connections)
+- [[Community 7]] (1 shared connections)
 
 ## Source Files
 
-- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 42 (98%)
-- INFERRED: 1 (2%)
+- EXTRACTED: 66 (94%)
+- INFERRED: 4 (6%)
 - AMBIGUOUS: 0 (0%)
 
 ---
