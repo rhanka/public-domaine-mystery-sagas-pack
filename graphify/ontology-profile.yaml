@@ -3,61 +3,104 @@ version: 1
 default_language: en
 
 node_types:
+  # Track C-3.5: visual_encoding per node type drives the HTML export
+  # shape, in addition to the file_type fallback. Shapes used here are
+  # vis.js-native (dot | square | triangle | box | diamond | star | hexagon).
+  # color_hex is intentionally omitted so the per-community palette keeps
+  # signalling cluster membership while shape signals ontological nature.
   Character:
     aliases: [person, detective, suspect, adversary]
     source_backed: true
     status_policy: hardenable
+    visual_encoding:
+      shape: diamond
   Alias:
     aliases: [name variant, disguise]
     source_backed: true
+    visual_encoding:
+      shape: square
   Work:
     aliases: [book, collection]
     source_backed: true
+    visual_encoding:
+      shape: box
   Saga:
     aliases: [series, cycle]
     source_backed: true
+    visual_encoding:
+      shape: hexagon
   Author:
     aliases: [creator, writer]
     source_backed: true
+    visual_encoding:
+      shape: star
   Translator:
     aliases: [translator, edition translator]
     source_backed: true
+    visual_encoding:
+      shape: triangle
   ChapterOrStory:
     aliases: [chapter, short story]
     source_backed: true
+    visual_encoding:
+      shape: box
   Case:
     aliases: [mystery, investigation]
     source_backed: true
     status_policy: hardenable
+    visual_encoding:
+      shape: star
   Event:
     source_backed: true
+    visual_encoding:
+      shape: triangle
   Fact:
     aliases: [documented fact, observation, case fact]
     source_backed: true
+    visual_encoding:
+      shape: dot
   CrimeOrScheme:
     aliases: [crime, plot, scheme, fraud, theft]
     source_backed: true
     status_policy: hardenable
+    visual_encoding:
+      shape: star
   Motive:
     aliases: [reason, incentive, revenge, reputation]
     source_backed: true
+    visual_encoding:
+      shape: triangle
   ForensicMethod:
     aliases: [method, deduction, test, investigative technique]
     source_backed: true
+    visual_encoding:
+      shape: diamond
   DisguisePersona:
     aliases: [persona, assumed identity, disguise]
     source_backed: true
+    visual_encoding:
+      shape: square
   Location:
     source_backed: true
+    visual_encoding:
+      shape: hexagon
   Object:
     source_backed: true
+    visual_encoding:
+      shape: dot
   Evidence:
     source_backed: true
+    visual_encoding:
+      shape: diamond
   Organization:
     source_backed: true
+    visual_encoding:
+      shape: hexagon
   NarrativeRole:
     aliases: [narrator, viewpoint]
     source_backed: true
+    visual_encoding:
+      shape: triangle
 
 relation_types:
   appears_in:
