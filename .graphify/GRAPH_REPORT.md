@@ -10,7 +10,7 @@
 
 
 ## Graph Freshness
-- Built from Git commit: `0673134`
+- Built from Git commit: `d60d60b`
 - Compare this hash to `git rev-parse HEAD` before trusting freshness-sensitive graph output.
 ## God Nodes (most connected - your core abstractions)
 1. `A Study in Scarlet` - 26 edges
