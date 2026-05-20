@@ -269,6 +269,214 @@ const CURATED_DETAIL_NODES: CuratedDetailNode[] = [
     type: "CrimeOrScheme",
     source_file: LUPIN,
     source_location: "The Queen's Necklace"
+  },
+  // ---- Expansion pack 1 — Study in Scarlet supporting cast ----
+  {
+    id: "character_tobias_gregson",
+    label: "Inspector Tobias Gregson",
+    type: "Character",
+    source_file: STUDY,
+    source_location: "part 1"
+  },
+  {
+    id: "character_lestrade",
+    label: "Inspector Lestrade",
+    type: "Character",
+    source_file: STUDY,
+    source_location: "part 1"
+  },
+  {
+    id: "character_john_rance",
+    label: "Constable John Rance",
+    type: "Character",
+    source_file: STUDY,
+    source_location: "part 1"
+  },
+  {
+    id: "character_john_ferrier",
+    label: "John Ferrier",
+    type: "Character",
+    source_file: STUDY,
+    source_location: "part 2"
+  },
+  {
+    id: "character_lucy_ferrier",
+    label: "Lucy Ferrier",
+    type: "Character",
+    source_file: STUDY,
+    source_location: "part 2"
+  },
+  // ---- Expansion pack 2 — Study in Scarlet objects & evidence ----
+  {
+    id: "object_rache_marking",
+    label: "RACHE bloodstain marking",
+    type: "Object",
+    source_file: STUDY,
+    source_location: "part 1"
+  },
+  {
+    id: "object_pillbox",
+    label: "Twin pillbox poison case",
+    type: "Object",
+    source_file: STUDY,
+    source_location: "part 1"
+  },
+  {
+    id: "evidence_footprints_lauriston",
+    label: "Cab and boot footprints at Lauriston Gardens",
+    type: "Evidence",
+    source_file: STUDY,
+    source_location: "part 1"
+  },
+  {
+    id: "location_pondicherry_lodge",
+    label: "Salt Lake Valley (Hope backstory)",
+    type: "Location",
+    source_file: STUDY,
+    source_location: "part 2"
+  },
+  // ---- Expansion pack 3 — Adventures supporting cast ----
+  {
+    id: "character_irene_adler",
+    label: "Irene Adler",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "A Scandal in Bohemia"
+  },
+  {
+    id: "character_king_of_bohemia",
+    label: "King of Bohemia",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "A Scandal in Bohemia"
+  },
+  {
+    id: "character_godfrey_norton",
+    label: "Godfrey Norton",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "A Scandal in Bohemia"
+  },
+  {
+    id: "character_jabez_wilson",
+    label: "Jabez Wilson",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "character_vincent_spaulding",
+    label: "Vincent Spaulding alias",
+    type: "DisguisePersona",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "character_john_clay",
+    label: "John Clay",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "character_duncan_ross",
+    label: "Duncan Ross",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "character_peter_jones",
+    label: "Inspector Peter Jones",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "character_merryweather",
+    label: "Mr. Merryweather (City and Suburban Bank)",
+    type: "Character",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  // ---- Expansion pack 4 — Adventures locations & objects ----
+  {
+    id: "location_briony_lodge",
+    label: "Briony Lodge, St. John's Wood",
+    type: "Location",
+    source_file: ADVENTURES,
+    source_location: "A Scandal in Bohemia"
+  },
+  {
+    id: "location_city_suburban_bank",
+    label: "City and Suburban Bank",
+    type: "Location",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "object_red_headed_advertisement",
+    label: "Red-Headed League newspaper advertisement",
+    type: "Object",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  {
+    id: "object_bohemia_photograph",
+    label: "Cabinet photograph of Adler with the King",
+    type: "Object",
+    source_file: ADVENTURES,
+    source_location: "A Scandal in Bohemia"
+  },
+  {
+    id: "evidence_encyclopedia_pages",
+    label: "Encyclopedia copying-job pages",
+    type: "Evidence",
+    source_file: ADVENTURES,
+    source_location: "The Red-Headed League"
+  },
+  // ---- Expansion pack 5 — Lupin supporting cast & objects ----
+  {
+    id: "character_ganimard",
+    label: "Inspector Ganimard",
+    type: "Character",
+    source_file: LUPIN,
+    source_location: "The Arrest of Arsene Lupin"
+  },
+  {
+    id: "character_herlock_sholmes",
+    label: "Herlock Sholmes (Lupin parody adversary)",
+    type: "Character",
+    source_file: LUPIN,
+    source_location: "Herlock Sholmes Arrives Too Late"
+  },
+  {
+    id: "location_la_provence_ship",
+    label: "La Provence transatlantic liner",
+    type: "Location",
+    source_file: LUPIN,
+    source_location: "The Arrest of Arsene Lupin"
+  },
+  {
+    id: "object_queens_necklace_artifact",
+    label: "Queen Marie-Antoinette's diamond necklace",
+    type: "Object",
+    source_file: LUPIN,
+    source_location: "The Queen's Necklace"
+  },
+  {
+    id: "disguise_rozaine",
+    label: "Rozaine traveler persona",
+    type: "DisguisePersona",
+    source_file: LUPIN,
+    source_location: "The Arrest of Arsene Lupin"
+  },
+  {
+    id: "evidence_ganimard_telegram",
+    label: "Ganimard's telegram identifying Lupin",
+    type: "Evidence",
+    source_file: LUPIN,
+    source_location: "The Arrest of Arsene Lupin"
   }
 ]
 
@@ -306,7 +514,53 @@ const CURATED_DETAIL_EDGES: CuratedDetailEdge[] = [
   { source: "fact_ganimard_identifies_lupin", relation: "involves", target: "disguise_bernard_dandrezy", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
   { source: "motive_lupin_notoriety_game", relation: "motivates", target: "character_arsene_lupin", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
   { source: "case_queen_necklace", relation: "involves", target: "crime_queens_necklace_theft", source_file: LUPIN, source_location: "The Queen's Necklace" },
-  { source: "crime_queens_necklace_theft", relation: "targets", target: "object_queens_necklace", source_file: LUPIN, source_location: "The Queen's Necklace" }
+  { source: "crime_queens_necklace_theft", relation: "targets", target: "object_queens_necklace", source_file: LUPIN, source_location: "The Queen's Necklace" },
+  // ---- Expansion edges pack 1 — Study in Scarlet supporting cast ----
+  { source: "character_tobias_gregson", relation: "investigates", target: "case_lauriston_gardens", source_file: STUDY, source_location: "part 1" },
+  { source: "character_lestrade", relation: "investigates", target: "case_lauriston_gardens", source_file: STUDY, source_location: "part 1" },
+  { source: "character_lestrade", relation: "opposes", target: "character_tobias_gregson", source_file: STUDY, source_location: "part 1" },
+  { source: "character_john_rance", relation: "appears_in", target: "case_lauriston_gardens", source_file: STUDY, source_location: "part 1" },
+  { source: "character_jefferson_hope", relation: "appears_in", target: "location_pondicherry_lodge", source_file: STUDY, source_location: "part 2" },
+  { source: "character_john_ferrier", relation: "appears_in", target: "location_pondicherry_lodge", source_file: STUDY, source_location: "part 2" },
+  { source: "character_lucy_ferrier", relation: "appears_in", target: "location_pondicherry_lodge", source_file: STUDY, source_location: "part 2" },
+  { source: "motive_jefferson_hope_revenge", relation: "involves", target: "character_lucy_ferrier", source_file: STUDY, source_location: "part 2" },
+  // ---- Expansion edges pack 2 — Study in Scarlet objects/evidence ----
+  { source: "object_rache_marking", relation: "establishes_fact", target: "fact_drebber_found_dead", source_file: STUDY, source_location: "part 1" },
+  { source: "object_rache_marking", relation: "occurs_at", target: "location_lauriston_gardens", source_file: STUDY, source_location: "part 1" },
+  { source: "object_pillbox", relation: "used_in", target: "crime_drebber_stangerson_murders", source_file: STUDY, source_location: "part 1" },
+  { source: "evidence_footprints_lauriston", relation: "occurs_at", target: "location_lauriston_gardens", source_file: STUDY, source_location: "part 1" },
+  { source: "evidence_footprints_lauriston", relation: "establishes_fact", target: "fact_drebber_found_dead", source_file: STUDY, source_location: "part 1" },
+  // ---- Expansion edges pack 3 — Adventures supporting cast ----
+  { source: "character_irene_adler", relation: "opposes", target: "character_sherlock_holmes", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "character_irene_adler", relation: "appears_in", target: "case_bohemia_photograph", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "character_king_of_bohemia", relation: "appears_in", target: "case_bohemia_photograph", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "character_godfrey_norton", relation: "appears_in", target: "case_bohemia_photograph", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "character_jabez_wilson", relation: "appears_in", target: "case_red_headed_league", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "character_john_clay", relation: "disguises_as", target: "character_vincent_spaulding", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "character_john_clay", relation: "commits", target: "crime_red_headed_bank_tunnel", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "character_duncan_ross", relation: "appears_in", target: "case_red_headed_league", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "character_peter_jones", relation: "investigates", target: "case_red_headed_league", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "character_merryweather", relation: "appears_in", target: "location_city_suburban_bank", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  // ---- Expansion edges pack 4 — Adventures locations & objects ----
+  { source: "case_bohemia_photograph", relation: "occurs_at", target: "location_briony_lodge", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "character_irene_adler", relation: "appears_in", target: "location_briony_lodge", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "crime_red_headed_bank_tunnel", relation: "occurs_at", target: "location_city_suburban_bank", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "method_decoy_copying_job", relation: "uses_method", target: "object_red_headed_advertisement", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "object_red_headed_advertisement", relation: "involves", target: "character_jabez_wilson", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "evidence_encyclopedia_pages", relation: "establishes_fact", target: "fact_wilson_lured_from_shop", source_file: ADVENTURES, source_location: "The Red-Headed League" },
+  { source: "object_bohemia_photograph", relation: "involves", target: "character_irene_adler", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "object_bohemia_photograph", relation: "involves", target: "character_king_of_bohemia", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  { source: "crime_bohemia_photograph_leverage", relation: "targets", target: "object_bohemia_photograph", source_file: ADVENTURES, source_location: "A Scandal in Bohemia" },
+  // ---- Expansion edges pack 5 — Lupin supporting cast & objects ----
+  { source: "character_ganimard", relation: "investigates", target: "case_lupin_transatlantic", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  { source: "character_ganimard", relation: "opposes", target: "character_arsene_lupin", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  { source: "character_herlock_sholmes", relation: "opposes", target: "character_arsene_lupin", source_file: LUPIN, source_location: "Herlock Sholmes Arrives Too Late" },
+  { source: "case_lupin_transatlantic", relation: "occurs_at", target: "location_la_provence_ship", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  { source: "character_arsene_lupin", relation: "appears_in", target: "location_la_provence_ship", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  { source: "character_arsene_lupin", relation: "disguises_as", target: "disguise_rozaine", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  { source: "disguise_rozaine", relation: "used_in", target: "case_lupin_transatlantic", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  { source: "object_queens_necklace_artifact", relation: "establishes_fact", target: "crime_queens_necklace_theft", source_file: LUPIN, source_location: "The Queen's Necklace" },
+  { source: "evidence_ganimard_telegram", relation: "establishes_fact", target: "fact_ganimard_identifies_lupin", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" }
 ]
 
 function sourceRefForLocation(sourceFile: string, sourceLocation: string): string {
