@@ -262,4 +262,160 @@ describe("graphify documentary deepening", () => {
       )
     ).toBe(true)
   })
+
+  test("adds curated detail nodes for additional public-domain mystery works", () => {
+    const graph = deepenDocumentarySemanticGraph(
+      {
+        nodes: [
+          {
+            id: "work_hound_baskervilles",
+            label: "The Hound of the Baskervilles",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "case_baskerville_curse",
+            label: "Baskerville curse investigation",
+            type: "Case",
+            file_type: "concept",
+            source_file: "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt",
+            source_location: "case",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_sherlock_holmes",
+            label: "Sherlock Holmes",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt",
+            source_location: "case",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "work_innocence_father_brown",
+            label: "The Innocence of Father Brown",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/father-brown/the-innocence-of-father-brown/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "case_blue_cross",
+            label: "The Blue Cross",
+            type: "Case",
+            file_type: "concept",
+            source_file: "corpus/father-brown/the-innocence-of-father-brown/text.txt",
+            source_location: "The Blue Cross",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_father_brown",
+            label: "Father Brown",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/father-brown/the-innocence-of-father-brown/text.txt",
+            source_location: "The Blue Cross",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "work_red_thumb_mark",
+            label: "The Red Thumb Mark",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/dr-thorndyke/the-red-thumb-mark/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "case_red_thumb_mark",
+            label: "Red thumb-mark case",
+            type: "Case",
+            file_type: "concept",
+            source_file: "corpus/dr-thorndyke/the-red-thumb-mark/text.txt",
+            source_location: "case",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_dr_thorndyke",
+            label: "Dr. John Thorndyke",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/dr-thorndyke/the-red-thumb-mark/text.txt",
+            source_location: "case",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "work_amateur_cracksman",
+            label: "The Amateur Cracksman",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/raffles/the-amateur-cracksman/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "case_ides_of_march",
+            label: "The Ides of March",
+            type: "Case",
+            file_type: "concept",
+            source_file: "corpus/raffles/the-amateur-cracksman/text.txt",
+            source_location: "The Ides of March",
+            confidence: "EXTRACTED"
+          },
+          {
+            id: "character_aj_raffles",
+            label: "A. J. Raffles",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/raffles/the-amateur-cracksman/text.txt",
+            source_location: "The Ides of March",
+            confidence: "EXTRACTED"
+          }
+        ],
+        edges: []
+      },
+      WORKS
+    )
+
+    expect(graph.nodes.some((node) => node.id === "location_baskerville_hall")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "method_priestly_moral_inference")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "evidence_bloody_thumb_print")).toBe(true)
+    expect(graph.nodes.some((node) => node.id === "crime_raffles_jewellery_theft")).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "character_jack_stapleton" &&
+          edge.relation === "commits" &&
+          edge.target === "crime_baskerville_hound_plot"
+      )
+    ).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "character_flambeau" &&
+          edge.relation === "opposes" &&
+          edge.target === "character_father_brown"
+      )
+    ).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "character_dr_thorndyke" &&
+          edge.relation === "uses_method" &&
+          edge.target === "method_fingerprint_comparison"
+      )
+    ).toBe(true)
+    expect(
+      graph.edges.some(
+        (edge) =>
+          edge.source === "character_aj_raffles" &&
+          edge.relation === "commits" &&
+          edge.target === "crime_raffles_jewellery_theft"
+      )
+    ).toBe(true)
+  })
 })
