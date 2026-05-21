@@ -1,31 +1,33 @@
 # La Provence arrest sequence
 
-> 5 nodes
+> 10 nodes
 
 ## Key Concepts
 
-- **Lauriston Gardens murders** (12 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Holmes blood-stain reagent** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Inspector Tobias Gregson** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Inspector Lestrade** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Constable John Rance** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **The Amateur Cracksman** (7 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Raffles jewellery theft** (5 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **The Ides of March** (3 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **A. J. Raffles** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Albany chambers** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Social access burglary** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Raffles sporting theft motive** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Raffles saga** (1 connections) — `corpus/raffles/the-amateur-cracksman/metadata.json`
+- **E. W. Hornung** (1 connections) — `corpus/raffles/the-amateur-cracksman/metadata.json`
+- **Bunny Manders** (1 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (3 shared connections)
-- [[Community 9]] (3 shared connections)
-- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
-- [[Lauriston Gardens revenge setting]] (1 shared connections)
-- [[Community 7]] (1 shared connections)
+- No strong cross-community connections detected
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- `corpus/raffles/the-amateur-cracksman/metadata.json`
+- `corpus/raffles/the-amateur-cracksman/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 17 (89%)
-- INFERRED: 2 (11%)
+- EXTRACTED: 26 (100%)
+- INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 
 ---

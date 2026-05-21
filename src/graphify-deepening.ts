@@ -134,7 +134,11 @@ interface CuratedDetailEdge {
 
 const STUDY = "corpus/sherlock-holmes/a-study-in-scarlet/text.txt"
 const ADVENTURES = "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
+const HOUND = "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt"
 const LUPIN = "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
+const FATHER_BROWN_INNOCENCE = "corpus/father-brown/the-innocence-of-father-brown/text.txt"
+const RED_THUMB_MARK = "corpus/dr-thorndyke/the-red-thumb-mark/text.txt"
+const AMATEUR_CRACKSMAN = "corpus/raffles/the-amateur-cracksman/text.txt"
 
 const CURATED_DETAIL_NODES: CuratedDetailNode[] = [
   {
@@ -477,6 +481,157 @@ const CURATED_DETAIL_NODES: CuratedDetailNode[] = [
     type: "Evidence",
     source_file: LUPIN,
     source_location: "The Arrest of Arsene Lupin"
+  },
+  // ---- Expansion pack 6 — Hound of the Baskervilles ----
+  {
+    id: "crime_baskerville_hound_plot",
+    label: "Baskerville hound plot",
+    type: "CrimeOrScheme",
+    source_file: HOUND,
+    source_location: "case"
+  },
+  {
+    id: "character_sir_henry_baskerville",
+    label: "Sir Henry Baskerville",
+    type: "Character",
+    source_file: HOUND,
+    source_location: "case"
+  },
+  {
+    id: "character_jack_stapleton",
+    label: "Jack Stapleton",
+    type: "Character",
+    source_file: HOUND,
+    source_location: "case"
+  },
+  {
+    id: "location_baskerville_hall",
+    label: "Baskerville Hall",
+    type: "Location",
+    source_file: HOUND,
+    source_location: "case"
+  },
+  {
+    id: "location_grimpen_mire",
+    label: "Grimpen Mire",
+    type: "Location",
+    source_file: HOUND,
+    source_location: "case"
+  },
+  {
+    id: "evidence_phosphorus_hound",
+    label: "Phosphorus-painted hound",
+    type: "Evidence",
+    source_file: HOUND,
+    source_location: "case"
+  },
+  // ---- Expansion pack 7 — Father Brown: The Blue Cross ----
+  {
+    id: "crime_blue_cross_theft_plot",
+    label: "Blue Cross theft plot",
+    type: "CrimeOrScheme",
+    source_file: FATHER_BROWN_INNOCENCE,
+    source_location: "The Blue Cross"
+  },
+  {
+    id: "character_flambeau",
+    label: "Flambeau",
+    type: "Character",
+    source_file: FATHER_BROWN_INNOCENCE,
+    source_location: "The Blue Cross"
+  },
+  {
+    id: "character_valentin",
+    label: "Aristide Valentin",
+    type: "Character",
+    source_file: FATHER_BROWN_INNOCENCE,
+    source_location: "The Blue Cross"
+  },
+  {
+    id: "object_blue_cross",
+    label: "Blue Cross relic",
+    type: "Object",
+    source_file: FATHER_BROWN_INNOCENCE,
+    source_location: "The Blue Cross"
+  },
+  {
+    id: "method_priestly_moral_inference",
+    label: "Priestly moral inference",
+    type: "ForensicMethod",
+    source_file: FATHER_BROWN_INNOCENCE,
+    source_location: "The Blue Cross"
+  },
+  // ---- Expansion pack 8 — Dr. Thorndyke: The Red Thumb Mark ----
+  {
+    id: "crime_red_thumb_mark_forgery",
+    label: "Red thumb-mark forgery",
+    type: "CrimeOrScheme",
+    source_file: RED_THUMB_MARK,
+    source_location: "case"
+  },
+  {
+    id: "character_reuben_hornby",
+    label: "Reuben Hornby",
+    type: "Character",
+    source_file: RED_THUMB_MARK,
+    source_location: "case"
+  },
+  {
+    id: "evidence_bloody_thumb_print",
+    label: "Bloody thumb print",
+    type: "Evidence",
+    source_file: RED_THUMB_MARK,
+    source_location: "case"
+  },
+  {
+    id: "method_fingerprint_comparison",
+    label: "Fingerprint comparison",
+    type: "ForensicMethod",
+    source_file: RED_THUMB_MARK,
+    source_location: "case"
+  },
+  {
+    id: "method_laboratory_reconstruction",
+    label: "Laboratory reconstruction",
+    type: "ForensicMethod",
+    source_file: RED_THUMB_MARK,
+    source_location: "case"
+  },
+  // ---- Expansion pack 9 — Raffles: The Ides of March ----
+  {
+    id: "crime_raffles_jewellery_theft",
+    label: "Raffles jewellery theft",
+    type: "CrimeOrScheme",
+    source_file: AMATEUR_CRACKSMAN,
+    source_location: "The Ides of March"
+  },
+  {
+    id: "character_bunny_manders",
+    label: "Bunny Manders",
+    type: "Character",
+    source_file: AMATEUR_CRACKSMAN,
+    source_location: "The Ides of March"
+  },
+  {
+    id: "location_albany_chambers",
+    label: "Albany chambers",
+    type: "Location",
+    source_file: AMATEUR_CRACKSMAN,
+    source_location: "The Ides of March"
+  },
+  {
+    id: "method_social_access_burglary",
+    label: "Social access burglary",
+    type: "ForensicMethod",
+    source_file: AMATEUR_CRACKSMAN,
+    source_location: "The Ides of March"
+  },
+  {
+    id: "motive_raffles_sporting_theft",
+    label: "Raffles sporting theft motive",
+    type: "Motive",
+    source_file: AMATEUR_CRACKSMAN,
+    source_location: "The Ides of March"
   }
 ]
 
@@ -560,7 +715,37 @@ const CURATED_DETAIL_EDGES: CuratedDetailEdge[] = [
   { source: "character_arsene_lupin", relation: "disguises_as", target: "disguise_rozaine", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
   { source: "disguise_rozaine", relation: "used_in", target: "case_lupin_transatlantic", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
   { source: "object_queens_necklace_artifact", relation: "establishes_fact", target: "crime_queens_necklace_theft", source_file: LUPIN, source_location: "The Queen's Necklace" },
-  { source: "evidence_ganimard_telegram", relation: "establishes_fact", target: "fact_ganimard_identifies_lupin", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" }
+  { source: "evidence_ganimard_telegram", relation: "establishes_fact", target: "fact_ganimard_identifies_lupin", source_file: LUPIN, source_location: "The Arrest of Arsene Lupin" },
+  // ---- Expansion edges pack 6 — Hound of the Baskervilles ----
+  { source: "case_baskerville_curse", relation: "involves", target: "crime_baskerville_hound_plot", source_file: HOUND, source_location: "case" },
+  { source: "crime_baskerville_hound_plot", relation: "targets", target: "character_sir_henry_baskerville", source_file: HOUND, source_location: "case" },
+  { source: "character_jack_stapleton", relation: "commits", target: "crime_baskerville_hound_plot", source_file: HOUND, source_location: "case" },
+  { source: "crime_baskerville_hound_plot", relation: "occurs_at", target: "location_baskerville_hall", source_file: HOUND, source_location: "case" },
+  { source: "crime_baskerville_hound_plot", relation: "occurs_at", target: "location_grimpen_mire", source_file: HOUND, source_location: "case" },
+  { source: "evidence_phosphorus_hound", relation: "establishes_fact", target: "crime_baskerville_hound_plot", source_file: HOUND, source_location: "case" },
+  { source: "character_sherlock_holmes", relation: "investigates", target: "case_baskerville_curse", source_file: HOUND, source_location: "case" },
+  // ---- Expansion edges pack 7 — Father Brown: The Blue Cross ----
+  { source: "case_blue_cross", relation: "involves", target: "crime_blue_cross_theft_plot", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  { source: "crime_blue_cross_theft_plot", relation: "targets", target: "object_blue_cross", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  { source: "character_flambeau", relation: "commits", target: "crime_blue_cross_theft_plot", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  { source: "character_flambeau", relation: "opposes", target: "character_father_brown", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  { source: "character_valentin", relation: "investigates", target: "case_blue_cross", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  { source: "character_father_brown", relation: "uses_method", target: "method_priestly_moral_inference", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  { source: "method_priestly_moral_inference", relation: "establishes_fact", target: "crime_blue_cross_theft_plot", source_file: FATHER_BROWN_INNOCENCE, source_location: "The Blue Cross" },
+  // ---- Expansion edges pack 8 — Dr. Thorndyke: The Red Thumb Mark ----
+  { source: "case_red_thumb_mark", relation: "involves", target: "crime_red_thumb_mark_forgery", source_file: RED_THUMB_MARK, source_location: "case" },
+  { source: "crime_red_thumb_mark_forgery", relation: "targets", target: "character_reuben_hornby", source_file: RED_THUMB_MARK, source_location: "case" },
+  { source: "evidence_bloody_thumb_print", relation: "establishes_fact", target: "crime_red_thumb_mark_forgery", source_file: RED_THUMB_MARK, source_location: "case" },
+  { source: "character_dr_thorndyke", relation: "uses_method", target: "method_fingerprint_comparison", source_file: RED_THUMB_MARK, source_location: "case" },
+  { source: "character_dr_thorndyke", relation: "uses_method", target: "method_laboratory_reconstruction", source_file: RED_THUMB_MARK, source_location: "case" },
+  { source: "method_laboratory_reconstruction", relation: "establishes_fact", target: "evidence_bloody_thumb_print", source_file: RED_THUMB_MARK, source_location: "case" },
+  // ---- Expansion edges pack 9 — Raffles: The Ides of March ----
+  { source: "case_ides_of_march", relation: "involves", target: "crime_raffles_jewellery_theft", source_file: AMATEUR_CRACKSMAN, source_location: "The Ides of March" },
+  { source: "character_aj_raffles", relation: "commits", target: "crime_raffles_jewellery_theft", source_file: AMATEUR_CRACKSMAN, source_location: "The Ides of March" },
+  { source: "character_bunny_manders", relation: "appears_in", target: "case_ides_of_march", source_file: AMATEUR_CRACKSMAN, source_location: "The Ides of March" },
+  { source: "crime_raffles_jewellery_theft", relation: "occurs_at", target: "location_albany_chambers", source_file: AMATEUR_CRACKSMAN, source_location: "The Ides of March" },
+  { source: "character_aj_raffles", relation: "uses_method", target: "method_social_access_burglary", source_file: AMATEUR_CRACKSMAN, source_location: "The Ides of March" },
+  { source: "motive_raffles_sporting_theft", relation: "motivates", target: "crime_raffles_jewellery_theft", source_file: AMATEUR_CRACKSMAN, source_location: "The Ides of March" }
 ]
 
 function sourceRefForLocation(sourceFile: string, sourceLocation: string): string {

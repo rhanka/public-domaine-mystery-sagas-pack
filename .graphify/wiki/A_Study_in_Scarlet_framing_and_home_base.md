@@ -1,31 +1,37 @@
 # A Study in Scarlet framing and home base
 
-> 9 nodes
+> 12 nodes
 
 ## Key Concepts
 
-- **The Extraordinary Adventures of Arsene Lupin** (9 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Queen's Necklace theft** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Queen's Necklace affair** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Queen's Necklace** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Sherlock Holmes Arrives Too Late** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Herlock Sholmes** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Queen Marie-Antoinette's diamond necklace** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Arsene Lupin saga** (1 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json`
-- **Maurice Leblanc** (1 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json`
+- **The Hound of the Baskervilles** (7 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **Baskerville hound plot** (7 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **The Adventures of Sherlock Holmes** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Sherlock Holmes saga** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
+- **Arthur Conan Doyle** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
+- **Baskerville curse investigation** (3 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **Baskerville Hall** (2 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **Grimpen Mire** (2 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **Phosphorus-painted hound** (2 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **The Blue Carbuncle** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Sir Henry Baskerville** (1 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **Jack Stapleton** (1 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
 
 ## Relationships
 
-- [[Bohemia case and Holmes cast]] (3 shared connections)
+- [[Sherlock Holmes anthology and Red-Headed League]] (3 shared connections)
+- [[Lauriston Gardens evidence chain]] (1 shared connections)
+- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
 
 ## Source Files
 
-- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json`
-- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
+- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 27 (100%)
+- EXTRACTED: 37 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 
