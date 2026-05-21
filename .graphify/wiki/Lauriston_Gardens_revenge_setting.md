@@ -1,28 +1,32 @@
 # Lauriston Gardens revenge setting
 
-> 5 nodes
+> 10 nodes
 
 ## Key Concepts
 
-- **Jefferson Hope** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Salt Lake Valley (Hope backstory)** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Jefferson Hope revenge motive** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Lucy Ferrier** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **John Ferrier** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **The Innocence of Father Brown** (6 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **Blue Cross theft plot** (5 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **The Blue Cross** (3 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **Priestly moral inference** (3 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **Father Brown** (2 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **Flambeau** (2 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **Blue Cross relic** (2 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **Father Brown saga** (1 connections) — `corpus/father-brown/the-innocence-of-father-brown/metadata.json`
+- **G. K. Chesterton** (1 connections) — `corpus/father-brown/the-innocence-of-father-brown/metadata.json`
+- **Aristide Valentin** (1 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (3 shared connections)
-- [[Community 9]] (2 shared connections)
-- [[La Provence arrest sequence]] (1 shared connections)
+- No strong cross-community connections detected
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- `corpus/father-brown/the-innocence-of-father-brown/metadata.json`
+- `corpus/father-brown/the-innocence-of-father-brown/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 14 (100%)
+- EXTRACTED: 26 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

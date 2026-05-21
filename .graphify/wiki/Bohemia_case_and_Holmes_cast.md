@@ -20,7 +20,7 @@
 
 ## Relationships
 
-- [[A Study in Scarlet framing and home base]] (3 shared connections)
+- [[Community 8]] (3 shared connections)
 
 ## Source Files
 
