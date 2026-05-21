@@ -1,5 +1,5 @@
 {
-  "name": "graphify-three-works",
+  "name": "graphify-curated-mystery-demo",
   "purpose": "Small public Graphify demo for ontology, reconciliation, and LLM-wiki UI mockups.",
   "generated_with": {
     "package": "graphifyy",
@@ -18,14 +18,34 @@
       "file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
     },
     {
+      "saga": "sherlock-holmes",
+      "work": "the-hound-of-the-baskervilles",
+      "file": "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt"
+    },
+    {
       "saga": "arsene-lupin",
       "work": "the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar",
       "file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
+    },
+    {
+      "saga": "father-brown",
+      "work": "the-innocence-of-father-brown",
+      "file": "corpus/father-brown/the-innocence-of-father-brown/text.txt"
+    },
+    {
+      "saga": "dr-thorndyke",
+      "work": "the-red-thumb-mark",
+      "file": "corpus/dr-thorndyke/the-red-thumb-mark/text.txt"
+    },
+    {
+      "saga": "raffles",
+      "work": "the-amateur-cracksman",
+      "file": "corpus/raffles/the-amateur-cracksman/text.txt"
     }
   ],
   "graph": {
-    "nodes": 43,
-    "edges": 65,
+    "nodes": 123,
+    "edges": 221,
     "report": "../../.graphify/GRAPH_REPORT.md",
     "json": "../../.graphify/graph.json",
     "html": "../../.graphify/graph.html"

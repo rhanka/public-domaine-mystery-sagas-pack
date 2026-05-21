@@ -1,6 +1,6 @@
 version: 1
 
-# Project-owned Graphify configuration for the three-work ontology UAT.
+# Project-owned Graphify configuration for the curated mystery ontology UAT.
 # Profile mode is strictly opt-in: this file activates configured-profile
 # behavior. The committed `.graphify/` demo at the repo root is generated
 # in the default non-profile mode and stays untouched by these settings
@@ -10,13 +10,16 @@ profile:
   path: graphify/ontology-profile.yaml
 
 inputs:
-  # Three-work UAT scope: A Study in Scarlet, The Adventures of Sherlock
-  # Holmes, and The Extraordinary Adventures of Arsene Lupin. Each path
-  # is a leaf directory containing text.txt + metadata.json.
+  # Curated UAT scope. Each path is a leaf directory containing text.txt
+  # + metadata.json.
   corpus:
     - corpus/sherlock-holmes/a-study-in-scarlet
     - corpus/sherlock-holmes/the-adventures-of-sherlock-holmes
+    - corpus/sherlock-holmes/the-hound-of-the-baskervilles
     - corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar
+    - corpus/father-brown/the-innocence-of-father-brown
+    - corpus/dr-thorndyke/the-red-thumb-mark
+    - corpus/raffles/the-amateur-cracksman
   scope: all
 
 dataprep:

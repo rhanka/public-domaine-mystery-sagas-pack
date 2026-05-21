@@ -1,34 +1,35 @@
 # Lauriston Gardens evidence chain
 
-> 7 nodes
+> 12 nodes
 
 ## Key Concepts
 
-- **A Study in Scarlet** (26 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Wedding ring clue** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Wedding ring left at the murder scene** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Young Stamford** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Watson narrator role** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **221B Baker Street** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **London** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **A Scandal in Bohemia** (11 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Bohemia photograph case** (8 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Irene Adler** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Irene Adler photograph** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Bohemia photograph leverage scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **King of Bohemia** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Staged fire alarm reveal** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Fire alarm reveals the photograph hiding place** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Briony Lodge, St. John's Wood** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Royal reputation motive** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **King of Bohemia** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Godfrey Norton** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Relationships
 
-- [[Community 7]] (5 shared connections)
-- [[Arsene Lupin anthology and rivalry]] (4 shared connections)
-- [[Community 9]] (4 shared connections)
-- [[Lauriston Gardens revenge setting]] (3 shared connections)
-- [[La Provence arrest sequence]] (3 shared connections)
-- [[Community 8]] (2 shared connections)
+- [[Sherlock Holmes anthology and Red-Headed League]] (4 shared connections)
+- [[A Study in Scarlet framing and home base]] (1 shared connections)
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 35 (100%)
-- INFERRED: 0 (0%)
+- EXTRACTED: 51 (96%)
+- INFERRED: 2 (4%)
 - AMBIGUOUS: 0 (0%)
 
 ---

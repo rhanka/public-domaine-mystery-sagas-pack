@@ -1,30 +1,33 @@
 # Community 7
 
-> 5 nodes
+> 10 nodes
 
 ## Key Concepts
 
-- **Lauriston Gardens** (7 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Drebber found dead at Lauriston Gardens** (6 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **RACHE bloodstain marking** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Cab and boot footprints at Lauriston Gardens** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Jefferson Hope revenge** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **The Red Thumb Mark** (7 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Red thumb-mark forgery** (4 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Bloody thumb print** (3 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Laboratory reconstruction** (3 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Red thumb-mark case** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Dr. John Thorndyke** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Fingerprint comparison** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Dr. Thorndyke saga** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
+- **R. Austin Freeman** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
+- **Reuben Hornby** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (5 shared connections)
-- [[Community 9]] (2 shared connections)
-- [[La Provence arrest sequence]] (1 shared connections)
-- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
+- No strong cross-community connections detected
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
+- `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 19 (90%)
-- INFERRED: 2 (10%)
+- EXTRACTED: 26 (100%)
+- INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 
 ---
