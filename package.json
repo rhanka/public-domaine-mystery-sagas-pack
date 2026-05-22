@@ -10,6 +10,7 @@
     "test": "vitest run",
     "graphify:deepen": "npm run build && node dist/scripts/deepen-graphify-semantic.js",
     "graphify:descriptions": "npm run build && node dist/scripts/generate-graphify-descriptions.js",
+    "build:pages": "tsx scripts/build-pages.ts",
     "fetch": "tsx scripts/fetch-corpus.ts",
     "check": "tsx scripts/check-corpus.ts",
     "refresh": "npm run fetch && npm run check"
