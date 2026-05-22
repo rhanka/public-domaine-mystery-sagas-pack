@@ -153,7 +153,13 @@ const DESCRIPTION_BY_ID: Record<string, string> = {
   character_flambeau:
     "Flambeau is the gigantic Gascon master-thief tracked across Europe by Valentin, caught in The Blue Cross by Father Brown's switched parcel and reformed into the priest's recurring companion.",
   character_valentin:
-    "Aristide Valentin is the head of the Paris police whose pursuit of Flambeau opens The Innocence of Father Brown and brings him into uneasy alliance with the Essex priest."
+    "Aristide Valentin is the head of the Paris police whose pursuit of Flambeau opens The Innocence of Father Brown and brings him into uneasy alliance with the Essex priest.",
+
+  // Characters - Dr. Thorndyke saga
+  character_dr_thorndyke:
+    "Dr. John Thorndyke is the barrister and medical jurist of the Inner Temple who clears Reuben Hornby in The Red Thumb Mark by exposing the bloody fingerprint on John Hornby's safe as a forgery.",
+  character_reuben_hornby:
+    "Reuben Hornby is the nephew working in John Hornby's gold-refining firm whose thumb-print is found in blood in the emptied diamond safe and who hires Thorndyke to defend him in The Red Thumb Mark."
 }
 
 function sha256(value: string | Buffer): string {
