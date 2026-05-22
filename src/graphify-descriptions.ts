@@ -85,7 +85,19 @@ const DESCRIPTION_BY_ID: Record<string, string> = {
   work_red_thumb_mark:
     "The Red Thumb Mark is R. Austin Freeman's 1907 Thorndyke novel in which a parcel of rough diamonds vanishes from John Hornby's safe and a bloody thumb-print frames the nephew Reuben Hornby.",
   work_amateur_cracksman:
-    "The Amateur Cracksman is E. W. Hornung's 1899 collection where A. J. Raffles, cricketer and Albany resident, recruits the ruined Bunny Manders into a run of London burglaries."
+    "The Amateur Cracksman is E. W. Hornung's 1899 collection where A. J. Raffles, cricketer and Albany resident, recruits the ruined Bunny Manders into a run of London burglaries.",
+
+  // ChapterOrStory
+  story_scandal_bohemia:
+    "A Scandal in Bohemia is the opening story of the Adventures, in which the King of Bohemia hires Holmes to recover a compromising photograph held by Irene Adler, who outwits him after marrying Godfrey Norton.",
+  story_red_headed_league:
+    "The Red-Headed League is the Adventures story in which Jabez Wilson is paid to copy the Encyclopaedia while John Clay tunnels from the pawnshop to the City and Suburban Bank, joined at the trap by Inspector Peter Jones and Mr. Merryweather.",
+  story_blue_carbuncle:
+    "The Blue Carbuncle is the Adventures Christmas story in which a battered hat and a Christmas goose lead Holmes from Henry Baker to the jewel stolen from the Countess of Morcar at the Hotel Cosmopolitan.",
+  story_arrest_lupin:
+    "The Arrest of Arsene Lupin opens Leblanc's first collection: a wireless message warns the passengers of La Provence that Lupin is aboard, and Ganimard meets the ship to pick the burglar out of the crowd.",
+  story_sherlock_holmes_too_late:
+    "Sherlock Holmes Arrives Too Late stages the first encounter between Lupin and Leblanc's parody-detective Herlock Sholmes, with Lupin slipping a chateau theft past the English investigator just before he reaches the scene."
 }
 
 function sha256(value: string | Buffer): string {
