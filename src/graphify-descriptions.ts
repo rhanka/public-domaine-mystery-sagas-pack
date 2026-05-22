@@ -159,7 +159,13 @@ const DESCRIPTION_BY_ID: Record<string, string> = {
   character_dr_thorndyke:
     "Dr. John Thorndyke is the barrister and medical jurist of the Inner Temple who clears Reuben Hornby in The Red Thumb Mark by exposing the bloody fingerprint on John Hornby's safe as a forgery.",
   character_reuben_hornby:
-    "Reuben Hornby is the nephew working in John Hornby's gold-refining firm whose thumb-print is found in blood in the emptied diamond safe and who hires Thorndyke to defend him in The Red Thumb Mark."
+    "Reuben Hornby is the nephew working in John Hornby's gold-refining firm whose thumb-print is found in blood in the emptied diamond safe and who hires Thorndyke to defend him in The Red Thumb Mark.",
+
+  // Characters - Raffles saga
+  character_aj_raffles:
+    "A. J. Raffles is the celebrated cricketer and gentleman burglar who runs his thefts from his rooms at the Albany, recruiting his old school fag Bunny Manders as accomplice in The Amateur Cracksman.",
+  character_bunny_manders:
+    "Bunny Manders is the ruined narrator of The Amateur Cracksman, who returns to the Albany after losing at baccarat and joins Raffles in his London burglaries."
 }
 
 function sha256(value: string | Buffer): string {
