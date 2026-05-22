@@ -145,7 +145,15 @@ const DESCRIPTION_BY_ID: Record<string, string> = {
   character_ganimard:
     "Ganimard is the Surete inspector cast as Lupin's official-police rival, who boards La Provence in The Arrest of Arsene Lupin and picks the disguised burglar out of the passengers.",
   character_herlock_sholmes:
-    "Herlock Sholmes is Leblanc's parody of Conan Doyle's detective, brought into the Lupin stories to be outpaced by the burglar, most pointedly in Sherlock Holmes Arrives Too Late."
+    "Herlock Sholmes is Leblanc's parody of Conan Doyle's detective, brought into the Lupin stories to be outpaced by the burglar, most pointedly in Sherlock Holmes Arrives Too Late.",
+
+  // Characters - Father Brown saga
+  character_father_brown:
+    "Father Brown is the short, owl-eyed Essex priest whose moral imagination unmasks criminals, first crossing Aristide Valentin and the master thief Flambeau in The Blue Cross at the opening of The Innocence of Father Brown.",
+  character_flambeau:
+    "Flambeau is the gigantic Gascon master-thief tracked across Europe by Valentin, caught in The Blue Cross by Father Brown's switched parcel and reformed into the priest's recurring companion.",
+  character_valentin:
+    "Aristide Valentin is the head of the Paris police whose pursuit of Flambeau opens The Innocence of Father Brown and brings him into uneasy alliance with the Essex priest."
 }
 
 function sha256(value: string | Buffer): string {
