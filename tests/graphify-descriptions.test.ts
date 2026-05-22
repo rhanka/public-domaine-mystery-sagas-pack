@@ -1,6 +1,10 @@
+import { readFileSync } from "node:fs"
+import { resolve } from "node:path"
+
 import { describe, expect, test } from "vitest"
 
 import { buildDocumentaryDescriptionIndex } from "../src/graphify-descriptions.js"
+import type { SemanticGraph } from "../src/graphify-deepening.js"
 
 describe("graphify wiki descriptions", () => {
   test("builds source-backed description sidecars for detailed ontology nodes", () => {
@@ -53,5 +57,23 @@ describe("graphify wiki descriptions", () => {
       "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
     ])
     expect(index.nodes.thin_unconfigured_node).toBeUndefined()
+  })
+
+  test("every Saga, Work, ChapterOrStory and Character node in the live graph has a curated description", () => {
+    const graphPath = resolve(process.cwd(), ".graphify/graph.json")
+    const graph = JSON.parse(readFileSync(graphPath, "utf8")) as SemanticGraph
+    const index = buildDocumentaryDescriptionIndex(graph, "live-graph")
+
+    const requiredKinds = new Set(["Saga", "Work", "ChapterOrStory", "Character"])
+    const missing: string[] = []
+    for (const node of graph.nodes) {
+      if (!requiredKinds.has(node.type)) continue
+      const record = index.nodes[node.id]
+      if (!record || typeof record.description !== "string" || record.description.trim().length === 0) {
+        missing.push(`${node.type}:${node.id}`)
+      }
+    }
+
+    expect(missing, `missing curated descriptions for: ${missing.join(", ")}`).toEqual([])
   })
 })
