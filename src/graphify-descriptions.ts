@@ -97,7 +97,49 @@ const DESCRIPTION_BY_ID: Record<string, string> = {
   story_arrest_lupin:
     "The Arrest of Arsene Lupin opens Leblanc's first collection: a wireless message warns the passengers of La Provence that Lupin is aboard, and Ganimard meets the ship to pick the burglar out of the crowd.",
   story_sherlock_holmes_too_late:
-    "Sherlock Holmes Arrives Too Late stages the first encounter between Lupin and Leblanc's parody-detective Herlock Sholmes, with Lupin slipping a chateau theft past the English investigator just before he reaches the scene."
+    "Sherlock Holmes Arrives Too Late stages the first encounter between Lupin and Leblanc's parody-detective Herlock Sholmes, with Lupin slipping a chateau theft past the English investigator just before he reaches the scene.",
+
+  // Characters - Sherlock Holmes saga
+  character_stamford:
+    "Young Stamford is Watson's former dresser at Bart's whose chance meeting at the Criterion Bar leads to the introduction with Holmes and the share of the Baker Street rooms in A Study in Scarlet.",
+  character_jefferson_hope:
+    "Jefferson Hope is the American cab-driver who tracks Enoch Drebber and Joseph Stangerson to London and kills them in retaliation for the death of Lucy Ferrier, closing the Lauriston Gardens case.",
+  character_enoch_drebber:
+    "Enoch Drebber is the Mormon elder found poisoned at Lauriston Gardens, the first victim of Jefferson Hope's revenge for the forced marriage and death of Lucy Ferrier.",
+  character_joseph_stangerson:
+    "Joseph Stangerson is Drebber's secretary and second victim of Jefferson Hope, killed at Halliday's Private Hotel as the Lauriston Gardens revenge plot closes.",
+  character_john_ferrier:
+    "John Ferrier is the Utah settler rescued by the Mormons who adopts Lucy and is killed when he refuses to give her to Drebber or Stangerson, supplying the back-story for Jefferson Hope's revenge.",
+  character_lucy_ferrier:
+    "Lucy Ferrier is John Ferrier's adopted daughter, betrothed to Jefferson Hope and forced into marriage with Enoch Drebber; her death drives the Lauriston Gardens murders.",
+  character_tobias_gregson:
+    "Inspector Tobias Gregson is the Scotland Yard officer who calls Holmes to Lauriston Gardens and competes with Lestrade for credit on the Drebber and Stangerson murders.",
+  character_lestrade:
+    "Inspector Lestrade is the dogged Scotland Yard detective who works the Lauriston Gardens case alongside Gregson and recurs across the Holmes canon as Holmes's official-force foil.",
+  character_john_rance:
+    "Constable John Rance is the Brixton-beat policeman who finds Drebber's body at Lauriston Gardens and unwittingly lets Jefferson Hope, disguised as a drunkard, slip past him.",
+  character_irene_adler:
+    "Irene Adler is the New Jersey-born opera contralto who keeps the compromising photograph of the King of Bohemia, outmaneuvers Holmes's staged fire alarm, and leaves England with her new husband Godfrey Norton.",
+  character_king_bohemia:
+    "The King of Bohemia, calling himself Count Von Kramm, hires Holmes in A Scandal in Bohemia to recover a photograph held by Irene Adler that would jeopardise his royal marriage.",
+  character_king_of_bohemia:
+    "The King of Bohemia, calling himself Count Von Kramm, hires Holmes in A Scandal in Bohemia to recover a photograph held by Irene Adler that would jeopardise his royal marriage.",
+  character_godfrey_norton:
+    "Godfrey Norton is the Inner Temple lawyer whom Irene Adler marries at the Church of St. Monica with Holmes as accidental witness, before the couple slip the King of Bohemia's reach.",
+  character_jabez_wilson:
+    "Jabez Wilson is the red-haired Coburg Square pawnbroker hired to copy the Encyclopaedia Britannica by the Red-Headed League, a sham that empties his shop so John Clay can tunnel toward the bank.",
+  character_john_clay:
+    "John Clay is the royal-blooded criminal posing as the assistant Vincent Spaulding in Jabez Wilson's pawnshop, digging the tunnel toward the City and Suburban Bank that Holmes traps in the cellar.",
+  character_duncan_ross:
+    "Duncan Ross is John Clay's confederate who fronts the Red-Headed League office, hires Jabez Wilson and shuts the League down once the tunnel from the pawnshop is ready.",
+  character_peter_jones:
+    "Inspector Peter Jones is the Scotland Yard officer who joins Holmes, Watson and Mr. Merryweather in the City and Suburban Bank cellar to arrest John Clay at the end of the Red-Headed League tunnel.",
+  character_merryweather:
+    "Mr. Merryweather is the chairman of the City and Suburban Bank who waits with Holmes in the cellar over the gold-laden vault and catches John Clay emerging from the Red-Headed League tunnel.",
+  character_sir_henry_baskerville:
+    "Sir Henry Baskerville is the Canadian heir who returns to Baskerville Hall on Dartmoor after his uncle's death and is set up as Jack Stapleton's next target for the family hound.",
+  character_jack_stapleton:
+    "Jack Stapleton is the Merripit House naturalist on Dartmoor who hides his Baskerville parentage and uses a phosphorus-painted hound to kill Sir Charles and threaten Sir Henry for the inheritance."
 }
 
 function sha256(value: string | Buffer): string {
