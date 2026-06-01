@@ -1,32 +1,38 @@
 # Lauriston Gardens revenge setting
 
-> 10 nodes
+> 17 nodes
 
 ## Key Concepts
 
-- **The Innocence of Father Brown** (6 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **Blue Cross theft plot** (5 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **The Blue Cross** (3 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **Priestly moral inference** (3 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **Father Brown** (2 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **Flambeau** (2 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **Blue Cross relic** (2 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
-- **Father Brown saga** (1 connections) — `corpus/father-brown/the-innocence-of-father-brown/metadata.json`
-- **G. K. Chesterton** (1 connections) — `corpus/father-brown/the-innocence-of-father-brown/metadata.json`
-- **Aristide Valentin** (1 connections) — `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- **The Red-Headed League** (13 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League bank plot** (9 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League bank tunnel scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Jabez Wilson** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Decoy encyclopedia-copying job** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Jabez Wilson lured away from his shop** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **John Clay** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **City and Suburban Bank** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League newspaper advertisement** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Red-Headed League advertisement** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **City bank cellar** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Vincent Spaulding alias** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Encyclopedia copying-job pages** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Duncan Ross** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Inspector Peter Jones** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Mr. Merryweather (City and Suburban Bank)** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Relationships
 
-- No strong cross-community connections detected
+- [[Sherlock Holmes anthology and Red-Headed League]] (2 shared connections)
 
 ## Source Files
 
-- `corpus/father-brown/the-innocence-of-father-brown/metadata.json`
-- `corpus/father-brown/the-innocence-of-father-brown/text.txt`
+- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 26 (100%)
+- EXTRACTED: 62 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

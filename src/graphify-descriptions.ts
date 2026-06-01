@@ -168,6 +168,8 @@ const DESCRIPTION_BY_ID: Record<string, string> = {
     "Bunny Manders is the ruined narrator of The Amateur Cracksman, who returns to the Albany after losing at baccarat and joins Raffles in his London burglaries."
 }
 
+const CORE_FALLBACK_DESCRIPTION_TYPES = new Set(["Saga", "Work", "ChapterOrStory", "Character"])
+
 function sha256(value: string | Buffer): string {
   return createHash("sha256").update(value).digest("hex")
 }
@@ -182,8 +184,15 @@ function sourceRefsForNode(node: SemanticNode): [string, ...string[]] {
   return [`${sourceFile}#${sourceLocation}`]
 }
 
+function fallbackDescriptionForNode(node: SemanticNode): string | null {
+  if (!CORE_FALLBACK_DESCRIPTION_TYPES.has(node.type)) return null
+  const sourceFile = typeof node.source_file === "string" ? node.source_file : "the corpus"
+  const sourceLocation = typeof node.source_location === "string" ? node.source_location : "source"
+  return `${node.label} is a ${node.type} node in the expanded public-domain mystery corpus, sourced from ${sourceFile} at ${sourceLocation}.`
+}
+
 function createRecord(node: SemanticNode, graphHash: string): WikiDescriptionRecord | null {
-  const description = DESCRIPTION_BY_ID[node.id]
+  const description = DESCRIPTION_BY_ID[node.id] ?? fallbackDescriptionForNode(node)
   if (!description) return null
   const evidenceRefs = sourceRefsForNode(node)
   const cacheInput = {

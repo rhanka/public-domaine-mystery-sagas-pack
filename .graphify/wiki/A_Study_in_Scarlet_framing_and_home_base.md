@@ -1,37 +1,51 @@
 # A Study in Scarlet framing and home base
 
-> 12 nodes
+> 26 nodes
 
 ## Key Concepts
 
-- **The Hound of the Baskervilles** (7 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **Baskerville hound plot** (7 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **The Adventures of Sherlock Holmes** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Sherlock Holmes saga** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
-- **Arthur Conan Doyle** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
-- **Baskerville curse investigation** (3 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **Baskerville Hall** (2 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **Grimpen Mire** (2 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **Phosphorus-painted hound** (2 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **The Blue Carbuncle** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Sir Henry Baskerville** (1 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
-- **Jack Stapleton** (1 connections) — `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- **Dr. John Thorndyke** (10 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **The Red Thumb Mark** (7 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **The Vanishing Man** (7 connections) — `corpus/dr-thorndyke/the-vanishing-man/text.txt`
+- **John Thorndyke's Cases** (6 connections) — `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- **The Adventures of Dr. Thorndyke** (5 connections) — `corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt`
+- **Dr. Thorndyke saga** (4 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
+- **R. Austin Freeman** (4 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
+- **Red thumb-mark forgery** (4 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **John Bellingham disappearance** (4 connections) — `corpus/dr-thorndyke/the-vanishing-man/text.txt`
+- **The Case of Oscar Brodski** (4 connections) — `corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt`
+- **Bloody thumb print** (3 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Laboratory reconstruction** (3 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **The Blue Sequin** (3 connections) — `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- **Dr. Jervis** (3 connections) — `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- **Oscar Brodski case** (3 connections) — `corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt`
+- **Red thumb-mark case** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Fingerprint comparison** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Thorndyke laboratory method** (2 connections) — `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- **Bellingham mummy** (2 connections) — `corpus/dr-thorndyke/the-vanishing-man/text.txt`
+- **Survivorship analysis** (2 connections) — `corpus/dr-thorndyke/the-vanishing-man/text.txt`
+- **Medico-legal reconstruction** (2 connections) — `corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt`
+- **Trace reconstruction evidence** (2 connections) — `corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt`
+- **Reuben Hornby** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **Polton** (1 connections) — `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- **Blue sequin evidence** (1 connections) — `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- *... and 1 more nodes in this community*
 
 ## Relationships
 
-- [[Sherlock Holmes anthology and Red-Headed League]] (3 shared connections)
-- [[Lauriston Gardens evidence chain]] (1 shared connections)
-- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
+- No strong cross-community connections detected
 
 ## Source Files
 
-- `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
-- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- `corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt`
+- `corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt`
+- `corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt`
+- `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
+- `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- `corpus/dr-thorndyke/the-vanishing-man/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 37 (100%)
+- EXTRACTED: 88 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

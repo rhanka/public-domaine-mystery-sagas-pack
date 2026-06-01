@@ -1,35 +1,48 @@
 # Bohemia case and Holmes cast
 
-> 13 nodes
+> 27 nodes
 
 ## Key Concepts
 
-- **The Arrest of Arsene Lupin** (12 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Arsene Lupin** (9 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Transatlantic Lupin arrest** (8 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Ganimard** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **SS La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **La Provence jewel theft** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Bernard d'Andrezy persona** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Ganimard identifies Lupin on La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **La Provence transatlantic liner** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Rozaine traveler persona** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Lupin arrest aboard La Provence** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Lupin notoriety game** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
-- **Ganimard's telegram identifying Lupin** (2 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **A Study in Scarlet** (26 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Lauriston Gardens murders** (12 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Drebber and Stangerson murders** (8 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Lauriston Gardens** (7 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Drebber found dead at Lauriston Gardens** (6 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Jefferson Hope** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Enoch Drebber** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Salt Lake Valley (Hope backstory)** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Joseph Stangerson** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Wedding ring clue** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Jefferson Hope revenge motive** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Blood-stain reagent test** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **RACHE bloodstain marking** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Cab and boot footprints at Lauriston Gardens** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Holmes blood-stain reagent** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Jefferson Hope revenge** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Wedding ring left at the murder scene** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Inspector Tobias Gregson** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Inspector Lestrade** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Lucy Ferrier** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Twin pillbox poison case** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Young Stamford** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Watson narrator role** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **221B Baker Street** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **London** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- *... and 2 more nodes in this community*
 
 ## Relationships
 
-- [[Community 8]] (3 shared connections)
+- [[Sherlock Holmes anthology and Red-Headed League]] (7 shared connections)
 
 ## Source Files
 
-- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 61 (100%)
-- INFERRED: 0 (0%)
+- EXTRACTED: 105 (96%)
+- INFERRED: 4 (4%)
 - AMBIGUOUS: 0 (0%)
 
 ---

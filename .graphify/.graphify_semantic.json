@@ -2346,6 +2346,2172 @@
       "evidence_refs": [
         "corpus/raffles/the-amateur-cracksman/text.txt#the-ides-of-march"
       ]
+    },
+    {
+      "id": "work_sign_of_the_four",
+      "label": "The Sign of the Four",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_sholto_treasure",
+      "label": "Sholto treasure case",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "character_mary_morstan",
+      "label": "Mary Morstan",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "character_thaddeus_sholto",
+      "label": "Thaddeus Sholto",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "character_jonathan_small",
+      "label": "Jonathan Small",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "character_tonga",
+      "label": "Tonga",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "object_agra_treasure",
+      "label": "Agra treasure",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "evidence_pearls_to_mary_morstan",
+      "label": "Pearls sent to Mary Morstan",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "source_location": "The Sign of the Four",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ]
+    },
+    {
+      "id": "work_memoirs_sherlock_holmes",
+      "label": "The Memoirs of Sherlock Holmes",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_silver_blaze",
+      "label": "Silver Blaze",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "Silver Blaze",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "Silver Blaze"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#silver-blaze"
+      ]
+    },
+    {
+      "id": "story_musgrave_ritual",
+      "label": "The Musgrave Ritual",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "The Musgrave Ritual",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Musgrave Ritual"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-musgrave-ritual"
+      ]
+    },
+    {
+      "id": "story_final_problem",
+      "label": "The Final Problem",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "The Final Problem",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Final Problem"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-final-problem"
+      ]
+    },
+    {
+      "id": "case_silver_blaze",
+      "label": "Silver Blaze disappearance",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "Silver Blaze",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "Silver Blaze"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#silver-blaze"
+      ]
+    },
+    {
+      "id": "character_mycroft_holmes",
+      "label": "Mycroft Holmes",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "The Greek Interpreter",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Greek Interpreter"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-greek-interpreter"
+      ]
+    },
+    {
+      "id": "character_professor_moriarty",
+      "label": "Professor Moriarty",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "The Final Problem",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Final Problem"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-final-problem"
+      ]
+    },
+    {
+      "id": "evidence_musgrave_ritual",
+      "label": "Musgrave family ritual",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "source_location": "The Musgrave Ritual",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Musgrave Ritual"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-musgrave-ritual"
+      ]
+    },
+    {
+      "id": "work_return_sherlock_holmes",
+      "label": "The Return of Sherlock Holmes",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_empty_house",
+      "label": "The Empty House",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Empty House",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Empty House"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-empty-house"
+      ]
+    },
+    {
+      "id": "story_dancing_men",
+      "label": "The Dancing Men",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Dancing Men",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Dancing Men"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ]
+    },
+    {
+      "id": "story_six_napoleons",
+      "label": "The Six Napoleons",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Six Napoleons",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Six Napoleons"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-six-napoleons"
+      ]
+    },
+    {
+      "id": "character_colonel_moran",
+      "label": "Colonel Sebastian Moran",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Empty House",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Empty House"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-empty-house"
+      ]
+    },
+    {
+      "id": "character_hilton_cubitt",
+      "label": "Hilton Cubitt",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Dancing Men",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Dancing Men"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ]
+    },
+    {
+      "id": "character_beppo",
+      "label": "Beppo",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Six Napoleons",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Six Napoleons"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-six-napoleons"
+      ]
+    },
+    {
+      "id": "evidence_dancing_men_cipher",
+      "label": "Dancing Men cipher",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "source_location": "The Dancing Men",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Dancing Men"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ]
+    },
+    {
+      "id": "work_valley_of_fear",
+      "label": "The Valley of Fear",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_birlstone_manor",
+      "label": "Birlstone Manor murder",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "Birlstone Manor",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ]
+    },
+    {
+      "id": "character_john_douglas",
+      "label": "John Douglas",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "Birlstone Manor",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ]
+    },
+    {
+      "id": "character_cecil_barker",
+      "label": "Cecil Barker",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "Birlstone Manor",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ]
+    },
+    {
+      "id": "character_boss_mcginty",
+      "label": "Boss McGinty",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "The Scowrers",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "The Scowrers"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ]
+    },
+    {
+      "id": "character_birdy_edwards",
+      "label": "Birdy Edwards",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "The Scowrers",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "The Scowrers"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ]
+    },
+    {
+      "id": "organization_scowrers",
+      "label": "The Scowrers",
+      "type": "Organization",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "The Scowrers",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "The Scowrers"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ]
+    },
+    {
+      "id": "crime_scowrers_violence",
+      "label": "Scowrers intimidation campaign",
+      "type": "CrimeOrScheme",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "source_location": "The Scowrers",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "The Scowrers"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ]
+    },
+    {
+      "id": "work_his_last_bow",
+      "label": "His Last Bow",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_bruce_partington_plans",
+      "label": "The Bruce-Partington Plans",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "The Bruce-Partington Plans",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "The Bruce-Partington Plans"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-bruce-partington-plans"
+      ]
+    },
+    {
+      "id": "story_dying_detective",
+      "label": "The Dying Detective",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "The Dying Detective",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "The Dying Detective"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-dying-detective"
+      ]
+    },
+    {
+      "id": "story_his_last_bow",
+      "label": "His Last Bow",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "His Last Bow",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "His Last Bow"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ]
+    },
+    {
+      "id": "character_von_bork",
+      "label": "Von Bork",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "His Last Bow",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "His Last Bow"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ]
+    },
+    {
+      "id": "object_bruce_partington_plans",
+      "label": "Bruce-Partington plans",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "The Bruce-Partington Plans",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "The Bruce-Partington Plans"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-bruce-partington-plans"
+      ]
+    },
+    {
+      "id": "crime_wartime_spy_plot",
+      "label": "Wartime spy plot",
+      "type": "CrimeOrScheme",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "source_location": "His Last Bow",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "His Last Bow"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ]
+    },
+    {
+      "id": "work_case_book_sherlock_holmes",
+      "label": "The Case-Book of Sherlock Holmes",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_illustrious_client",
+      "label": "The Illustrious Client",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Illustrious Client",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Illustrious Client"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-illustrious-client"
+      ]
+    },
+    {
+      "id": "story_three_garridebs",
+      "label": "The Three Garridebs",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Three Garridebs",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Three Garridebs"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-three-garridebs"
+      ]
+    },
+    {
+      "id": "story_thor_bridge",
+      "label": "The Problem of Thor Bridge",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Problem of Thor Bridge",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Problem of Thor Bridge"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-problem-of-thor-bridge"
+      ]
+    },
+    {
+      "id": "story_lions_mane",
+      "label": "The Lion's Mane",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Lion's Mane",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Lion's Mane"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-lions-mane"
+      ]
+    },
+    {
+      "id": "character_violet_de_merville",
+      "label": "Violet de Merville",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Illustrious Client",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Illustrious Client"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-illustrious-client"
+      ]
+    },
+    {
+      "id": "character_killer_evans",
+      "label": "Killer Evans",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Three Garridebs",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Three Garridebs"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-three-garridebs"
+      ]
+    },
+    {
+      "id": "evidence_lions_mane_jellyfish",
+      "label": "Lion's Mane jellyfish evidence",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "source_location": "The Lion's Mane",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Lion's Mane"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-lions-mane"
+      ]
+    },
+    {
+      "id": "work_arsene_lupin_novel",
+      "label": "Arsene Lupin",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_charmerace_identity",
+      "label": "Charmerace identity scheme",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ]
+    },
+    {
+      "id": "character_duke_charmerace",
+      "label": "Duke of Charmerace",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ]
+    },
+    {
+      "id": "character_sonia_kritchnoff",
+      "label": "Sonia Kritchnoff",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ]
+    },
+    {
+      "id": "character_guerchard",
+      "label": "Guerchard",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ]
+    },
+    {
+      "id": "character_victoire",
+      "label": "Victoire",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ]
+    },
+    {
+      "id": "disguise_charmerace",
+      "label": "Charmerace persona",
+      "type": "DisguisePersona",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "source_location": "Arsene Lupin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ]
+    },
+    {
+      "id": "work_blonde_lady",
+      "label": "The Blonde Lady",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_blue_diamond",
+      "label": "Blue Diamond affair",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "source_location": "The Blue Diamond",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blue Diamond"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blue-diamond"
+      ]
+    },
+    {
+      "id": "character_blonde_lady",
+      "label": "The Blonde Lady",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "source_location": "The Blonde Lady",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blonde Lady"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blonde-lady"
+      ]
+    },
+    {
+      "id": "object_blue_diamond",
+      "label": "Blue Diamond",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "source_location": "The Blue Diamond",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blue Diamond"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blue-diamond"
+      ]
+    },
+    {
+      "id": "crime_blonde_lady_thefts",
+      "label": "Blonde Lady thefts",
+      "type": "CrimeOrScheme",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "source_location": "The Blonde Lady",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blonde Lady"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blonde-lady"
+      ]
+    },
+    {
+      "id": "work_hollow_needle",
+      "label": "The Hollow Needle",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_hollow_needle_secret",
+      "label": "Hollow Needle secret",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "source_location": "The Hollow Needle",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ]
+    },
+    {
+      "id": "character_isidore_beautrelet",
+      "label": "Isidore Beautrelet",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "source_location": "The Hollow Needle",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ]
+    },
+    {
+      "id": "location_aiguille_etretat",
+      "label": "Aiguille d'Etretat",
+      "type": "Location",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "source_location": "The Hollow Needle",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ]
+    },
+    {
+      "id": "object_hollow_needle_secret",
+      "label": "Hollow Needle secret",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "source_location": "The Hollow Needle",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ]
+    },
+    {
+      "id": "work_crystal_stopper",
+      "label": "The Crystal Stopper",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_crystal_stopper",
+      "label": "Crystal stopper case",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "source_location": "The Crystal Stopper",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ]
+    },
+    {
+      "id": "character_daubrecq",
+      "label": "Daubrecq",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "source_location": "The Crystal Stopper",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ]
+    },
+    {
+      "id": "object_crystal_stopper",
+      "label": "Crystal stopper",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "source_location": "The Crystal Stopper",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ]
+    },
+    {
+      "id": "object_hidden_list",
+      "label": "Hidden list",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "source_location": "The Crystal Stopper",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ]
+    },
+    {
+      "id": "work_wisdom_father_brown",
+      "label": "The Wisdom of Father Brown",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_absence_mr_glass",
+      "label": "The Absence of Mr. Glass",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "source_location": "The Absence of Mr. Glass",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Absence of Mr. Glass"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-absence-of-mr-glass"
+      ]
+    },
+    {
+      "id": "story_paradise_thieves",
+      "label": "The Paradise of Thieves",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "source_location": "The Paradise of Thieves",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Paradise of Thieves"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-paradise-of-thieves"
+      ]
+    },
+    {
+      "id": "case_mr_glass",
+      "label": "Mr. Glass disappearance",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "source_location": "The Absence of Mr. Glass",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Absence of Mr. Glass"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-absence-of-mr-glass"
+      ]
+    },
+    {
+      "id": "method_moral_inference_wisdom",
+      "label": "Moral inference across the Wisdom cases",
+      "type": "ForensicMethod",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "source_location": "The Absence of Mr. Glass",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Absence of Mr. Glass"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-absence-of-mr-glass"
+      ]
+    },
+    {
+      "id": "work_secret_father_brown",
+      "label": "The Secret of Father Brown",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_secret_father_brown",
+      "label": "The Secret of Father Brown",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "source_location": "The Secret of Father Brown",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "The Secret of Father Brown"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-secret-of-father-brown"
+      ]
+    },
+    {
+      "id": "story_mirror_magistrate",
+      "label": "The Mirror of the Magistrate",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "source_location": "The Mirror of the Magistrate",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "The Mirror of the Magistrate"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-mirror-of-the-magistrate"
+      ]
+    },
+    {
+      "id": "case_father_brown_method",
+      "label": "Father Brown method explanation",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "source_location": "The Secret of Father Brown",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "The Secret of Father Brown"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-secret-of-father-brown"
+      ]
+    },
+    {
+      "id": "method_criminal_imagination",
+      "label": "Criminal imagination method",
+      "type": "ForensicMethod",
+      "file_type": "concept",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "source_location": "The Secret of Father Brown",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "The Secret of Father Brown"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-secret-of-father-brown"
+      ]
+    },
+    {
+      "id": "work_john_thorndyke_cases",
+      "label": "John Thorndyke's Cases",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_blue_sequin",
+      "label": "The Blue Sequin",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "source_location": "The Blue Sequin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ]
+    },
+    {
+      "id": "character_dr_jervis",
+      "label": "Dr. Jervis",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "source_location": "The Blue Sequin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ]
+    },
+    {
+      "id": "character_polton",
+      "label": "Polton",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "source_location": "The Blue Sequin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ]
+    },
+    {
+      "id": "method_thorndyke_laboratory",
+      "label": "Thorndyke laboratory method",
+      "type": "ForensicMethod",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "source_location": "The Blue Sequin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ]
+    },
+    {
+      "id": "evidence_blue_sequin",
+      "label": "Blue sequin evidence",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "source_location": "The Blue Sequin",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ]
+    },
+    {
+      "id": "work_vanishing_man",
+      "label": "The Vanishing Man",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_john_bellingham_disappearance",
+      "label": "John Bellingham disappearance",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "source_location": "The Vanishing Man",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ]
+    },
+    {
+      "id": "character_john_bellingham",
+      "label": "John Bellingham",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "source_location": "The Vanishing Man",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ]
+    },
+    {
+      "id": "character_harold_bellingham",
+      "label": "Harold Bellingham",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "source_location": "The Vanishing Man",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ]
+    },
+    {
+      "id": "object_bellingham_mummy",
+      "label": "Bellingham mummy",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "source_location": "The Vanishing Man",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ]
+    },
+    {
+      "id": "method_survivorship_analysis",
+      "label": "Survivorship analysis",
+      "type": "ForensicMethod",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "source_location": "The Vanishing Man",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ]
+    },
+    {
+      "id": "work_adventures_dr_thorndyke",
+      "label": "The Adventures of Dr. Thorndyke",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_case_of_oscar_brodsky",
+      "label": "The Case of Oscar Brodski",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "source_location": "The Case of Oscar Brodski",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ]
+    },
+    {
+      "id": "case_oscar_brodsky",
+      "label": "Oscar Brodski case",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "source_location": "The Case of Oscar Brodski",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ]
+    },
+    {
+      "id": "method_medico_legal_reconstruction",
+      "label": "Medico-legal reconstruction",
+      "type": "ForensicMethod",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "source_location": "The Case of Oscar Brodski",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ]
+    },
+    {
+      "id": "evidence_trace_reconstruction",
+      "label": "Trace reconstruction evidence",
+      "type": "Evidence",
+      "file_type": "concept",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "source_location": "The Case of Oscar Brodski",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ]
+    },
+    {
+      "id": "work_raffles_further_adventures",
+      "label": "Raffles: Further Adventures of the Amateur Cracksman",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_no_sinecure",
+      "label": "No Sinecure",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "source_location": "No Sinecure",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ]
+    },
+    {
+      "id": "case_raffles_return",
+      "label": "Raffles return scheme",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "source_location": "No Sinecure",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ]
+    },
+    {
+      "id": "crime_raffles_return_burglary",
+      "label": "Raffles return burglary",
+      "type": "CrimeOrScheme",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "source_location": "No Sinecure",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ]
+    },
+    {
+      "id": "method_disguise_after_return",
+      "label": "Disguise after return",
+      "type": "DisguisePersona",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "source_location": "No Sinecure",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ]
+    },
+    {
+      "id": "work_thief_in_the_night",
+      "label": "A Thief in the Night",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#work"
+      ]
+    },
+    {
+      "id": "story_out_of_paradise",
+      "label": "Out of Paradise",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "source_location": "Out of Paradise",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "Out of Paradise"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#out-of-paradise"
+      ]
+    },
+    {
+      "id": "story_trap_to_catch_cracksman",
+      "label": "A Trap to Catch a Cracksman",
+      "type": "ChapterOrStory",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "source_location": "A Trap to Catch a Cracksman",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "A Trap to Catch a Cracksman"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#a-trap-to-catch-a-cracksman"
+      ]
+    },
+    {
+      "id": "case_trap_to_catch_cracksman",
+      "label": "Trap to catch a cracksman",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "source_location": "A Trap to Catch a Cracksman",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "A Trap to Catch a Cracksman"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#a-trap-to-catch-a-cracksman"
+      ]
+    },
+    {
+      "id": "crime_raffles_palace_gardens",
+      "label": "Palace Gardens burglary",
+      "type": "CrimeOrScheme",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "source_location": "Out of Paradise",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "Out of Paradise"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#out-of-paradise"
+      ]
+    },
+    {
+      "id": "work_mr_justice_raffles",
+      "label": "Mr. Justice Raffles",
+      "type": "Work",
+      "file_type": "document",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "source_location": "work",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "work"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#work"
+      ]
+    },
+    {
+      "id": "case_dan_levy_emeralds",
+      "label": "Dan Levy emeralds affair",
+      "type": "Case",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "source_location": "An Inaugural Banquet",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "An Inaugural Banquet"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ]
+    },
+    {
+      "id": "character_dan_levy",
+      "label": "Dan Levy",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "source_location": "An Inaugural Banquet",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "An Inaugural Banquet"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ]
+    },
+    {
+      "id": "character_camilla_belsize",
+      "label": "Camilla Belsize",
+      "type": "Character",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "source_location": "Camilla Belsize",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "Camilla Belsize"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#camilla-belsize"
+      ]
+    },
+    {
+      "id": "object_levy_emerald_necklace",
+      "label": "Levy emerald necklace",
+      "type": "Object",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "source_location": "An Inaugural Banquet",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "An Inaugural Banquet"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ]
+    },
+    {
+      "id": "crime_raffles_private_justice",
+      "label": "Raffles private justice scheme",
+      "type": "CrimeOrScheme",
+      "file_type": "concept",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "source_location": "Trial by Raffles",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "Trial by Raffles"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#trial-by-raffles"
+      ]
+    },
+    {
+      "id": "translator_edgar-jepson",
+      "label": "Edgar Jepson",
+      "type": "Translator",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/metadata.json#metadata"
+      ]
+    },
+    {
+      "id": "translator_alexander-teixeira-de-mattos",
+      "label": "Alexander Teixeira de Mattos",
+      "type": "Translator",
+      "file_type": "concept",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "source_location": "metadata",
+      "confidence": "EXTRACTED",
+      "status": "validated",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
     }
   ],
   "edges": [
@@ -6159,6 +8325,3430 @@
       ],
       "evidence_refs": [
         "corpus/raffles/the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "work_sign_of_the_four",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_watson",
+      "target": "work_sign_of_the_four",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_mary_morstan",
+      "target": "work_sign_of_the_four",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "character_thaddeus_sholto",
+      "target": "work_sign_of_the_four",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "character_jonathan_small",
+      "target": "work_sign_of_the_four",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "case_sholto_treasure",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "case_sholto_treasure",
+      "target": "character_mary_morstan",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "case_sholto_treasure",
+      "target": "character_jonathan_small",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "case_sholto_treasure",
+      "target": "object_agra_treasure",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "case_sholto_treasure",
+      "target": "evidence_pearls_to_mary_morstan",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt",
+          "section": "The Sign of the Four"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "work_memoirs_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_watson",
+      "target": "work_memoirs_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "story_silver_blaze",
+      "target": "character_sherlock_holmes",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#silver-blaze"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "Silver Blaze"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "case_silver_blaze",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#silver-blaze"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "Silver Blaze"
+        }
+      ]
+    },
+    {
+      "source": "story_musgrave_ritual",
+      "target": "evidence_musgrave_ritual",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-musgrave-ritual"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Musgrave Ritual"
+        }
+      ]
+    },
+    {
+      "source": "story_final_problem",
+      "target": "character_professor_moriarty",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-final-problem"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Final Problem"
+        }
+      ]
+    },
+    {
+      "source": "character_professor_moriarty",
+      "target": "character_sherlock_holmes",
+      "relation": "opposes",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-final-problem"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Final Problem"
+        }
+      ]
+    },
+    {
+      "source": "character_mycroft_holmes",
+      "target": "work_memoirs_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-greek-interpreter"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt",
+          "section": "The Greek Interpreter"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "work_return_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_watson",
+      "target": "work_return_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "story_empty_house",
+      "target": "character_colonel_moran",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-empty-house"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Empty House"
+        }
+      ]
+    },
+    {
+      "source": "character_colonel_moran",
+      "target": "character_sherlock_holmes",
+      "relation": "opposes",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-empty-house"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Empty House"
+        }
+      ]
+    },
+    {
+      "source": "story_dancing_men",
+      "target": "character_hilton_cubitt",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Dancing Men"
+        }
+      ]
+    },
+    {
+      "source": "story_dancing_men",
+      "target": "evidence_dancing_men_cipher",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Dancing Men"
+        }
+      ]
+    },
+    {
+      "source": "story_six_napoleons",
+      "target": "character_beppo",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-six-napoleons"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt",
+          "section": "The Six Napoleons"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "work_valley_of_fear",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_watson",
+      "target": "work_valley_of_fear",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "case_birlstone_manor",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ]
+    },
+    {
+      "source": "case_birlstone_manor",
+      "target": "character_john_douglas",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ]
+    },
+    {
+      "source": "case_birlstone_manor",
+      "target": "character_cecil_barker",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ]
+    },
+    {
+      "source": "crime_scowrers_violence",
+      "target": "organization_scowrers",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "The Scowrers"
+        }
+      ]
+    },
+    {
+      "source": "crime_scowrers_violence",
+      "target": "character_boss_mcginty",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "The Scowrers"
+        }
+      ]
+    },
+    {
+      "source": "case_birlstone_manor",
+      "target": "character_professor_moriarty",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt",
+          "section": "Birlstone Manor"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "work_his_last_bow",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_watson",
+      "target": "work_his_last_bow",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "story_bruce_partington_plans",
+      "target": "object_bruce_partington_plans",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-bruce-partington-plans"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "The Bruce-Partington Plans"
+        }
+      ]
+    },
+    {
+      "source": "character_mycroft_holmes",
+      "target": "work_his_last_bow",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-bruce-partington-plans"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "The Bruce-Partington Plans"
+        }
+      ]
+    },
+    {
+      "source": "story_his_last_bow",
+      "target": "character_von_bork",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "His Last Bow"
+        }
+      ]
+    },
+    {
+      "source": "crime_wartime_spy_plot",
+      "target": "character_von_bork",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "His Last Bow"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "character_von_bork",
+      "relation": "opposes",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/text.txt",
+          "section": "His Last Bow"
+        }
+      ]
+    },
+    {
+      "source": "character_sherlock_holmes",
+      "target": "work_case_book_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_watson",
+      "target": "work_case_book_sherlock_holmes",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "story_illustrious_client",
+      "target": "character_violet_de_merville",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-illustrious-client"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Illustrious Client"
+        }
+      ]
+    },
+    {
+      "source": "story_three_garridebs",
+      "target": "character_killer_evans",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-three-garridebs"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Three Garridebs"
+        }
+      ]
+    },
+    {
+      "source": "story_lions_mane",
+      "target": "evidence_lions_mane_jellyfish",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-lions-mane"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt",
+          "section": "The Lion's Mane"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "work_arsene_lupin_novel",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_sonia_kritchnoff",
+      "target": "work_arsene_lupin_novel",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ]
+    },
+    {
+      "source": "character_guerchard",
+      "target": "work_arsene_lupin_novel",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "disguise_charmerace",
+      "relation": "disguises_as",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ]
+    },
+    {
+      "source": "case_charmerace_identity",
+      "target": "character_arsene_lupin",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ]
+    },
+    {
+      "source": "case_charmerace_identity",
+      "target": "character_sonia_kritchnoff",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ]
+    },
+    {
+      "source": "character_guerchard",
+      "target": "character_arsene_lupin",
+      "relation": "opposes",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/text.txt",
+          "section": "Arsene Lupin"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "work_blonde_lady",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_herlock_sholmes",
+      "target": "work_blonde_lady",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "case_blue_diamond",
+      "target": "object_blue_diamond",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blue-diamond"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blue Diamond"
+        }
+      ]
+    },
+    {
+      "source": "case_blue_diamond",
+      "target": "character_blonde_lady",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blonde-lady"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blonde Lady"
+        }
+      ]
+    },
+    {
+      "source": "crime_blonde_lady_thefts",
+      "target": "object_blue_diamond",
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blue-diamond"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/text.txt",
+          "section": "The Blue Diamond"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "work_hollow_needle",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_isidore_beautrelet",
+      "target": "work_hollow_needle",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ]
+    },
+    {
+      "source": "case_hollow_needle_secret",
+      "target": "character_isidore_beautrelet",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ]
+    },
+    {
+      "source": "case_hollow_needle_secret",
+      "target": "location_aiguille_etretat",
+      "relation": "occurs_at",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ]
+    },
+    {
+      "source": "case_hollow_needle_secret",
+      "target": "object_hollow_needle_secret",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ]
+    },
+    {
+      "source": "character_isidore_beautrelet",
+      "target": "character_arsene_lupin",
+      "relation": "opposes",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/text.txt",
+          "section": "The Hollow Needle"
+        }
+      ]
+    },
+    {
+      "source": "character_arsene_lupin",
+      "target": "work_crystal_stopper",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_daubrecq",
+      "target": "work_crystal_stopper",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ]
+    },
+    {
+      "source": "case_crystal_stopper",
+      "target": "character_daubrecq",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ]
+    },
+    {
+      "source": "case_crystal_stopper",
+      "target": "object_crystal_stopper",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ]
+    },
+    {
+      "source": "case_crystal_stopper",
+      "target": "object_hidden_list",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ]
+    },
+    {
+      "source": "character_daubrecq",
+      "target": "character_arsene_lupin",
+      "relation": "opposes",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/text.txt",
+          "section": "The Crystal Stopper"
+        }
+      ]
+    },
+    {
+      "source": "character_father_brown",
+      "target": "work_wisdom_father_brown",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_flambeau",
+      "target": "work_wisdom_father_brown",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_father_brown",
+      "target": "case_mr_glass",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-absence-of-mr-glass"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Absence of Mr. Glass"
+        }
+      ]
+    },
+    {
+      "source": "character_father_brown",
+      "target": "method_moral_inference_wisdom",
+      "relation": "uses_method",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-absence-of-mr-glass"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Absence of Mr. Glass"
+        }
+      ]
+    },
+    {
+      "source": "story_paradise_thieves",
+      "target": "character_flambeau",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-paradise-of-thieves"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt",
+          "section": "The Paradise of Thieves"
+        }
+      ]
+    },
+    {
+      "source": "character_father_brown",
+      "target": "work_secret_father_brown",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_flambeau",
+      "target": "work_secret_father_brown",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_father_brown",
+      "target": "case_father_brown_method",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-secret-of-father-brown"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "The Secret of Father Brown"
+        }
+      ]
+    },
+    {
+      "source": "character_father_brown",
+      "target": "method_criminal_imagination",
+      "relation": "uses_method",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-secret-of-father-brown"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/text.txt",
+          "section": "The Secret of Father Brown"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "work_john_thorndyke_cases",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_jervis",
+      "target": "work_john_thorndyke_cases",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_polton",
+      "target": "work_john_thorndyke_cases",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "method_thorndyke_laboratory",
+      "relation": "uses_method",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ]
+    },
+    {
+      "source": "story_blue_sequin",
+      "target": "evidence_blue_sequin",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt",
+          "section": "The Blue Sequin"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "work_vanishing_man",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_jervis",
+      "target": "work_vanishing_man",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "case_john_bellingham_disappearance",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ]
+    },
+    {
+      "source": "case_john_bellingham_disappearance",
+      "target": "character_john_bellingham",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ]
+    },
+    {
+      "source": "case_john_bellingham_disappearance",
+      "target": "object_bellingham_mummy",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "method_survivorship_analysis",
+      "relation": "uses_method",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/text.txt",
+          "section": "The Vanishing Man"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "work_adventures_dr_thorndyke",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_jervis",
+      "target": "work_adventures_dr_thorndyke",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "case_oscar_brodsky",
+      "relation": "investigates",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ]
+    },
+    {
+      "source": "character_dr_thorndyke",
+      "target": "method_medico_legal_reconstruction",
+      "relation": "uses_method",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ]
+    },
+    {
+      "source": "case_oscar_brodsky",
+      "target": "evidence_trace_reconstruction",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt",
+          "section": "The Case of Oscar Brodski"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "work_raffles_further_adventures",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_bunny_manders",
+      "target": "work_raffles_further_adventures",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "crime_raffles_return_burglary",
+      "relation": "commits",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ]
+    },
+    {
+      "source": "case_raffles_return",
+      "target": "character_aj_raffles",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "method_disguise_after_return",
+      "relation": "disguises_as",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt",
+          "section": "No Sinecure"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "work_thief_in_the_night",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_bunny_manders",
+      "target": "work_thief_in_the_night",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "story_out_of_paradise",
+      "target": "character_aj_raffles",
+      "relation": "mentions",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#out-of-paradise"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "Out of Paradise"
+        }
+      ]
+    },
+    {
+      "source": "case_trap_to_catch_cracksman",
+      "target": "character_aj_raffles",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#a-trap-to-catch-a-cracksman"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "A Trap to Catch a Cracksman"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "crime_raffles_palace_gardens",
+      "relation": "commits",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#out-of-paradise"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/text.txt",
+          "section": "Out of Paradise"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "work_mr_justice_raffles",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "character_bunny_manders",
+      "target": "work_mr_justice_raffles",
+      "relation": "appears_in",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#work"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "work"
+        }
+      ]
+    },
+    {
+      "source": "case_dan_levy_emeralds",
+      "target": "character_dan_levy",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "An Inaugural Banquet"
+        }
+      ]
+    },
+    {
+      "source": "case_dan_levy_emeralds",
+      "target": "object_levy_emerald_necklace",
+      "relation": "contains_evidence",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "An Inaugural Banquet"
+        }
+      ]
+    },
+    {
+      "source": "character_aj_raffles",
+      "target": "crime_raffles_private_justice",
+      "relation": "commits",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#trial-by-raffles"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "Trial by Raffles"
+        }
+      ]
+    },
+    {
+      "source": "case_dan_levy_emeralds",
+      "target": "character_aj_raffles",
+      "relation": "involves",
+      "confidence": "EXTRACTED",
+      "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ],
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/text.txt",
+          "section": "An Inaugural Banquet"
+        }
+      ]
+    },
+    {
+      "source": "work_sign_of_the_four",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_sign_of_the_four",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_memoirs_sherlock_holmes",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_memoirs_sherlock_holmes",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_return_sherlock_holmes",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_return_sherlock_holmes",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_valley_of_fear",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_valley_of_fear",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_his_last_bow",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_his_last_bow",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_case_book_sherlock_holmes",
+      "relation": "belongs_to_saga",
+      "target": "saga_sherlock-holmes",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_case_book_sherlock_holmes",
+      "relation": "written_by",
+      "target": "author_arthur-conan-doyle",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_arsene_lupin_novel",
+      "relation": "belongs_to_saga",
+      "target": "saga_arsene-lupin",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_arsene_lupin_novel",
+      "relation": "written_by",
+      "target": "author_maurice-leblanc",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_arsene_lupin_novel",
+      "relation": "translated_by",
+      "target": "translator_edgar-jepson",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_blonde_lady",
+      "relation": "belongs_to_saga",
+      "target": "saga_arsene-lupin",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_blonde_lady",
+      "relation": "written_by",
+      "target": "author_maurice-leblanc",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_blonde_lady",
+      "relation": "translated_by",
+      "target": "translator_alexander-teixeira-de-mattos",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_hollow_needle",
+      "relation": "belongs_to_saga",
+      "target": "saga_arsene-lupin",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_hollow_needle",
+      "relation": "written_by",
+      "target": "author_maurice-leblanc",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_hollow_needle",
+      "relation": "translated_by",
+      "target": "translator_alexander-teixeira-de-mattos",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_crystal_stopper",
+      "relation": "belongs_to_saga",
+      "target": "saga_arsene-lupin",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_crystal_stopper",
+      "relation": "written_by",
+      "target": "author_maurice-leblanc",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_wisdom_father_brown",
+      "relation": "belongs_to_saga",
+      "target": "saga_father-brown",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_wisdom_father_brown",
+      "relation": "written_by",
+      "target": "author_g-k-chesterton",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_secret_father_brown",
+      "relation": "belongs_to_saga",
+      "target": "saga_father-brown",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_secret_father_brown",
+      "relation": "written_by",
+      "target": "author_g-k-chesterton",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_john_thorndyke_cases",
+      "relation": "belongs_to_saga",
+      "target": "saga_dr-thorndyke",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_john_thorndyke_cases",
+      "relation": "written_by",
+      "target": "author_r-austin-freeman",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_vanishing_man",
+      "relation": "belongs_to_saga",
+      "target": "saga_dr-thorndyke",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_vanishing_man",
+      "relation": "written_by",
+      "target": "author_r-austin-freeman",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_adventures_dr_thorndyke",
+      "relation": "belongs_to_saga",
+      "target": "saga_dr-thorndyke",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_adventures_dr_thorndyke",
+      "relation": "written_by",
+      "target": "author_r-austin-freeman",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_raffles_further_adventures",
+      "relation": "belongs_to_saga",
+      "target": "saga_raffles",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_raffles_further_adventures",
+      "relation": "written_by",
+      "target": "author_e-w-hornung",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_thief_in_the_night",
+      "relation": "belongs_to_saga",
+      "target": "saga_raffles",
+      "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_thief_in_the_night",
+      "relation": "written_by",
+      "target": "author_e-w-hornung",
+      "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_mr_justice_raffles",
+      "relation": "belongs_to_saga",
+      "target": "saga_raffles",
+      "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "work_mr_justice_raffles",
+      "relation": "written_by",
+      "target": "author_e-w-hornung",
+      "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_sholto_treasure",
+      "relation": "part_of",
+      "target": "work_sign_of_the_four",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_agra_treasure",
+      "relation": "part_of",
+      "target": "work_sign_of_the_four",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_pearls_to_mary_morstan",
+      "relation": "part_of",
+      "target": "work_sign_of_the_four",
+      "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_silver_blaze",
+      "relation": "part_of",
+      "target": "work_memoirs_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_musgrave_ritual",
+      "relation": "part_of",
+      "target": "work_memoirs_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_final_problem",
+      "relation": "part_of",
+      "target": "work_memoirs_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_silver_blaze",
+      "relation": "part_of",
+      "target": "story_silver_blaze",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_musgrave_ritual",
+      "relation": "part_of",
+      "target": "story_musgrave_ritual",
+      "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_empty_house",
+      "relation": "part_of",
+      "target": "work_return_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_dancing_men",
+      "relation": "part_of",
+      "target": "work_return_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_six_napoleons",
+      "relation": "part_of",
+      "target": "work_return_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_dancing_men_cipher",
+      "relation": "part_of",
+      "target": "story_dancing_men",
+      "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_birlstone_manor",
+      "relation": "part_of",
+      "target": "work_valley_of_fear",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "organization_scowrers",
+      "relation": "part_of",
+      "target": "work_valley_of_fear",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "crime_scowrers_violence",
+      "relation": "part_of",
+      "target": "work_valley_of_fear",
+      "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-valley-of-fear/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_bruce_partington_plans",
+      "relation": "part_of",
+      "target": "work_his_last_bow",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_dying_detective",
+      "relation": "part_of",
+      "target": "work_his_last_bow",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_his_last_bow",
+      "relation": "part_of",
+      "target": "work_his_last_bow",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_bruce_partington_plans",
+      "relation": "part_of",
+      "target": "story_bruce_partington_plans",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "crime_wartime_spy_plot",
+      "relation": "part_of",
+      "target": "story_his_last_bow",
+      "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/his-last-bow/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_illustrious_client",
+      "relation": "part_of",
+      "target": "work_case_book_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_three_garridebs",
+      "relation": "part_of",
+      "target": "work_case_book_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_thor_bridge",
+      "relation": "part_of",
+      "target": "work_case_book_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_lions_mane",
+      "relation": "part_of",
+      "target": "work_case_book_sherlock_holmes",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_lions_mane_jellyfish",
+      "relation": "part_of",
+      "target": "story_lions_mane",
+      "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_charmerace_identity",
+      "relation": "part_of",
+      "target": "work_arsene_lupin_novel",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "disguise_charmerace",
+      "relation": "part_of",
+      "target": "work_arsene_lupin_novel",
+      "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/arsene-lupin/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_blue_diamond",
+      "relation": "part_of",
+      "target": "work_blonde_lady",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_blue_diamond",
+      "relation": "part_of",
+      "target": "work_blonde_lady",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "crime_blonde_lady_thefts",
+      "relation": "part_of",
+      "target": "work_blonde_lady",
+      "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-blonde-lady/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_hollow_needle_secret",
+      "relation": "part_of",
+      "target": "work_hollow_needle",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "location_aiguille_etretat",
+      "relation": "part_of",
+      "target": "work_hollow_needle",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_hollow_needle_secret",
+      "relation": "part_of",
+      "target": "work_hollow_needle",
+      "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-hollow-needle/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_crystal_stopper",
+      "relation": "part_of",
+      "target": "work_crystal_stopper",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_crystal_stopper",
+      "relation": "part_of",
+      "target": "work_crystal_stopper",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_hidden_list",
+      "relation": "part_of",
+      "target": "work_crystal_stopper",
+      "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/arsene-lupin/the-crystal-stopper/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_absence_mr_glass",
+      "relation": "part_of",
+      "target": "work_wisdom_father_brown",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_paradise_thieves",
+      "relation": "part_of",
+      "target": "work_wisdom_father_brown",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_mr_glass",
+      "relation": "part_of",
+      "target": "story_absence_mr_glass",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "method_moral_inference_wisdom",
+      "relation": "part_of",
+      "target": "story_absence_mr_glass",
+      "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-wisdom-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_secret_father_brown",
+      "relation": "part_of",
+      "target": "work_secret_father_brown",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_mirror_magistrate",
+      "relation": "part_of",
+      "target": "work_secret_father_brown",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_father_brown_method",
+      "relation": "part_of",
+      "target": "story_secret_father_brown",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "method_criminal_imagination",
+      "relation": "part_of",
+      "target": "story_secret_father_brown",
+      "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/father-brown/the-secret-of-father-brown/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_blue_sequin",
+      "relation": "part_of",
+      "target": "work_john_thorndyke_cases",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "method_thorndyke_laboratory",
+      "relation": "part_of",
+      "target": "story_blue_sequin",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_blue_sequin",
+      "relation": "part_of",
+      "target": "story_blue_sequin",
+      "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_john_bellingham_disappearance",
+      "relation": "part_of",
+      "target": "work_vanishing_man",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_bellingham_mummy",
+      "relation": "part_of",
+      "target": "work_vanishing_man",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "method_survivorship_analysis",
+      "relation": "part_of",
+      "target": "work_vanishing_man",
+      "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-vanishing-man/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_case_of_oscar_brodsky",
+      "relation": "part_of",
+      "target": "work_adventures_dr_thorndyke",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_oscar_brodsky",
+      "relation": "part_of",
+      "target": "story_case_of_oscar_brodsky",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "method_medico_legal_reconstruction",
+      "relation": "part_of",
+      "target": "story_case_of_oscar_brodsky",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "evidence_trace_reconstruction",
+      "relation": "part_of",
+      "target": "story_case_of_oscar_brodsky",
+      "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_no_sinecure",
+      "relation": "part_of",
+      "target": "work_raffles_further_adventures",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_raffles_return",
+      "relation": "part_of",
+      "target": "story_no_sinecure",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "crime_raffles_return_burglary",
+      "relation": "part_of",
+      "target": "story_no_sinecure",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "method_disguise_after_return",
+      "relation": "part_of",
+      "target": "story_no_sinecure",
+      "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_out_of_paradise",
+      "relation": "part_of",
+      "target": "work_thief_in_the_night",
+      "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "story_trap_to_catch_cracksman",
+      "relation": "part_of",
+      "target": "work_thief_in_the_night",
+      "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_trap_to_catch_cracksman",
+      "relation": "part_of",
+      "target": "story_trap_to_catch_cracksman",
+      "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "crime_raffles_palace_gardens",
+      "relation": "part_of",
+      "target": "story_out_of_paradise",
+      "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/a-thief-in-the-night/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "case_dan_levy_emeralds",
+      "relation": "part_of",
+      "target": "work_mr_justice_raffles",
+      "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "object_levy_emerald_necklace",
+      "relation": "part_of",
+      "target": "work_mr_justice_raffles",
+      "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/metadata.json#metadata"
+      ]
+    },
+    {
+      "source": "crime_raffles_private_justice",
+      "relation": "part_of",
+      "target": "work_mr_justice_raffles",
+      "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+      "confidence": "EXTRACTED",
+      "citations": [
+        {
+          "source_file": "corpus/raffles/mr-justice-raffles/metadata.json",
+          "section": "metadata"
+        }
+      ],
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/metadata.json#metadata"
       ]
     }
   ],

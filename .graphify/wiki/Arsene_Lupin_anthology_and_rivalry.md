@@ -1,39 +1,54 @@
 # Arsene Lupin anthology and rivalry
 
-> 17 nodes
+> 44 nodes
 
 ## Key Concepts
 
-- **The Red-Headed League** (13 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League bank plot** (9 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League bank tunnel scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Jabez Wilson** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Decoy encyclopedia-copying job** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Jabez Wilson lured away from his shop** (4 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **John Clay** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **City and Suburban Bank** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League newspaper advertisement** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Red-Headed League advertisement** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **City bank cellar** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Vincent Spaulding alias** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Encyclopedia copying-job pages** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Duncan Ross** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Inspector Peter Jones** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Mr. Merryweather (City and Suburban Bank)** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Arsene Lupin** (18 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **The Arrest of Arsene Lupin** (12 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **The Extraordinary Adventures of Arsene Lupin** (9 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Transatlantic Lupin arrest** (8 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Arsene Lupin** (8 connections) — `corpus/arsene-lupin/arsene-lupin/text.txt`
+- **The Blonde Lady** (8 connections) — `corpus/arsene-lupin/the-blonde-lady/text.txt`
+- **The Hollow Needle** (8 connections) — `corpus/arsene-lupin/the-hollow-needle/text.txt`
+- **The Crystal Stopper** (7 connections) — `corpus/arsene-lupin/the-crystal-stopper/text.txt`
+- **Arsene Lupin saga** (5 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json`
+- **Maurice Leblanc** (5 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json`
+- **Ganimard** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **SS La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **La Provence jewel theft** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Bernard d'Andrezy persona** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Ganimard identifies Lupin on La Provence** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Queen's Necklace theft** (4 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Hollow Needle secret** (4 connections) — `corpus/arsene-lupin/the-hollow-needle/text.txt`
+- **Crystal stopper case** (4 connections) — `corpus/arsene-lupin/the-crystal-stopper/text.txt`
+- **Queen's Necklace affair** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Herlock Sholmes** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Queen's Necklace** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **La Provence transatlantic liner** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Rozaine traveler persona** (3 connections) — `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- **Charmerace identity scheme** (3 connections) — `corpus/arsene-lupin/arsene-lupin/text.txt`
+- **Blue Diamond affair** (3 connections) — `corpus/arsene-lupin/the-blonde-lady/text.txt`
+- *... and 19 more nodes in this community*
 
 ## Relationships
 
-- [[A Study in Scarlet framing and home base]] (1 shared connections)
-- [[Sherlock Holmes anthology and Red-Headed League]] (1 shared connections)
+- No strong cross-community connections detected
 
 ## Source Files
 
-- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- `corpus/arsene-lupin/arsene-lupin/metadata.json`
+- `corpus/arsene-lupin/arsene-lupin/text.txt`
+- `corpus/arsene-lupin/the-blonde-lady/metadata.json`
+- `corpus/arsene-lupin/the-blonde-lady/text.txt`
+- `corpus/arsene-lupin/the-crystal-stopper/text.txt`
+- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json`
+- `corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt`
+- `corpus/arsene-lupin/the-hollow-needle/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 62 (100%)
+- EXTRACTED: 180 (100%)
 - INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 

@@ -1,20 +1,20 @@
 {
   "schema": "graphify_wiki_description_index_v1",
-  "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+  "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
   "prompt_version": "wiki-description-v1",
   "nodes": {
     "work_study_in_scarlet": {
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_study_in_scarlet",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "A Study in Scarlet is the 1887 novel that introduces Holmes and Watson, frames their Baker Street partnership through the Lauriston Gardens murders, and reveals Jefferson Hope's revenge on Drebber and Stangerson.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "8755f6e7c44d64e8c452ee73a842b755d3a7fc7ce933bbd8cf73e10610f6e989",
+      "cache_key": "b1a70dfedf445a85d5c6b81b17d5f27c91a643989fd3ac8dafeaa066b7bdc9a3",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -26,14 +26,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_adventures_sherlock_holmes",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Adventures of Sherlock Holmes is the 1892 short-story collection opening with A Scandal in Bohemia and gathering early Strand cases such as The Red-Headed League and The Blue Carbuncle.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "418c1d218a39e391ae04d3cafd30c4b847bdca2e18ddac6078a1b57ec1c97997",
+      "cache_key": "e7d45d67d9f38951c3c8e93d802b9aaf89abd8cde70ec8ed3750d80e353ce901",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -45,14 +45,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_extraordinary_arsene_lupin",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar is the 1907 English edition of Leblanc's first Lupin collection, opening with the La Provence arrest and the rivalry with Ganimard and Herlock Sholmes.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "b86b9ac1d0c08513316ae039c4a65fc87b175cee0c9328a037368431bb7575bb",
+      "cache_key": "10a6ec0f38bfdb83e1b7f374672cb2d6f07dea3b324a34dc3564cffd4b31c4a3",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -64,14 +64,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "story_scandal_bohemia",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "A Scandal in Bohemia is the opening story of the Adventures, in which the King of Bohemia hires Holmes to recover a compromising photograph held by Irene Adler, who outwits him after marrying Godfrey Norton.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
       ],
       "confidence": 0.9,
-      "cache_key": "33363492b7b6f4330a3ec76f8f32bea66c2b8ca8bbc30d68e7ebe0a73cdb6c54",
+      "cache_key": "090ac3faf235669302ef05dfaf1c95cca11d3b54a87469861e0c0f7bcf379e5e",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -83,14 +83,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "story_red_headed_league",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Red-Headed League is the Adventures story in which Jabez Wilson is paid to copy the Encyclopaedia while John Clay tunnels from the pawnshop to the City and Suburban Bank, joined at the trap by Inspector Peter Jones and Mr. Merryweather.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
       ],
       "confidence": 0.9,
-      "cache_key": "38ce79aab34905fdda2d68fe6c588dfa6d525ddfebf7cf83eab246b7a4f92f9f",
+      "cache_key": "d43f314ced4abcbd5b96ce30352876b929c7e7829b638b526a5ecbf6823e4f76",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -102,14 +102,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "story_blue_carbuncle",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Blue Carbuncle is the Adventures Christmas story in which a battered hat and a Christmas goose lead Holmes from Henry Baker to the jewel stolen from the Countess of Morcar at the Hotel Cosmopolitan.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#story"
       ],
       "confidence": 0.9,
-      "cache_key": "633648fa8d2fa98e4ab7b76ff2ea955ff92a84b68eaef953e2ccb945585b0746",
+      "cache_key": "c3db7c3ef8071df67b684c2c12fb9da81ca0531313b235de4dade7c49c5c0421",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -121,14 +121,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "story_arrest_lupin",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Arrest of Arsene Lupin opens Leblanc's first collection: a wireless message warns the passengers of La Provence that Lupin is aboard, and Ganimard meets the ship to pick the burglar out of the crowd.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#story"
       ],
       "confidence": 0.9,
-      "cache_key": "e2b7971e6b2f404882861cb927bf2b595271f11cec5f32bc93914fcce6d86f8e",
+      "cache_key": "fc0ea22cc4a944de09f317d8681e5c44119ec3b50afc34f198757ae0ead1a090",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -140,14 +140,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "story_sherlock_holmes_too_late",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Sherlock Holmes Arrives Too Late stages the first encounter between Lupin and Leblanc's parody-detective Herlock Sholmes, with Lupin slipping a chateau theft past the English investigator just before he reaches the scene.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#story"
       ],
       "confidence": 0.9,
-      "cache_key": "e020547e9e74f39e2cf6f766fcd1134e936636b04b4b406d770f17b0439d2163",
+      "cache_key": "ac2cbeb1058a70a1acd230f6553b42bf91e7d60b819ebe518e6584f19f8e2ca1",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -159,14 +159,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_lauriston_gardens",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Lauriston Gardens murders center on the deaths of Enoch Drebber and Joseph Stangerson, with blood traces, the wedding ring, and the revenge inscription shaping Holmes's reconstruction.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "084d8fd7b40acd0bd668bf549e67a6a49dfda613ba524735b0637710d1d63ee0",
+      "cache_key": "f67dd5b1008e2a7ee23a7efae1c0b38462f3656562aab9ede1e38d516b3c77c8",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -178,14 +178,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_bohemia_photograph",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Bohemia photograph case turns on the King's fear that Irene Adler can use a compromising photograph against his reputation.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "08614b28135f76f234a7c6a8935959fbb28a12bccf19a45101eba800ad48f99e",
+      "cache_key": "32cef5d8e3852860c6deaf0fed2c7217afb9bd02ea035d6deb27c295315db05f",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -197,14 +197,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_lupin_transatlantic",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Transatlantic Lupin arrest case follows the hunt for Lupin aboard La Provence after passengers learn that the famous thief is hiding among them.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "3bfdb21488d552a29297c0c542f84584222aa637fe9ad636cd10e22772b11e78",
+      "cache_key": "f5c8fd2dc6ac4ee0d48bfdec5bac8f8e35a3e66144dfc0683966d479f09faa3b",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -216,14 +216,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "case_queen_necklace",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Queen's Necklace affair is a Lupin case centered on the necklace as both coveted object and narrative proof of the thief's reach.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-queen's-necklace"
       ],
       "confidence": 0.9,
-      "cache_key": "33e1f17779752850a8254c0de54a43003ff50cb34f6d8b2d1dbbfccbb993c966",
+      "cache_key": "f2a105526021892c2e4a2a91ac58890e39cc77141a6e6cc5466c5950dce09216",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -235,14 +235,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_sherlock_holmes",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Sherlock Holmes is the consulting detective whose laboratory methods, close observation, and staged tests connect the Lauriston Gardens murders, the Bohemia photograph case, and the Red-Headed League bank plot.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "cbc8ed3cf8f9e3c4e1fe742bcfcb03f5179f89f30a0d4e35d9d3be858b63a336",
+      "cache_key": "87b05d52da8168043d4ec48f8baafe71296e6894a5cb2a724ce2ab7b9b36ce44",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -254,14 +254,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_dr_watson",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Dr. John H. Watson is the witness-narrator who introduces Holmes, records the Baker Street partnership, and anchors the reader's view of the investigations.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "52372643325c2823a61c5e72ba00fbb0855a916e85c9eac73913f8de0b099e74",
+      "cache_key": "c7a6c7bcfabbbd15877cc212380ff4cf7eb809df55798966170e719f0e3fed05",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -273,14 +273,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_stamford",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Young Stamford is Watson's former dresser at Bart's whose chance meeting at the Criterion Bar leads to the introduction with Holmes and the share of the Baker Street rooms in A Study in Scarlet.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "dacce61049d169765fbb0ec5f3d3dcbbd1514089983c6dcd81e0e168fe041a23",
+      "cache_key": "b66ebde9e72f82ead13287c14b9290aba57511184d3d5c917df4976832d12bd0",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -292,14 +292,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_jefferson_hope",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Jefferson Hope is the American cab-driver who tracks Enoch Drebber and Joseph Stangerson to London and kills them in retaliation for the death of Lucy Ferrier, closing the Lauriston Gardens case.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
       "confidence": 0.9,
-      "cache_key": "f5c0ea8641c2b974bd087949641adaa2b5ba5ed8e7ee8de28fdba1152b9965d8",
+      "cache_key": "abd8c2c565e3d4ce674e0dcdc17e0e7e6113df5461f8d80b876d11e62292cd7d",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -311,14 +311,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_enoch_drebber",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Enoch Drebber is the Mormon elder found poisoned at Lauriston Gardens, the first victim of Jefferson Hope's revenge for the forced marriage and death of Lucy Ferrier.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "8d000a002539293101af04d75586ef9b0723f23388aa2d79e6b016e4f01efcda",
+      "cache_key": "6375e0beaae6b5e3c53ab758931d76f13fef4052d1494e6b4e2ea0b4f6067593",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -330,14 +330,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_joseph_stangerson",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Joseph Stangerson is Drebber's secretary and second victim of Jefferson Hope, killed at Halliday's Private Hotel as the Lauriston Gardens revenge plot closes.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "c682407f55a2fcbc8a604c9e371ab9202f54447db71e8ae9cd8a95a7c16d655a",
+      "cache_key": "a280d5f2c560145b9afaa637ea60ffbfd6474b5537bd08aba69629d9df10c50e",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -349,14 +349,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_irene_adler",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Irene Adler is the New Jersey-born opera contralto who keeps the compromising photograph of the King of Bohemia, outmaneuvers Holmes's staged fire alarm, and leaves England with her new husband Godfrey Norton.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "8a652c660b79c25d82980bbd3890307ce9a955ab089c814e5c58b05a95c90ac8",
+      "cache_key": "1ba4fc61ecdd53744e3271c95e26550e8321d54e7b0c68cd1ca27fdc0f56ce25",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -368,14 +368,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_king_bohemia",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The King of Bohemia, calling himself Count Von Kramm, hires Holmes in A Scandal in Bohemia to recover a photograph held by Irene Adler that would jeopardise his royal marriage.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "af0ea6595a1cccd6ba57408555d0a63d83ad6cb82039b3e2410962e744ebe8af",
+      "cache_key": "27fb9080f5fafd9bcb8ef5b4b1db6a0546c4d48e96c1b0313f9703caa062be60",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -387,14 +387,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_jabez_wilson",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Jabez Wilson is the red-haired Coburg Square pawnbroker hired to copy the Encyclopaedia Britannica by the Red-Headed League, a sham that empties his shop so John Clay can tunnel toward the bank.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "2f160400f46ab017f088ea65d93fa877edd189c9f3a1cc70258172d6e1b6a8e3",
+      "cache_key": "6f7f828799432b0c5862aac141b1ea6db98c511db009a42d0a17e05c41b6de7f",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -406,14 +406,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_john_clay",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "John Clay is the royal-blooded criminal posing as the assistant Vincent Spaulding in Jabez Wilson's pawnshop, digging the tunnel toward the City and Suburban Bank that Holmes traps in the cellar.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "2039f2b602a957f75078271d5d5cac90c5a384a4a757381c6ac8bb83730ec3de",
+      "cache_key": "1384af9318eabe92515ab73324f6ec25b9812a6b225e761eb1d809bc1c0d76f9",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -425,14 +425,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_arsene_lupin",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Arsene Lupin is the gentleman-burglar whose disguise, notoriety, and rivalry with detectives structure the La Provence theft and later stories.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#collection"
       ],
       "confidence": 0.9,
-      "cache_key": "1cfef2992402cc14b5f90b196a924d414ebb85b9522c9f7706ea71aeb4a75110",
+      "cache_key": "467f443108eb3c46b9eeb2b5b3fb59db95ade4f6b6526e924f8510ccf0765aad",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -444,14 +444,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_ganimard",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Ganimard is the Surete inspector cast as Lupin's official-police rival, who boards La Provence in The Arrest of Arsene Lupin and picks the disguised burglar out of the passengers.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "57bd5d9a8512e791d2c73dc5f89025e25947fee71feed190a214f9ce0ddd6dab",
+      "cache_key": "a0f0fd027f5ac5a6cfa8868bcf36cd48b8860740b352e5fdc09edd23f557c5f2",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -463,14 +463,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_herlock_sholmes",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Herlock Sholmes is Leblanc's parody of Conan Doyle's detective, brought into the Lupin stories to be outpaced by the burglar, most pointedly in Sherlock Holmes Arrives Too Late.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#sherlock-holmes-arrives-too-late"
       ],
       "confidence": 0.9,
-      "cache_key": "44bcdd2f19961dd9d8f75858b9244633166035152f1a14a819cbc3251674f3a5",
+      "cache_key": "a8f4740637434ef8742a90c8362295aeccfeba9ce7d2ad8fd7bd09feffc88144",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -482,14 +482,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "object_wedding_ring",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The wedding ring is a concrete clue from the Lauriston Gardens scene and becomes a trap when Holmes tries to draw the murderer back to recover it.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#case-evidence"
       ],
       "confidence": 0.9,
-      "cache_key": "bd83443d0ef352ad65a33d9af83ec56da64130c7fd60d7832f46ee31ab2f60e3",
+      "cache_key": "7313a0877441b77dc347afb0f707edcb23dbff71187001ae5f5694760166d8a7",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -501,14 +501,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "organization_red_headed_league",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Red-Headed League is a decoy organization whose advertisement and copying job conceal the bank tunnel plan.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "82c02892436a64eff4af730f1dd399c776de69a588b2adf5d44cc95cc5649c4b",
+      "cache_key": "11097104943fd0621454f1669f8c4da2bd8d653ef1c09c0487044f2bfc2003a9",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -520,14 +520,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_sherlock-holmes",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Sherlock Holmes saga groups Conan Doyle's Holmes works so cases, methods, recurring protagonists, and Baker Street settings can be read across books and stories.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "cb43e8ef6f6abc0b87e81b2df57488dab53052af07149dbcd77115b78451db9e",
+      "cache_key": "7d4ef0d1b5dd827bc83e1f3d44947a8875f0295bd46afb32f0ddb62982fff23b",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -539,14 +539,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_arsene-lupin",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Arsene Lupin saga groups Leblanc's Lupin stories around thefts, disguises, detective rivalry, and the burglar's public persona.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "195fe0dea3870d7c80b1bb0db03cb77596e3e87b59ebd00c05cde2f33ba974e7",
+      "cache_key": "37638c3a59bae97332e80c0dfe1dedd73074f1d95f515744f0c7e19d4bd26eac",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -558,14 +558,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "crime_drebber_stangerson_murders",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Drebber and Stangerson murders are modeled as the underlying crime scheme behind the Lauriston Gardens case, driven by Jefferson Hope's revenge motive.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "4afcd721a05231bda9e9aa5a26dd66fa430485c6a7627100648a9f92f8025fd0",
+      "cache_key": "655d4ef02984508020cb4c49ce72d5c67d8d4d9b5b96f72f46eb062a49c8fd73",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -577,14 +577,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "motive_jefferson_hope_revenge",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Jefferson Hope's revenge motive explains why the Lauriston Gardens case is not a robbery but a retaliatory murder plot.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
       "confidence": 0.9,
-      "cache_key": "f1aab4b56d07e391c63656f387603f9cc42302ac04162206ef019fdc5fc142d1",
+      "cache_key": "8032e073e591b410f3fdccf8e905c0fce68d8844f26f04a4321f7892257b7989",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -596,14 +596,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "method_blood_stain_reagent",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The blood-stain reagent test is an early forensic method Holmes demonstrates before the case, then ties to the interpretation of blood evidence at Lauriston Gardens.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#laboratory-scene"
       ],
       "confidence": 0.9,
-      "cache_key": "ac94aece923f906f56e1bf13d497a6548da95c6800369175a11f2a6327bed673",
+      "cache_key": "8a78afcf8d232f59cafbaf6c231c7dd8cd098e541f19511213e5f591a1816686",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -615,14 +615,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "method_staged_fire_alarm",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The staged fire alarm is Holmes's tactic for making Irene Adler reveal where she has hidden the photograph.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "029b1a5c125947c8736e312ec03046b55345a7e1411ef55f8598de7fbd7871cd",
+      "cache_key": "68441799b962e0833e24776eac0407e26ff92bbb28c7a4984d3e12db73ca161c",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -634,14 +634,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "crime_red_headed_bank_tunnel",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Red-Headed League bank tunnel scheme uses a fake clerical job to remove Jabez Wilson from his shop while John Clay works toward the bank cellar.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "4b14a0f1de2e16ecd585f7e80e45aa7095960ffc925bd3ae3ddc140d57d128f0",
+      "cache_key": "9a3ece8808f7f6e37e418a471d12b97b4569b8d4945f7c104d20604a7cf4d1c9",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -653,14 +653,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "crime_transatlantic_jewel_theft",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The La Provence jewel theft captures Lupin's habit of making theft, disguise, and public reputation part of the same performance.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "4ad2edd75bb4fc3001fad1a463abb5a1afe26cd6765e815e175e9107a03abf42",
+      "cache_key": "623421a6440566769edaaa96bbe7d40e3ef6b30eec1438d0dcafca1be1b2e6f6",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -672,14 +672,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "disguise_bernard_dandrezy",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Bernard d'Andrezy persona is the assumed identity under which Lupin travels before Ganimard identifies him.",
       "evidence_refs": [
         "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#the-arrest-of-arsene-lupin"
       ],
       "confidence": 0.9,
-      "cache_key": "622e2d51acd16ddd4623d3d8d6ba43d57262b619862cc9e12d282180f9a39cb4",
+      "cache_key": "3bbf12528d94c37944174bc5d40ad3d079e2d3b809ce08fd5fc4774914da883a",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -691,14 +691,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_tobias_gregson",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Inspector Tobias Gregson is the Scotland Yard officer who calls Holmes to Lauriston Gardens and competes with Lestrade for credit on the Drebber and Stangerson murders.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "3bb7e4ec3d22c3a26b391962f0d58ddf96b7664967c1a6c2fbacd393381e0745",
+      "cache_key": "484c33b056cbf980609cb5f2da4b291ad16c6d9037dfd110d412c53ad3177c45",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -710,14 +710,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_lestrade",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Inspector Lestrade is the dogged Scotland Yard detective who works the Lauriston Gardens case alongside Gregson and recurs across the Holmes canon as Holmes's official-force foil.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "091010b666552be82044ee4a3cb6e4b2828c442051bdd44cc04da6d46623cf27",
+      "cache_key": "bb8515464a8bb48e5ff1ed08ce4b9284b74faf90a0203f938e86e0d2101a3669",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -729,14 +729,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_john_rance",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Constable John Rance is the Brixton-beat policeman who finds Drebber's body at Lauriston Gardens and unwittingly lets Jefferson Hope, disguised as a drunkard, slip past him.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-1"
       ],
       "confidence": 0.9,
-      "cache_key": "3c0e691a7cf130ff0159f891fecfe7e770c24dd86eaff0c591fc2b22cb6ee597",
+      "cache_key": "6e9447aa08f1e094d64eaaad2818bf5f864829f18cff426521a28f92ceaef603",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -748,14 +748,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_john_ferrier",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "John Ferrier is the Utah settler rescued by the Mormons who adopts Lucy and is killed when he refuses to give her to Drebber or Stangerson, supplying the back-story for Jefferson Hope's revenge.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
       "confidence": 0.9,
-      "cache_key": "66d76b56a2ab14531d113e767a0cab882ff3d708a330bcb760c8b7492650a408",
+      "cache_key": "0612328e46c331aa1999af0c7cf235d9b441e130a0162b36213332031b778130",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -767,14 +767,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_lucy_ferrier",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Lucy Ferrier is John Ferrier's adopted daughter, betrothed to Jefferson Hope and forced into marriage with Enoch Drebber; her death drives the Lauriston Gardens murders.",
       "evidence_refs": [
         "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#part-2"
       ],
       "confidence": 0.9,
-      "cache_key": "54271428e900ef06819abae8290124721620e0cf8014f843fe97dcd02a0ce3e6",
+      "cache_key": "c531d9069b9be2e0f831837fc9d71c5179c9a3b3c86e8512d0ae1838c1b1d951",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -786,14 +786,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_king_of_bohemia",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The King of Bohemia, calling himself Count Von Kramm, hires Holmes in A Scandal in Bohemia to recover a photograph held by Irene Adler that would jeopardise his royal marriage.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "1441d5dba453799078e2d23524d6fceebb24ec9b417bdf5d999646a6e68b1216",
+      "cache_key": "3efa5b41efc48ad02a8ea4112b32bb1e0f0ba1d17076962f3e9cb7feff18928c",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -805,14 +805,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_godfrey_norton",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Godfrey Norton is the Inner Temple lawyer whom Irene Adler marries at the Church of St. Monica with Holmes as accidental witness, before the couple slip the King of Bohemia's reach.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#a-scandal-in-bohemia"
       ],
       "confidence": 0.9,
-      "cache_key": "5389f18f6cf19e1336553709b78ab8568de58d4ec192b671148b439efb7d5d0f",
+      "cache_key": "a6309cf1add0d851d1afcc0590c55b1b4004a99452218c5af59aee2ecdc558f1",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -824,14 +824,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_duncan_ross",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Duncan Ross is John Clay's confederate who fronts the Red-Headed League office, hires Jabez Wilson and shuts the League down once the tunnel from the pawnshop is ready.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "e6bb15edb8df8b0a1961a231a8771e3eb5f83f46b66a16ec5d0cae50975ea2f4",
+      "cache_key": "94d0b6bcda73fd6e639bb359b649163031e2298f3e670f5f305f986c0e88fa11",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -843,14 +843,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_peter_jones",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Inspector Peter Jones is the Scotland Yard officer who joins Holmes, Watson and Mr. Merryweather in the City and Suburban Bank cellar to arrest John Clay at the end of the Red-Headed League tunnel.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "d3b5bb5c9cb4a10a5de9efbf80965ba8efc4563830c6b5b314f2342c186216d3",
+      "cache_key": "788a280fbac192a44b2b9b3bfced559f9de4346965e483cbfd144439ec9a0642",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -862,14 +862,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_merryweather",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Mr. Merryweather is the chairman of the City and Suburban Bank who waits with Holmes in the cellar over the gold-laden vault and catches John Clay emerging from the Red-Headed League tunnel.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#the-red-headed-league"
       ],
       "confidence": 0.9,
-      "cache_key": "569d2a9033f9531e73343bdb46a47ef9af815dae054448e2fa3d45e5177430b5",
+      "cache_key": "a668365cb7479c62a35c6ab49a6926a5c0e490ed4447845d6f2e0703d4b9d18a",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -881,14 +881,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_hound_baskervilles",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Hound of the Baskervilles is the 1902 Dartmoor novel in which Holmes and Watson protect Sir Henry Baskerville from a spectral hound while Jack Stapleton works the family-curse legend toward inheritance.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "49db428c4b57832a57684b702f2e497aa3f42ab2ea7f4a3b1b92b174639a6f44",
+      "cache_key": "017b51872699bce7b5a574760628182de5026723bd3d9ad4081d99a852c53a9c",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -900,14 +900,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_innocence_father_brown",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Innocence of Father Brown is Chesterton's 1911 collection that introduces the Essex priest and the reformed thief Flambeau, opening with The Blue Cross and the pursuit led by Aristide Valentin.",
       "evidence_refs": [
         "corpus/father-brown/the-innocence-of-father-brown/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "27d294afc1edc17a875868e94f89779e40b8ae01b934b1536ec01b8fd1f8966b",
+      "cache_key": "6396e06a4712c1b5138370eb1826dae9005075279c0344c0d2617be6eadb4ff5",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -919,14 +919,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_father_brown",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Father Brown is the short, owl-eyed Essex priest whose moral imagination unmasks criminals, first crossing Aristide Valentin and the master thief Flambeau in The Blue Cross at the opening of The Innocence of Father Brown.",
       "evidence_refs": [
         "corpus/father-brown/the-innocence-of-father-brown/text.txt#the-blue-cross"
       ],
       "confidence": 0.9,
-      "cache_key": "48960fdd3d401b3ada4022a66c26ce1f09750e0b73ef964be4b2123def922626",
+      "cache_key": "13636b4eee8649e4a7323755eb78ec62b74cc3b2a6ef1c5c70af301edeaef10c",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -938,14 +938,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_red_thumb_mark",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Red Thumb Mark is R. Austin Freeman's 1907 Thorndyke novel in which a parcel of rough diamonds vanishes from John Hornby's safe and a bloody thumb-print frames the nephew Reuben Hornby.",
       "evidence_refs": [
         "corpus/dr-thorndyke/the-red-thumb-mark/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "f92d902617f9c66ee33820b404c0e3622e595eebb1a6efae438865fa1578e9dc",
+      "cache_key": "192abb93698294b0bbecd0fffa1ee46ac1eeb486ee6122d566195b2048b632f4",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -957,14 +957,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_dr_thorndyke",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Dr. John Thorndyke is the barrister and medical jurist of the Inner Temple who clears Reuben Hornby in The Red Thumb Mark by exposing the bloody fingerprint on John Hornby's safe as a forgery.",
       "evidence_refs": [
         "corpus/dr-thorndyke/the-red-thumb-mark/text.txt#case"
       ],
       "confidence": 0.9,
-      "cache_key": "63e73b274e9d48d33f2f27382d8152f83e76f316ce073d9cbd741308f6c38d54",
+      "cache_key": "4f96089b905e97b93875cdc4c83ca6f5296258761adc53d40e93813b44d013d9",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -976,14 +976,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "work_amateur_cracksman",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Amateur Cracksman is E. W. Hornung's 1899 collection where A. J. Raffles, cricketer and Albany resident, recruits the ruined Bunny Manders into a run of London burglaries.",
       "evidence_refs": [
         "corpus/raffles/the-amateur-cracksman/text.txt#work"
       ],
       "confidence": 0.9,
-      "cache_key": "5a9683905a8ea308ca5fb8c8b7bfb59a312b7f0d921f6b87faa5d9bde275b4fb",
+      "cache_key": "54232ae514ee3bab25c01e2d9d2856635b9fd700194c7d34be3b64e3dd27e07e",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -995,14 +995,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_aj_raffles",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "A. J. Raffles is the celebrated cricketer and gentleman burglar who runs his thefts from his rooms at the Albany, recruiting his old school fag Bunny Manders as accomplice in The Amateur Cracksman.",
       "evidence_refs": [
         "corpus/raffles/the-amateur-cracksman/text.txt#the-ides-of-march"
       ],
       "confidence": 0.9,
-      "cache_key": "f13b7d626dd2c0bcd4a2011c68fd42c9b3763d311224878eebd3070f19a341ed",
+      "cache_key": "19e4547352932ba5ed3b9a0f1f8eb3f459b81e89f28a784b7f18961d20b0ecb0",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1014,14 +1014,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_father-brown",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Father Brown saga collects Chesterton's stories where the unassuming Essex priest pierces crimes by moral reasoning, recurring opposite the master thief Flambeau and detective Aristide Valentin.",
       "evidence_refs": [
         "corpus/father-brown/the-innocence-of-father-brown/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "b8af125b398494e54f1669aca22517d54e8107315cb9ddcc700fba45061d9556",
+      "cache_key": "b67677fe19fe7fbc7ae10dd63252c2c2b4132c438224e12658522607bedf4605",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1033,14 +1033,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_dr-thorndyke",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Dr. Thorndyke saga gathers R. Austin Freeman's medico-legal cases in which barrister-scientist John Thorndyke unpicks forgeries and framings, starting with the diamond theft and fingerprint frame of The Red Thumb Mark.",
       "evidence_refs": [
         "corpus/dr-thorndyke/the-red-thumb-mark/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "c88b0e849c58ff98ebb0b0c7c7a5fc335beb338c3fd1434d0557ea87b5731c6b",
+      "cache_key": "2272588bc1033e4da557aa31dcf4a22347cfdfb3dbd98759dd6830a46efde592",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1052,14 +1052,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "saga_raffles",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "The Raffles saga gathers E. W. Hornung's tales of A. J. Raffles, the gentleman cricketer who burgles London society from his rooms at the Albany with his old fag Bunny Manders as accomplice and narrator.",
       "evidence_refs": [
         "corpus/raffles/the-amateur-cracksman/metadata.json#metadata"
       ],
       "confidence": 0.9,
-      "cache_key": "c4dbd1cd1a3b7dba0d5e3ca897b6dd6cec7271e57873bf94ce8bd22205794530",
+      "cache_key": "b05d373bdc1b7bf482f75a371020f8213c99a6c4144f79c51cf970e6874677bc",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1071,14 +1071,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_sir_henry_baskerville",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Sir Henry Baskerville is the Canadian heir who returns to Baskerville Hall on Dartmoor after his uncle's death and is set up as Jack Stapleton's next target for the family hound.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt#case"
       ],
       "confidence": 0.9,
-      "cache_key": "86f3944bb9bbbed9b3a02eb7769314b62f72777f17a837751d4370c0dda4dcba",
+      "cache_key": "440f1d0865d82f9daa0514b9c5150be0771fea49252e4abb3d8197b2436bb841",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1090,14 +1090,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_jack_stapleton",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Jack Stapleton is the Merripit House naturalist on Dartmoor who hides his Baskerville parentage and uses a phosphorus-painted hound to kill Sir Charles and threaten Sir Henry for the inheritance.",
       "evidence_refs": [
         "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt#case"
       ],
       "confidence": 0.9,
-      "cache_key": "32270a9486d04de451e20eef64322d5ed053790496b5297144ab8af935127ada",
+      "cache_key": "1930b8ef819a9f5a1abe444502b3c79552edf12196ee3ce4e712a2c21d571fc6",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1109,14 +1109,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_flambeau",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Flambeau is the gigantic Gascon master-thief tracked across Europe by Valentin, caught in The Blue Cross by Father Brown's switched parcel and reformed into the priest's recurring companion.",
       "evidence_refs": [
         "corpus/father-brown/the-innocence-of-father-brown/text.txt#the-blue-cross"
       ],
       "confidence": 0.9,
-      "cache_key": "5a6f46d1e10c69a0de3e974863207c735ed863a83507a208c5353638b86249d0",
+      "cache_key": "5ebc4487affd050ba30298dc5c59c00bc7ce700f94b759363cc73f7961b25d8a",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1128,14 +1128,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_valentin",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Aristide Valentin is the head of the Paris police whose pursuit of Flambeau opens The Innocence of Father Brown and brings him into uneasy alliance with the Essex priest.",
       "evidence_refs": [
         "corpus/father-brown/the-innocence-of-father-brown/text.txt#the-blue-cross"
       ],
       "confidence": 0.9,
-      "cache_key": "ecfaa98aa3387d48da3929fa5ff9608bd7a55f225a9a57bb3345f110a80217d5",
+      "cache_key": "6de600d0001f25b1fb7a20655d225cf76dc0053757e3a8801b7944cd8b6e91cb",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1147,14 +1147,14 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_reuben_hornby",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Reuben Hornby is the nephew working in John Hornby's gold-refining firm whose thumb-print is found in blood in the emptied diamond safe and who hires Thorndyke to defend him in The Red Thumb Mark.",
       "evidence_refs": [
         "corpus/dr-thorndyke/the-red-thumb-mark/text.txt#case"
       ],
       "confidence": 0.9,
-      "cache_key": "1e76d23b5119e04bdb734bb1c04865faba5141c602196be3082b504462c2de5d",
+      "cache_key": "f52fa53fad41aaa2392bdc09c583a16f5dc45fc66c135c99fe8c4596210b3df2",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
@@ -1166,14 +1166,1325 @@
       "schema": "graphify_wiki_description_v1",
       "target_id": "character_bunny_manders",
       "target_kind": "node",
-      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
       "status": "generated",
       "description": "Bunny Manders is the ruined narrator of The Amateur Cracksman, who returns to the Albany after losing at baccarat and joins Raffles in his London burglaries.",
       "evidence_refs": [
         "corpus/raffles/the-amateur-cracksman/text.txt#the-ides-of-march"
       ],
       "confidence": 0.9,
-      "cache_key": "4b59911cfbb5fcc8d66c1254c9dd59b8a26dfca9fa4227e297226e1a4115898d",
+      "cache_key": "4a63b0e09b22c1dd5fdc9023900c1134dcda33c75ac3b5334130e070869527bf",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_sign_of_the_four": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_sign_of_the_four",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Sign of the Four is a Work node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-sign-of-the-four/text.txt at work.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "b29fdf405f6387a0c87e67fc6e7e1d12ee3e2d6496172a5c575da9e0331d07d4",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_mary_morstan": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_mary_morstan",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Mary Morstan is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-sign-of-the-four/text.txt at The Sign of the Four.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "confidence": 0.9,
+      "cache_key": "e138b890c719187098188c457bf252e05ea7149b94ef352b929d434a57ea1bf8",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_thaddeus_sholto": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_thaddeus_sholto",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Thaddeus Sholto is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-sign-of-the-four/text.txt at The Sign of the Four.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "confidence": 0.9,
+      "cache_key": "0b94bda6cda1e48bed9e53d5d221a1ca0c13bf2cfed4ea90f3267e25b4baa62f",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_jonathan_small": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_jonathan_small",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Jonathan Small is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-sign-of-the-four/text.txt at The Sign of the Four.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "confidence": 0.9,
+      "cache_key": "f2a4a08004b1aca6c333c143b5b54a6bd332778c498890f021d996944be7dce8",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_tonga": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_tonga",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Tonga is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-sign-of-the-four/text.txt at The Sign of the Four.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-sign-of-the-four/text.txt#the-sign-of-the-four"
+      ],
+      "confidence": 0.9,
+      "cache_key": "003c5b076ac95c51b3bdb568c9994481fe5bf7a3fb32796b985f0cb1b0bdbe3f",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_memoirs_sherlock_holmes": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_memoirs_sherlock_holmes",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Memoirs of Sherlock Holmes is a Work node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt at work.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "78b15338cf89fbf3787f31435c1495ee1221cd7bea0eadbe82a06ba3b56aa983",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_silver_blaze": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_silver_blaze",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Silver Blaze is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt at Silver Blaze.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#silver-blaze"
+      ],
+      "confidence": 0.9,
+      "cache_key": "9ff4a41d23cce5c5bdb1256f0b544ef0d661d46bdf9cb1abf8bf29d4cec35bcf",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_musgrave_ritual": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_musgrave_ritual",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Musgrave Ritual is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt at The Musgrave Ritual.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-musgrave-ritual"
+      ],
+      "confidence": 0.9,
+      "cache_key": "f07a7b59f6bd1d1f8c69b2c8f59ba3e57f80a33a7ad1399d2c14f9ff4420b1bd",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_final_problem": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_final_problem",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Final Problem is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt at The Final Problem.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-final-problem"
+      ],
+      "confidence": 0.9,
+      "cache_key": "c24decf19ca1f181a4e94ff64ef16ce262d38e3d2f3b19048175c343652bc482",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_mycroft_holmes": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_mycroft_holmes",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Mycroft Holmes is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt at The Greek Interpreter.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-greek-interpreter"
+      ],
+      "confidence": 0.9,
+      "cache_key": "43fba7d2567d2ae149b2cdd3f1a65e8750b638f2b3f729b7b0c9ef3e628f1c8c",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_professor_moriarty": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_professor_moriarty",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Professor Moriarty is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt at The Final Problem.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt#the-final-problem"
+      ],
+      "confidence": 0.9,
+      "cache_key": "ced568a9824c1363933a5f329cbe659aad789f23b58a72763a05c33fdea997be",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_return_sherlock_holmes": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_return_sherlock_holmes",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Return of Sherlock Holmes is a Work node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at work.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "bc5e6a096961b8e46450037b564c7bfa205d6e334f28b2523fdea809dbcc2b7f",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_empty_house": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_empty_house",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Empty House is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at The Empty House.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-empty-house"
+      ],
+      "confidence": 0.9,
+      "cache_key": "5c6772c85c2bd41906547ced1e9858a287fe31ac3d4736f68a20ed2d37551dc1",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_dancing_men": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_dancing_men",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Dancing Men is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at The Dancing Men.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ],
+      "confidence": 0.9,
+      "cache_key": "dd2bb833a94f801c0976b5415e6b8f0412c2748e1864e6c0183518deb8761f35",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_six_napoleons": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_six_napoleons",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Six Napoleons is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at The Six Napoleons.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-six-napoleons"
+      ],
+      "confidence": 0.9,
+      "cache_key": "9c8fa8471fb1f8fd2b0d16b499c20e5fdb727460304c2cba3dcfc1d788d3dddc",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_colonel_moran": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_colonel_moran",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Colonel Sebastian Moran is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at The Empty House.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-empty-house"
+      ],
+      "confidence": 0.9,
+      "cache_key": "9194e7a7f503d1e8a3b77d256fe8f15276c6c87831c496a2c691fe075f273c58",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_hilton_cubitt": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_hilton_cubitt",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Hilton Cubitt is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at The Dancing Men.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-dancing-men"
+      ],
+      "confidence": 0.9,
+      "cache_key": "4b1ffb47243b20700b5afbdb12542b91540003598d97bce7d409a49527b05485",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_beppo": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_beppo",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Beppo is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt at The Six Napoleons.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt#the-six-napoleons"
+      ],
+      "confidence": 0.9,
+      "cache_key": "b6dd5afd1385739e8766472743789898eb74f9b579688c61765a8b0c2580a939",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_valley_of_fear": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_valley_of_fear",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Valley of Fear is a Work node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-valley-of-fear/text.txt at work.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "159d0ae2cae44b68219ed5daf76bff74d85b710f3690f9d5c963104ca4887e52",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_john_douglas": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_john_douglas",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "John Douglas is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-valley-of-fear/text.txt at Birlstone Manor.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ],
+      "confidence": 0.9,
+      "cache_key": "8057baa234ed5d45998461870a24ed012b0c037a92fa025babe319fc0255c472",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_cecil_barker": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_cecil_barker",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Cecil Barker is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-valley-of-fear/text.txt at Birlstone Manor.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#birlstone-manor"
+      ],
+      "confidence": 0.9,
+      "cache_key": "71111d1c26c579fed5625a04afc0ff14d4e07fb4c782d25818af1f1866fa1e6a",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_boss_mcginty": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_boss_mcginty",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Boss McGinty is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-valley-of-fear/text.txt at The Scowrers.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ],
+      "confidence": 0.9,
+      "cache_key": "119e91273aa740c0c5c2f466e91341aabe63187cb4c9a5ffdd1e12c480276f9c",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_birdy_edwards": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_birdy_edwards",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Birdy Edwards is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-valley-of-fear/text.txt at The Scowrers.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-valley-of-fear/text.txt#the-scowrers"
+      ],
+      "confidence": 0.9,
+      "cache_key": "fb8ace8d344747530f71506ecc3e990edde27d03eb940913c836b460e8efcf8d",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_his_last_bow": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_his_last_bow",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "His Last Bow is a Work node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/his-last-bow/text.txt at work.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "0e57a4c835dd87817656b4e5990945232801b458a4cc2f2a7c0ecd5190b7b510",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_bruce_partington_plans": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_bruce_partington_plans",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Bruce-Partington Plans is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/his-last-bow/text.txt at The Bruce-Partington Plans.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-bruce-partington-plans"
+      ],
+      "confidence": 0.9,
+      "cache_key": "086868b66f361d885557e62e1b61b24c4043fb2b4230bcb91d7dc832755ebd4d",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_dying_detective": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_dying_detective",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Dying Detective is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/his-last-bow/text.txt at The Dying Detective.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#the-dying-detective"
+      ],
+      "confidence": 0.9,
+      "cache_key": "4e9935973fac1793624b018b16558e932a068f094ba6411047c0f2571483682c",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_his_last_bow": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_his_last_bow",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "His Last Bow is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/his-last-bow/text.txt at His Last Bow.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ],
+      "confidence": 0.9,
+      "cache_key": "ec42d278c00e5da1325264c3ec1ff7dc902746f6e8c29597ef5902135d1295ed",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_von_bork": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_von_bork",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Von Bork is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/his-last-bow/text.txt at His Last Bow.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/his-last-bow/text.txt#his-last-bow"
+      ],
+      "confidence": 0.9,
+      "cache_key": "0a3d596e20344dff3977a3f589065e9e033c4e5957787dea8cdf69da22081404",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_case_book_sherlock_holmes": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_case_book_sherlock_holmes",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Case-Book of Sherlock Holmes is a Work node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at work.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "de22381569b96b9e7421693f0c66a5b8c2e4aaddd2d2dedccde40b0e7335313f",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_illustrious_client": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_illustrious_client",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Illustrious Client is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at The Illustrious Client.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-illustrious-client"
+      ],
+      "confidence": 0.9,
+      "cache_key": "4d2e3bc52a15dbdeecd595ce5c41abe859ec7ea9be0ae4110c6e619a3d5fc0be",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_three_garridebs": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_three_garridebs",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Three Garridebs is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at The Three Garridebs.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-three-garridebs"
+      ],
+      "confidence": 0.9,
+      "cache_key": "055cce4525eb3d89cab5505fd215533acb828273aae83daaa4ac30914403e04b",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_thor_bridge": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_thor_bridge",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Problem of Thor Bridge is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at The Problem of Thor Bridge.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-problem-of-thor-bridge"
+      ],
+      "confidence": 0.9,
+      "cache_key": "73b821c7dd593b3ac91ba586d027a912f8fd8d6b688a2ca5cfd8a0c69bd49f28",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_lions_mane": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_lions_mane",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Lion's Mane is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at The Lion's Mane.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-lions-mane"
+      ],
+      "confidence": 0.9,
+      "cache_key": "4cb02b0a385da2c3ea57105c8818249f9207b95bdd73019481e53a6f1e95c73a",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_violet_de_merville": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_violet_de_merville",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Violet de Merville is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at The Illustrious Client.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-illustrious-client"
+      ],
+      "confidence": 0.9,
+      "cache_key": "05bb694db5c3ce855d0fe33076ade390b58fe4998df8a80b9b696a4f4d0a89d2",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_killer_evans": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_killer_evans",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Killer Evans is a Character node in the expanded public-domain mystery corpus, sourced from corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt at The Three Garridebs.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt#the-three-garridebs"
+      ],
+      "confidence": 0.9,
+      "cache_key": "45be20693e598d71724cb3728816956cd25f8a23ed1079781766f9a7deb45ca6",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_arsene_lupin_novel": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_arsene_lupin_novel",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Arsene Lupin is a Work node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/arsene-lupin/text.txt at work.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "2aed93ad53b19d5a645095d079359f9b9c6c316589c67a289ed8aea23abfe131",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_duke_charmerace": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_duke_charmerace",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Duke of Charmerace is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/arsene-lupin/text.txt at Arsene Lupin.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "ce80356967aff67189f71a52763baf9f01795ade13aa81eb4723fea0f242b046",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_sonia_kritchnoff": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_sonia_kritchnoff",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Sonia Kritchnoff is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/arsene-lupin/text.txt at Arsene Lupin.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "66fde26bdb182560788affe5b905b34742aa41ded60c3cd9e8df4a41466711bb",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_guerchard": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_guerchard",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Guerchard is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/arsene-lupin/text.txt at Arsene Lupin.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "c94649af327fb2be5518add6b10e0df3715bb747fd49eff8c698f2a4fb43fbdf",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_victoire": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_victoire",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Victoire is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/arsene-lupin/text.txt at Arsene Lupin.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/arsene-lupin/text.txt#arsene-lupin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "fbd4eedc48a37b9bb6ae95cbe55f91e98d9449861a6319d39baf35681cd1784c",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_blonde_lady": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_blonde_lady",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Blonde Lady is a Work node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/the-blonde-lady/text.txt at work.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "8eb5d8eaf8133ac1de496fb53bdb8d4b92161088e20c0615b4c631920134b9c6",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_blonde_lady": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_blonde_lady",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Blonde Lady is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/the-blonde-lady/text.txt at The Blonde Lady.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-blonde-lady/text.txt#the-blonde-lady"
+      ],
+      "confidence": 0.9,
+      "cache_key": "71acff257f92bd20d096bf6e15c08f929c534a46202c87a2b28c7625b083c1ab",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_hollow_needle": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_hollow_needle",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Hollow Needle is a Work node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/the-hollow-needle/text.txt at work.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "7640899085626cde02b3822122fb047dfeef7bc5d17581c6f1dfbf0de9af4bab",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_isidore_beautrelet": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_isidore_beautrelet",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Isidore Beautrelet is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/the-hollow-needle/text.txt at The Hollow Needle.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-hollow-needle/text.txt#the-hollow-needle"
+      ],
+      "confidence": 0.9,
+      "cache_key": "97ee504496600b9fbff9db38456e2870aeeb441df5980e7381cdc83c4673a1eb",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_crystal_stopper": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_crystal_stopper",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Crystal Stopper is a Work node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/the-crystal-stopper/text.txt at work.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "deb93b74665b425c2b0831813a6542f822c9c9041d60fbc85f1f39915221bbb7",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_daubrecq": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_daubrecq",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Daubrecq is a Character node in the expanded public-domain mystery corpus, sourced from corpus/arsene-lupin/the-crystal-stopper/text.txt at The Crystal Stopper.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-crystal-stopper/text.txt#the-crystal-stopper"
+      ],
+      "confidence": 0.9,
+      "cache_key": "5c78ccee02aec2a9398a2d8aa3e416539999b9f4ac2204f5f15388e0d1c68ea5",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_wisdom_father_brown": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_wisdom_father_brown",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Wisdom of Father Brown is a Work node in the expanded public-domain mystery corpus, sourced from corpus/father-brown/the-wisdom-of-father-brown/text.txt at work.",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "06b73be7c8c07ae074c6a2a39f724da757e960e614a64c1e2bf30bab2fa31322",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_absence_mr_glass": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_absence_mr_glass",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Absence of Mr. Glass is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/father-brown/the-wisdom-of-father-brown/text.txt at The Absence of Mr. Glass.",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-absence-of-mr-glass"
+      ],
+      "confidence": 0.9,
+      "cache_key": "d8603593afb7e6e34bbf6c35185cbd1a8f1f48fd7afc1c08dd7cf7ad510114da",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_paradise_thieves": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_paradise_thieves",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Paradise of Thieves is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/father-brown/the-wisdom-of-father-brown/text.txt at The Paradise of Thieves.",
+      "evidence_refs": [
+        "corpus/father-brown/the-wisdom-of-father-brown/text.txt#the-paradise-of-thieves"
+      ],
+      "confidence": 0.9,
+      "cache_key": "f814572e60f9032b278310f289e36e6e78ea27c9e8e19f339b12344cbf1988fb",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_secret_father_brown": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_secret_father_brown",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Secret of Father Brown is a Work node in the expanded public-domain mystery corpus, sourced from corpus/father-brown/the-secret-of-father-brown/text.txt at work.",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "6e960c698d3b0e701a238a4012fdd168249b0705ee7a44332d90a79b9a3ff021",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_secret_father_brown": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_secret_father_brown",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Secret of Father Brown is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/father-brown/the-secret-of-father-brown/text.txt at The Secret of Father Brown.",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-secret-of-father-brown"
+      ],
+      "confidence": 0.9,
+      "cache_key": "7096e996770b95e1f6579e297d932d4803f19736883c4296b9a3698f71823b03",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_mirror_magistrate": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_mirror_magistrate",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Mirror of the Magistrate is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/father-brown/the-secret-of-father-brown/text.txt at The Mirror of the Magistrate.",
+      "evidence_refs": [
+        "corpus/father-brown/the-secret-of-father-brown/text.txt#the-mirror-of-the-magistrate"
+      ],
+      "confidence": 0.9,
+      "cache_key": "61147646cff0788dffdac20000d346189b364bdd2b72e8c4ffa9892a46a558ab",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_john_thorndyke_cases": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_john_thorndyke_cases",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "John Thorndyke's Cases is a Work node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt at work.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "d4c369b05f4ae6e882a0a8aae012fbf152a60166be6acd731604fb0567347ca7",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_blue_sequin": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_blue_sequin",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Blue Sequin is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt at The Blue Sequin.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "01422ce1d0f50dabfbca5d6f010518771837b8857783cffc44b3ed3bdd67ba18",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_dr_jervis": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_dr_jervis",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Dr. Jervis is a Character node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt at The Blue Sequin.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "8e36aa31008ce2449ddc032494cde61cf21420cbdbbed1e470a5e4e225f4a0ad",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_polton": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_polton",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Polton is a Character node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt at The Blue Sequin.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt#the-blue-sequin"
+      ],
+      "confidence": 0.9,
+      "cache_key": "87e9eb14a95bf1d85e0bf87b1f82f5d67839f532700f4aa503602cc7c5d1be26",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_vanishing_man": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_vanishing_man",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Vanishing Man is a Work node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/the-vanishing-man/text.txt at work.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "483c3c2184592ed055c9444ee0188a2830fd09b828b4a0da3422c06ab1ff06e1",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_john_bellingham": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_john_bellingham",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "John Bellingham is a Character node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/the-vanishing-man/text.txt at The Vanishing Man.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ],
+      "confidence": 0.9,
+      "cache_key": "83de778570f4941fa82d85ab3dea5de5b4d32af51a4fc99ffa01d8d6adb07b51",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_harold_bellingham": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_harold_bellingham",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Harold Bellingham is a Character node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/the-vanishing-man/text.txt at The Vanishing Man.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-vanishing-man/text.txt#the-vanishing-man"
+      ],
+      "confidence": 0.9,
+      "cache_key": "a80152c9ede7db7fb208d702415f5129d800410bcc1005a64c8e1aca98cf82d0",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_adventures_dr_thorndyke": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_adventures_dr_thorndyke",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Adventures of Dr. Thorndyke is a Work node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt at work.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "f44a0018a5cc26ce2c7659f1bca47fdf88c2595fc7edfc4221b719d2b2310623",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_case_of_oscar_brodsky": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_case_of_oscar_brodsky",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "The Case of Oscar Brodski is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt at The Case of Oscar Brodski.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt#the-case-of-oscar-brodski"
+      ],
+      "confidence": 0.9,
+      "cache_key": "74a93ba805da3278e3dba18d3625eeeb0b414529414317757372647798c32d55",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_raffles_further_adventures": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_raffles_further_adventures",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Raffles: Further Adventures of the Amateur Cracksman is a Work node in the expanded public-domain mystery corpus, sourced from corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt at work.",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "d5534ceed319f785ab7fc3dd74d45bb5554d0d3d1a8e7d9ec160675d072d96c0",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_no_sinecure": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_no_sinecure",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "No Sinecure is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt at No Sinecure.",
+      "evidence_refs": [
+        "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt#no-sinecure"
+      ],
+      "confidence": 0.9,
+      "cache_key": "df44ee261d343a7ea58a0d880c601e0c087a50435b03bcd136ec13d5591efc2c",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_thief_in_the_night": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_thief_in_the_night",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "A Thief in the Night is a Work node in the expanded public-domain mystery corpus, sourced from corpus/raffles/a-thief-in-the-night/text.txt at work.",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "628e42c90a173e68ae5a8e675f57e6577ebf0acf5bec43ff30a5f87138180df5",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_out_of_paradise": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_out_of_paradise",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Out of Paradise is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/raffles/a-thief-in-the-night/text.txt at Out of Paradise.",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#out-of-paradise"
+      ],
+      "confidence": 0.9,
+      "cache_key": "047f42c7f7aa6a549ac41a150086da66575ddf9c5760ebd43f675d9fa5e9a046",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "story_trap_to_catch_cracksman": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "story_trap_to_catch_cracksman",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "A Trap to Catch a Cracksman is a ChapterOrStory node in the expanded public-domain mystery corpus, sourced from corpus/raffles/a-thief-in-the-night/text.txt at A Trap to Catch a Cracksman.",
+      "evidence_refs": [
+        "corpus/raffles/a-thief-in-the-night/text.txt#a-trap-to-catch-a-cracksman"
+      ],
+      "confidence": 0.9,
+      "cache_key": "0258949ae983895fb5129d346babd6b1a3c01db2e18c0fcdb114a1dacb7bad8d",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "work_mr_justice_raffles": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "work_mr_justice_raffles",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Mr. Justice Raffles is a Work node in the expanded public-domain mystery corpus, sourced from corpus/raffles/mr-justice-raffles/text.txt at work.",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#work"
+      ],
+      "confidence": 0.9,
+      "cache_key": "2bdc843c14ad992036813f556ec8319d08b2d33761ac9e47899d46bffd25823b",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_dan_levy": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_dan_levy",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Dan Levy is a Character node in the expanded public-domain mystery corpus, sourced from corpus/raffles/mr-justice-raffles/text.txt at An Inaugural Banquet.",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#an-inaugural-banquet"
+      ],
+      "confidence": 0.9,
+      "cache_key": "ca34fa2a44473bccac22f248946e3b6c8a50e0792df4a609b027f6caaecd7468",
+      "generator": {
+        "mode": "assistant",
+        "provider": "pack-curated",
+        "model": null,
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "character_camilla_belsize": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "character_camilla_belsize",
+      "target_kind": "node",
+      "graph_hash": "3db4239fd94f01c0788eb6505ade390da9019d67ea5e3c047dd049fbda042cc0",
+      "status": "generated",
+      "description": "Camilla Belsize is a Character node in the expanded public-domain mystery corpus, sourced from corpus/raffles/mr-justice-raffles/text.txt at Camilla Belsize.",
+      "evidence_refs": [
+        "corpus/raffles/mr-justice-raffles/text.txt#camilla-belsize"
+      ],
+      "confidence": 0.9,
+      "cache_key": "cd76f6e6beb0a752e714c8e71329592bbe7dc2375b39c33c5fc4989c3f0fe428",
       "generator": {
         "mode": "assistant",
         "provider": "pack-curated",
