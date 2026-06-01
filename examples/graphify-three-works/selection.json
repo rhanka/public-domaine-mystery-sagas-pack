@@ -14,8 +14,18 @@
     },
     {
       "saga": "sherlock-holmes",
+      "work": "the-sign-of-the-four",
+      "file": "corpus/sherlock-holmes/the-sign-of-the-four/text.txt"
+    },
+    {
+      "saga": "sherlock-holmes",
       "work": "the-adventures-of-sherlock-holmes",
       "file": "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt"
+    },
+    {
+      "saga": "sherlock-holmes",
+      "work": "the-memoirs-of-sherlock-holmes",
+      "file": "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt"
     },
     {
       "saga": "sherlock-holmes",
@@ -23,9 +33,49 @@
       "file": "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt"
     },
     {
+      "saga": "sherlock-holmes",
+      "work": "the-return-of-sherlock-holmes",
+      "file": "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt"
+    },
+    {
+      "saga": "sherlock-holmes",
+      "work": "the-valley-of-fear",
+      "file": "corpus/sherlock-holmes/the-valley-of-fear/text.txt"
+    },
+    {
+      "saga": "sherlock-holmes",
+      "work": "his-last-bow",
+      "file": "corpus/sherlock-holmes/his-last-bow/text.txt"
+    },
+    {
+      "saga": "sherlock-holmes",
+      "work": "the-case-book-of-sherlock-holmes",
+      "file": "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt"
+    },
+    {
       "saga": "arsene-lupin",
       "work": "the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar",
       "file": "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt"
+    },
+    {
+      "saga": "arsene-lupin",
+      "work": "arsene-lupin",
+      "file": "corpus/arsene-lupin/arsene-lupin/text.txt"
+    },
+    {
+      "saga": "arsene-lupin",
+      "work": "the-blonde-lady",
+      "file": "corpus/arsene-lupin/the-blonde-lady/text.txt"
+    },
+    {
+      "saga": "arsene-lupin",
+      "work": "the-hollow-needle",
+      "file": "corpus/arsene-lupin/the-hollow-needle/text.txt"
+    },
+    {
+      "saga": "arsene-lupin",
+      "work": "the-crystal-stopper",
+      "file": "corpus/arsene-lupin/the-crystal-stopper/text.txt"
     },
     {
       "saga": "father-brown",
@@ -33,14 +83,54 @@
       "file": "corpus/father-brown/the-innocence-of-father-brown/text.txt"
     },
     {
+      "saga": "father-brown",
+      "work": "the-wisdom-of-father-brown",
+      "file": "corpus/father-brown/the-wisdom-of-father-brown/text.txt"
+    },
+    {
+      "saga": "father-brown",
+      "work": "the-secret-of-father-brown",
+      "file": "corpus/father-brown/the-secret-of-father-brown/text.txt"
+    },
+    {
       "saga": "dr-thorndyke",
       "work": "the-red-thumb-mark",
       "file": "corpus/dr-thorndyke/the-red-thumb-mark/text.txt"
     },
     {
+      "saga": "dr-thorndyke",
+      "work": "john-thorndyke-s-cases",
+      "file": "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt"
+    },
+    {
+      "saga": "dr-thorndyke",
+      "work": "the-vanishing-man",
+      "file": "corpus/dr-thorndyke/the-vanishing-man/text.txt"
+    },
+    {
+      "saga": "dr-thorndyke",
+      "work": "the-adventures-of-dr-thorndyke",
+      "file": "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt"
+    },
+    {
       "saga": "raffles",
       "work": "the-amateur-cracksman",
       "file": "corpus/raffles/the-amateur-cracksman/text.txt"
+    },
+    {
+      "saga": "raffles",
+      "work": "raffles-further-adventures-of-the-amateur-cracksman",
+      "file": "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt"
+    },
+    {
+      "saga": "raffles",
+      "work": "a-thief-in-the-night",
+      "file": "corpus/raffles/a-thief-in-the-night/text.txt"
+    },
+    {
+      "saga": "raffles",
+      "work": "mr-justice-raffles",
+      "file": "corpus/raffles/mr-justice-raffles/text.txt"
     }
   ],
   "graph": {

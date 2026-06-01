@@ -20,6 +20,24 @@ inputs:
     - corpus/father-brown/the-innocence-of-father-brown
     - corpus/dr-thorndyke/the-red-thumb-mark
     - corpus/raffles/the-amateur-cracksman
+    - corpus/sherlock-holmes/the-sign-of-the-four
+    - corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes
+    - corpus/sherlock-holmes/the-return-of-sherlock-holmes
+    - corpus/sherlock-holmes/the-valley-of-fear
+    - corpus/sherlock-holmes/his-last-bow
+    - corpus/sherlock-holmes/the-case-book-of-sherlock-holmes
+    - corpus/arsene-lupin/arsene-lupin
+    - corpus/arsene-lupin/the-blonde-lady
+    - corpus/arsene-lupin/the-hollow-needle
+    - corpus/arsene-lupin/the-crystal-stopper
+    - corpus/father-brown/the-wisdom-of-father-brown
+    - corpus/father-brown/the-secret-of-father-brown
+    - corpus/dr-thorndyke/john-thorndyke-s-cases
+    - corpus/dr-thorndyke/the-vanishing-man
+    - corpus/dr-thorndyke/the-adventures-of-dr-thorndyke
+    - corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman
+    - corpus/raffles/a-thief-in-the-night
+    - corpus/raffles/mr-justice-raffles
   scope: all
 
 dataprep:
