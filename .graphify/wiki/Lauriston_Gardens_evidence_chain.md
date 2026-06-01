@@ -1,35 +1,51 @@
 # Lauriston Gardens evidence chain
 
-> 12 nodes
+> 25 nodes
 
 ## Key Concepts
 
-- **A Scandal in Bohemia** (11 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Bohemia photograph case** (8 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Irene Adler** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Irene Adler photograph** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Bohemia photograph leverage scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **King of Bohemia** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Staged fire alarm reveal** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Fire alarm reveals the photograph hiding place** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Briony Lodge, St. John's Wood** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Royal reputation motive** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **King of Bohemia** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
-- **Godfrey Norton** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **A. J. Raffles** (13 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **The Amateur Cracksman** (7 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Mr. Justice Raffles** (7 connections) — `corpus/raffles/mr-justice-raffles/text.txt`
+- **A Thief in the Night** (6 connections) — `corpus/raffles/a-thief-in-the-night/text.txt`
+- **Raffles jewellery theft** (5 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Raffles: Further Adventures of the Amateur Cracksman** (5 connections) — `corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt`
+- **Raffles saga** (4 connections) — `corpus/raffles/the-amateur-cracksman/metadata.json`
+- **E. W. Hornung** (4 connections) — `corpus/raffles/the-amateur-cracksman/metadata.json`
+- **Bunny Manders** (4 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **No Sinecure** (4 connections) — `corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt`
+- **Dan Levy emeralds affair** (4 connections) — `corpus/raffles/mr-justice-raffles/text.txt`
+- **The Ides of March** (3 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Out of Paradise** (3 connections) — `corpus/raffles/a-thief-in-the-night/text.txt`
+- **Albany chambers** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Social access burglary** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Raffles sporting theft motive** (2 connections) — `corpus/raffles/the-amateur-cracksman/text.txt`
+- **Raffles return scheme** (2 connections) — `corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt`
+- **Raffles return burglary** (2 connections) — `corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt`
+- **Disguise after return** (2 connections) — `corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt`
+- **A Trap to Catch a Cracksman** (2 connections) — `corpus/raffles/a-thief-in-the-night/text.txt`
+- **Trap to catch a cracksman** (2 connections) — `corpus/raffles/a-thief-in-the-night/text.txt`
+- **Palace Gardens burglary** (2 connections) — `corpus/raffles/a-thief-in-the-night/text.txt`
+- **Levy emerald necklace** (2 connections) — `corpus/raffles/mr-justice-raffles/text.txt`
+- **Raffles private justice scheme** (2 connections) — `corpus/raffles/mr-justice-raffles/text.txt`
+- **Dan Levy** (1 connections) — `corpus/raffles/mr-justice-raffles/text.txt`
 
 ## Relationships
 
-- [[Sherlock Holmes anthology and Red-Headed League]] (4 shared connections)
-- [[A Study in Scarlet framing and home base]] (1 shared connections)
+- No strong cross-community connections detected
 
 ## Source Files
 
-- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- `corpus/raffles/a-thief-in-the-night/text.txt`
+- `corpus/raffles/mr-justice-raffles/text.txt`
+- `corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt`
+- `corpus/raffles/the-amateur-cracksman/metadata.json`
+- `corpus/raffles/the-amateur-cracksman/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 51 (96%)
-- INFERRED: 2 (4%)
+- EXTRACTED: 92 (100%)
+- INFERRED: 0 (0%)
 - AMBIGUOUS: 0 (0%)
 
 ---

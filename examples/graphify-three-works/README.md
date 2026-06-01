@@ -20,7 +20,7 @@ The selected source files are listed in [selection.json](selection.json).
 - [../../.graphify/graph.json](../../.graphify/graph.json) - Graphify graph export
 - [../../.graphify/graph.html](../../.graphify/graph.html) - standalone interactive visualization
 
-The generated graph has 123 nodes, 221 edges, and 9 named communities. It is a documentary/profile-first export: only the selected corpus texts are represented, while repository code, scripts, and tests are excluded from the graph surface. The current export adds a small metadata layer (`Saga`, `Author`, `Translator`) plus `part_of` links and curated case/evidence/method details so works, stories, cases, and evidence do not sit as isolated islands.
+The generated graph has 237 nodes, 430 edges, and 15 named communities. It is a documentary/profile-first export: only the selected corpus texts are represented, while repository code, scripts, and tests are excluded from the graph surface. The current export adds a small metadata layer (`Saga`, `Author`, `Translator`) plus `part_of` links and curated case/evidence/method details so works, stories, cases, and evidence do not sit as isolated islands.
 
 ## Regeneration Notes
 

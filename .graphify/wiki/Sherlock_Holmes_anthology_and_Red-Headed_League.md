@@ -1,50 +1,59 @@
 # Sherlock Holmes anthology and Red-Headed League
 
-> 30 nodes
+> 52 nodes
 
 ## Key Concepts
 
-- **A Study in Scarlet** (26 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Lauriston Gardens murders** (12 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Sherlock Holmes** (11 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Drebber and Stangerson murders** (8 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Lauriston Gardens** (7 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Drebber found dead at Lauriston Gardens** (6 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Jefferson Hope** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Enoch Drebber** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Salt Lake Valley (Hope backstory)** (4 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Joseph Stangerson** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Wedding ring clue** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Jefferson Hope revenge motive** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Blood-stain reagent test** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **RACHE bloodstain marking** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Cab and boot footprints at Lauriston Gardens** (3 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Dr. John H. Watson** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Holmes blood-stain reagent** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Jefferson Hope revenge** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Wedding ring left at the murder scene** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **Sherlock Holmes** (24 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **The Sign of the Four** (10 connections) — `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- **Sherlock Holmes saga** (9 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
+- **Arthur Conan Doyle** (9 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
+- **Dr. John H. Watson** (8 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- **The Memoirs of Sherlock Holmes** (8 connections) — `corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt`
+- **His Last Bow** (8 connections) — `corpus/sherlock-holmes/his-last-bow/text.txt`
+- **The Case-Book of Sherlock Holmes** (8 connections) — `corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt`
+- **The Return of Sherlock Holmes** (7 connections) — `corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt`
+- **The Valley of Fear** (7 connections) — `corpus/sherlock-holmes/the-valley-of-fear/text.txt`
+- **Sholto treasure case** (6 connections) — `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- **The Adventures of Sherlock Holmes** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Birlstone Manor murder** (5 connections) — `corpus/sherlock-holmes/the-valley-of-fear/text.txt`
+- **Silver Blaze** (3 connections) — `corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt`
+- **Professor Moriarty** (3 connections) — `corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt`
+- **The Dancing Men** (3 connections) — `corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt`
+- **Scowrers intimidation campaign** (3 connections) — `corpus/sherlock-holmes/the-valley-of-fear/text.txt`
+- **His Last Bow** (3 connections) — `corpus/sherlock-holmes/his-last-bow/text.txt`
+- **Von Bork** (3 connections) — `corpus/sherlock-holmes/his-last-bow/text.txt`
 - **Wedding ring advertisement trap** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Inspector Tobias Gregson** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Inspector Lestrade** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Lucy Ferrier** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Twin pillbox poison case** (2 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- **Young Stamford** (1 connections) — `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
-- *... and 5 more nodes in this community*
+- **Mary Morstan** (2 connections) — `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- **Jonathan Small** (2 connections) — `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- **Agra treasure** (2 connections) — `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- **Pearls sent to Mary Morstan** (2 connections) — `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- **The Musgrave Ritual** (2 connections) — `corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt`
+- *... and 27 more nodes in this community*
 
 ## Relationships
 
-- [[Lauriston Gardens evidence chain]] (4 shared connections)
-- [[A Study in Scarlet framing and home base]] (3 shared connections)
-- [[Arsene Lupin anthology and rivalry]] (1 shared connections)
+- [[Bohemia case and Holmes cast]] (7 shared connections)
+- [[Community 7]] (5 shared connections)
+- [[Community 8]] (3 shared connections)
+- [[Lauriston Gardens revenge setting]] (2 shared connections)
 
 ## Source Files
 
+- `corpus/sherlock-holmes/a-study-in-scarlet/metadata.json`
 - `corpus/sherlock-holmes/a-study-in-scarlet/text.txt`
+- `corpus/sherlock-holmes/his-last-bow/text.txt`
+- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- `corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt`
+- `corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt`
+- `corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt`
+- `corpus/sherlock-holmes/the-sign-of-the-four/text.txt`
+- `corpus/sherlock-holmes/the-valley-of-fear/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 118 (95%)
-- INFERRED: 6 (5%)
+- EXTRACTED: 181 (99%)
+- INFERRED: 2 (1%)
 - AMBIGUOUS: 0 (0%)
 
 ---

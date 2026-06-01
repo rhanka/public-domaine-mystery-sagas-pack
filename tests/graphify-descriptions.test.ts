@@ -59,6 +59,43 @@ describe("graphify wiki descriptions", () => {
     expect(index.nodes.thin_unconfigured_node).toBeUndefined()
   })
 
+  test("generates conservative fallback descriptions for expanded core corpus nodes", () => {
+    const index = buildDocumentaryDescriptionIndex(
+      {
+        nodes: [
+          {
+            id: "work_expanded_fixture",
+            label: "Expanded Fixture Work",
+            type: "Work",
+            file_type: "document",
+            source_file: "corpus/example/expanded-fixture/text.txt",
+            source_location: "work",
+            confidence: "EXTRACTED",
+            evidence_refs: ["corpus/example/expanded-fixture/text.txt#work"]
+          },
+          {
+            id: "character_expanded_fixture",
+            label: "Expanded Fixture Character",
+            type: "Character",
+            file_type: "concept",
+            source_file: "corpus/example/expanded-fixture/text.txt",
+            source_location: "chapter 1",
+            confidence: "EXTRACTED",
+            evidence_refs: ["corpus/example/expanded-fixture/text.txt#chapter-1"]
+          }
+        ],
+        edges: []
+      },
+      "expanded-graph"
+    )
+
+    expect(index.nodes.work_expanded_fixture?.description).toContain("Expanded Fixture Work")
+    expect(index.nodes.character_expanded_fixture?.description).toContain("Expanded Fixture Character")
+    expect(index.nodes.character_expanded_fixture?.evidence_refs).toEqual([
+      "corpus/example/expanded-fixture/text.txt#chapter-1"
+    ])
+  })
+
   test("every Saga, Work, ChapterOrStory and Character node in the live graph has a curated description", () => {
     const graphPath = resolve(process.cwd(), ".graphify/graph.json")
     const graph = JSON.parse(readFileSync(graphPath, "utf8")) as SemanticGraph

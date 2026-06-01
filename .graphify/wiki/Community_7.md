@@ -1,33 +1,34 @@
 # Community 7
 
-> 10 nodes
+> 12 nodes
 
 ## Key Concepts
 
-- **The Red Thumb Mark** (7 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Red thumb-mark forgery** (4 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Bloody thumb print** (3 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Laboratory reconstruction** (3 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Red thumb-mark case** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Dr. John Thorndyke** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Fingerprint comparison** (2 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
-- **Dr. Thorndyke saga** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
-- **R. Austin Freeman** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
-- **Reuben Hornby** (1 connections) — `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- **A Scandal in Bohemia** (11 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Bohemia photograph case** (8 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Irene Adler** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Irene Adler photograph** (6 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Bohemia photograph leverage scheme** (5 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **King of Bohemia** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Staged fire alarm reveal** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Fire alarm reveals the photograph hiding place** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Briony Lodge, St. John's Wood** (3 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Royal reputation motive** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **King of Bohemia** (2 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
+- **Godfrey Norton** (1 connections) — `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Relationships
 
-- No strong cross-community connections detected
+- [[Sherlock Holmes anthology and Red-Headed League]] (5 shared connections)
 
 ## Source Files
 
-- `corpus/dr-thorndyke/the-red-thumb-mark/metadata.json`
-- `corpus/dr-thorndyke/the-red-thumb-mark/text.txt`
+- `corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt`
 
 ## Audit Trail
 
-- EXTRACTED: 26 (100%)
-- INFERRED: 0 (0%)
+- EXTRACTED: 51 (96%)
+- INFERRED: 2 (4%)
 - AMBIGUOUS: 0 (0%)
 
 ---

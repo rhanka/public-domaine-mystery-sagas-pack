@@ -134,8 +134,8 @@
     }
   ],
   "graph": {
-    "nodes": 123,
-    "edges": 221,
+    "nodes": 237,
+    "edges": 430,
     "report": "../../.graphify/GRAPH_REPORT.md",
     "json": "../../.graphify/graph.json",
     "html": "../../.graphify/graph.html"

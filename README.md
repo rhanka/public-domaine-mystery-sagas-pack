@@ -37,7 +37,7 @@ scripts/
 
 This repository commits a documentary Graphify UAT export in [.graphify](.graphify), generated from selected Sherlock Holmes, Arsene Lupin, Father Brown, Dr. Thorndyke, and Raffles works. The export is corpus-only: TypeScript source, scripts, and tests are excluded from the committed graph surface, while pack-owned metadata adds a light saga/author layer and explicit narrative containment links.
 
-The committed visualization contains 123 nodes, 221 edges, and 9 named communities. It is backed by the project-owned ontology configuration in [graphify](graphify), and the initial source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
+The committed visualization contains 237 nodes, 430 edges, and 15 named communities. It is backed by the project-owned ontology configuration in [graphify](graphify), and the 25-work source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
 
 ## Commands
 
