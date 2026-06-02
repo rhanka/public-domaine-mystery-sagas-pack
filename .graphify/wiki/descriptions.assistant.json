@@ -1,0 +1,697 @@
+{
+  "schema": "graphify_wiki_description_index_v1",
+  "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+  "prompt_version": "wiki-description-v1",
+  "nodes": {
+    "location_lauriston_gardens": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_lauriston_gardens",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Lauriston Gardens is the empty Brixton Road house in A Study in Scarlet where the first murder victim is found; the constable reports \"a light there about two in the morning\" at \"3, Lauriston Gardens, off the Brixton Road.\" It is the crime scene from which Holmes reads the cab tracks, footprints, and the bloody word RACHE to reconstruct the killing.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#scene_lauriston_gardens"
+      ],
+      "confidence": 0.85,
+      "cache_key": "a19d97dd301c028d1c73f07a61952f55134e1c6655fdaa2d288bbbf07c73348e",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_briony_lodge": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_briony_lodge",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Briony Lodge is Irene Adler's villa in A Scandal in Bohemia, given as \"Briony Lodge, Serpentine Avenue, St. John's Wood.\" It is the house Holmes watches and where he stages the fire-alarm ruse to find the hiding place of the compromising photograph.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#location_briony_lodge"
+      ],
+      "confidence": 0.85,
+      "cache_key": "cd4e8ab23d3e700b195e1179ac7f03336583b7033682790053953158b53df6d7",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_la_provence_ship": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_la_provence_ship",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The SS La Provence is the transatlantic liner in the opening Lupin story, described as \"a swift and comfortable vessel, under the command of a most affable man.\" A wireless message warns the passengers that the burglar Arsène Lupin is aboard, setting up his shipboard arrest.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#location_la_provence"
+      ],
+      "confidence": 0.82,
+      "cache_key": "1800814d27215c1dda4a679ec8bf09516c5590f57fd91ead359aa106f026b905",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_baskerville_hall": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_baskerville_hall",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Baskerville Hall is the Dartmoor estate at the centre of The Hound of the Baskervilles, the seat Sir Henry Baskerville inherits and the focus of the legend of the spectral hound; the novel devotes a chapter to \"Baskerville Hall.\"",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt#location_baskerville_hall"
+      ],
+      "confidence": 0.8,
+      "cache_key": "77584aa508c2b490ae844cf455f6cb6c40c5c1e0c9bc07a25bf4949601d39443",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_grimpen_mire": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_grimpen_mire",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Grimpen Mire is the deadly bog of The Hound of the Baskervilles. Stapleton warns, \"That is the great Grimpen Mire... A false step yonder means death to man or beast.\" It is the treacherous quagmire that hides the hound and finally swallows the villain.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt#location_grimpen_mire"
+      ],
+      "confidence": 0.85,
+      "cache_key": "ca35caa9c27aaff078acf7b7bef1aa01e735fa659ebef4c95221e55efcfefb1b",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_city_suburban_bank": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_city_suburban_bank",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The City and Suburban Bank is the target of the tunnel scheme in The Red-Headed League; Holmes traces the plot to \"the Coburg branch of the City and Suburban Bank,\" whose cellar the criminals dig toward. Its chairman Merryweather joins the night watch that traps John Clay.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#location_city_suburban_bank"
+      ],
+      "confidence": 0.82,
+      "cache_key": "1f3d2a83401f4b6d14480a5b7a10de2989ee7e5f234f3908eb92cb5d563b1955",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_albany_chambers": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_albany_chambers",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Albany is A. J. Raffles's London residence in The Amateur Cracksman; the narrator recounts returning \"to the Albany as a last desperate resort.\" The genteel chambers are the respectable base from which the gentleman-thief mounts his burglaries.",
+      "evidence_refs": [
+        "corpus/raffles/the-amateur-cracksman/text.txt#location_albany"
+      ],
+      "confidence": 0.78,
+      "cache_key": "675d2c2912b63f6eed1a021c2842e4a7d682e990a36e1677af714ff132c42e09",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_blue_cross": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_blue_cross",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Blue Cross is the precious silver relic at the heart of the opening story of The Innocence of Father Brown, the treasure the thief Flambeau means to steal and that the unassuming Father Brown quietly protects, giving the story its title \"The Blue Cross.\"",
+      "evidence_refs": [
+        "corpus/father-brown/the-innocence-of-father-brown/text.txt#object_blue_cross"
+      ],
+      "confidence": 0.8,
+      "cache_key": "1d25a755cd95cfc04aa1f3edf17ca9a1af2dd1b6e75ff1b86586426e8d7b0270",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_queens_necklace": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_queens_necklace",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Queen's Necklace is the celebrated jewel at the centre of one of the Arsène Lupin stories, which the narrator introduces by speaking of the necklace and its famous history. It is the prize around which the Lupin theft turns.",
+      "evidence_refs": [
+        "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt#object_queens_necklace"
+      ],
+      "confidence": 0.72,
+      "cache_key": "368865c211d1385f2c1b7c835100a42171f16f543ab0268e2dff6898666ccdb6",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_bohemia_photograph": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_bohemia_photograph",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Bohemia photograph is the compromising picture of the King of Bohemia with Irene Adler that drives A Scandal in Bohemia. The King admits \"We were both in the photograph,\" and the case turns on recovering it before Adler can use it against him.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt#object_bohemia_photograph"
+      ],
+      "confidence": 0.8,
+      "cache_key": "b6805d44cf984554c0357c4e6af729039ae0f38135f96b568daea125fb56db24",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_rache_marking": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_rache_marking",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "RACHE is the word scrawled in blood at the Lauriston Gardens scene in A Study in Scarlet, presented in the text as \"a single word— RACHE.\" Lestrade reads it as an unfinished \"Rachel,\" but Holmes recognises the German word for revenge, a planted clue.",
+      "evidence_refs": [
+        "corpus/sherlock-holmes/a-study-in-scarlet/text.txt#scene_rache"
+      ],
+      "confidence": 0.82,
+      "cache_key": "7aba24f1941a2164f888c690ec3ac1ba0c434f61bf52982c2b2a3431de41de18",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "method_fingerprint_comparison": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "method_fingerprint_comparison",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Fingerprint comparison is the contested forensic method at the heart of The Red Thumb Mark, which opens \"on the subject of finger-prints and their evidential value.\" Dr. Thorndyke uses rigorous comparison to challenge the assumption that a matching thumb-print is infallible proof of guilt.",
+      "evidence_refs": [
+        "corpus/dr-thorndyke/the-red-thumb-mark/text.txt#method_fingerprint"
+      ],
+      "confidence": 0.82,
+      "cache_key": "fc4df523c4c99b0a1e8a6443e63b552691faab5d4211a64c8d5698b492d1f221",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "method_social_access_burglary": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "method_social_access_burglary",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Social-access burglary is the modus operandi of A. J. Raffles in The Amateur Cracksman: using his standing as a gentleman to gain entry and rob from within. He sums it up to his accomplice with the admission, \"I told you I lived by my wits,\" after revealing himself as a burglar.",
+      "evidence_refs": [
+        "corpus/raffles/the-amateur-cracksman/text.txt#method_social_access"
+      ],
+      "confidence": 0.75,
+      "cache_key": "e2930a97994f70042336cbec0b838799f39666cdaf970d481d1ac70a91e2a7fc",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "author_arthur-conan-doyle": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "author_arthur-conan-doyle",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Author metadata node (sourced from metadata.json), not an entity grounded in the narrative corpus text.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "9b699a91c5d5cb202dacacaf5c7ccc8876a155c76ffb5008844209f384ae34f3",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "author_e-w-hornung": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "author_e-w-hornung",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Author metadata node, not grounded in narrative corpus text.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "b3cb67489196444eb3e71cc19822afebb4f5f4dd61d1fb1809f10b545f61ffc0",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "author_g-k-chesterton": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "author_g-k-chesterton",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Author metadata node, not grounded in narrative corpus text.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "0912b58638b87840d19da93d8c4469a7f9373b50f5d9e80e0840149d2c5b4967",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "author_maurice-leblanc": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "author_maurice-leblanc",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Author metadata node, not grounded in narrative corpus text.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "5189aa1638f4605b18616f235f8e466ee8f4e50969244c51e149bae9832b60ca",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "author_r-austin-freeman": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "author_r-austin-freeman",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Author metadata node, not grounded in narrative corpus text.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "e102972684c76be3f8ca0bbe20db5cc57677f7da761efe36559db50ace709846",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "location_pondicherry_lodge": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "location_pondicherry_lodge",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Mislabeled node maps to the Utah/Salt Lake backstory of A Study in Scarlet (and the name belongs to The Sign of the Four, out of scan scope); no reliable in-scope evidence for this specific node.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "070d6873b63aa8998ff8354a4662ff80e46cdcf26f26d07bdab348bb50653b13",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_red_headed_ad": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_red_headed_ad",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Duplicate of object_red_headed_advertisement; no distinct grounded facts.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "7930c5ccd948db0b6d59d879b6ad851b936da5c85e519e57f91925ff179fe894",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_queens_necklace_artifact": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_queens_necklace_artifact",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Duplicate of object_queens_necklace; no distinct grounded facts.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "16b9a857fac728ab72695d961879e2f03a8569a696bddcc846bb5b0cca6693f3",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_red_headed_advertisement": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_red_headed_advertisement",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Near-duplicate of the Red-Headed League story/organization entries; only a table-of-contents mention found, too thin to ground distinctly.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "526dcc621568c888ce47cccedb92d9b7566fe34802c3ce0afefdcd2afbefd649",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "method_laboratory_reconstruction": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "method_laboratory_reconstruction",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Abstract method label inferred across cases; no single quotable passage to ground it conservatively.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "558571108b6eca6e38659c36a1e5f2590b3b79a94432db997abed34003464d81",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "method_ring_advertisement_trap": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "method_ring_advertisement_trap",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Abstract method label; nearest anchor is a generic 'Found' advertisement line, too thin to ground specifically.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "f8ab2d1c8cec2085deb8f394e53c73719964f6f84f691ae8a37dc71db82a1fb8",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "method_priestly_moral_inference": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "method_priestly_moral_inference",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Abstract method label for Father Brown's approach; no single quotable passage names the method.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "cdddac5fd600ab2168ae2ad84d69ec4e9ca1e68bfaa5524d57de9fbd2255cf8a",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "method_decoy_copying_job": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "method_decoy_copying_job",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Abstract method label for the Red-Headed League ruse; covered by the story/crime entries, no distinct quotable passage.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "ca881ba35e2167a74a35ac407e3de0bb0e9cd181d632ecea8ef525e3cfca18ac",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "role_watson_narrator": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "role_watson_narrator",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "Abstract role node; Watson is already described as a character, and no distinct quotable passage grounds the role-node separately.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "085f018d7260a335072580de1223a448cce54c61e18ed6b36aef91ebbdaf6478",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "object_pillbox": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "object_pillbox",
+      "target_kind": "node",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "insufficient_evidence",
+      "description": null,
+      "reason": "The poison-pill scene exists ('a couple of pills') but the specific 'pillbox' object lacks a clean distinctive quote to ground it conservatively.",
+      "evidence_refs": [],
+      "confidence": null,
+      "cache_key": "85270e7262f614569524d94d78c49cde9ee92ce382c6445f6cb669e560e52d70",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    }
+  },
+  "communities": {
+    "0": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:0",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Sherlock Holmes community centred on A Study in Scarlet: Holmes and Watson, the Lauriston Gardens murders of Drebber and Stangerson, and the avenger Jefferson Hope, with Scotland Yard's Gregson and Lestrade.",
+      "evidence_refs": [
+        "corpus/#community_0"
+      ],
+      "confidence": 0.75,
+      "cache_key": "f8960e73bd2a121347aacbdf46f497cd16980e3dfc8cca3f5f22008a661ad883",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "1": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:1",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Community from The Adventures of Sherlock Holmes built around The Red-Headed League: the pawnbroker Jabez Wilson, the criminal John Clay, the decoy copying-job, and the City and Suburban Bank tunnel plot.",
+      "evidence_refs": [
+        "corpus/#community_1"
+      ],
+      "confidence": 0.75,
+      "cache_key": "9246623067ae36acabd5de1d4ee6581736c27f24a7bf7a36aab28b245a91674f",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "2": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:2",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Arsène Lupin community from Leblanc's first collection: the gentleman-burglar Lupin, his arrest aboard the SS La Provence, and his pursuer Inspector Ganimard.",
+      "evidence_refs": [
+        "corpus/#community_2"
+      ],
+      "confidence": 0.75,
+      "cache_key": "65ee3ee3b9a4eabd2916b6547b8b5d115fd9977d1abba66e6c78fcb34acf8ba3",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "3": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:3",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Hound of the Baskervilles community on Dartmoor: Sir Henry Baskerville, the naturalist Jack Stapleton, Baskerville Hall, and the Grimpen Mire behind the legend of the hound.",
+      "evidence_refs": [
+        "corpus/#community_3"
+      ],
+      "confidence": 0.75,
+      "cache_key": "13aa759b913f97f2f8ab52d0e290c9d989f4f7fd297554012b929d65fd5e8f18",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "4": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:4",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "A Scandal in Bohemia community: Irene Adler, the King of Bohemia, the lawyer Godfrey Norton, Briony Lodge, and the compromising photograph Holmes is hired to recover.",
+      "evidence_refs": [
+        "corpus/#community_4"
+      ],
+      "confidence": 0.75,
+      "cache_key": "29bce7d90a33fb8578caa3d1154f43ba2cf16b00eca7cb18cad18919d52b043f",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "5": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:5",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Raffles community from The Amateur Cracksman: the gentleman-burglar A. J. Raffles, his accomplice-narrator Bunny Manders, the Albany chambers, and the opening theft in The Ides of March.",
+      "evidence_refs": [
+        "corpus/#community_5"
+      ],
+      "confidence": 0.75,
+      "cache_key": "71fb24517253d5229f22e634d63dd08a835cceb80ec1c085f83ffaafeeec084b",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "6": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:6",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "The Innocence of Father Brown community: the priest-sleuth Father Brown, the master thief Flambeau, and the Paris detective Valentin, centred on The Blue Cross and its silver relic.",
+      "evidence_refs": [
+        "corpus/#community_6"
+      ],
+      "confidence": 0.75,
+      "cache_key": "d0e3e96f2bdb43efb862f80bf6c18ebf10d72a9dcdd19643309473536a6ee08b",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "7": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:7",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Dr. Thorndyke community from The Red Thumb Mark: the barrister and medical jurist John Thorndyke, who challenges the infallibility of the fingerprint evidence against Reuben Hornby.",
+      "evidence_refs": [
+        "corpus/#community_7"
+      ],
+      "confidence": 0.75,
+      "cache_key": "13610e6a9f61ddd768fb94510687455490531505a07a0fa63055a2f74f4f2158",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    },
+    "8": {
+      "schema": "graphify_wiki_description_v1",
+      "target_id": "community:8",
+      "target_kind": "community",
+      "graph_hash": "ae71742556faf5353391b3f33c20cfdea7585b610b3c3f499a0f4acf5827ef0e",
+      "status": "generated",
+      "description": "Arsène Lupin community for the Queen's Necklace affair: the famous jewel, the parody detective Herlock Sholmes, and the theft attributed to Lupin in Leblanc's collection.",
+      "evidence_refs": [
+        "corpus/#community_8"
+      ],
+      "confidence": 0.75,
+      "cache_key": "0fd420ea9ed3c9c34f8f8f98d432ade00be8135e886d99b5a1910e64cf265d88",
+      "generator": {
+        "mode": "assistant",
+        "provider": "assistant-llm",
+        "model": "claude-opus-4-7",
+        "prompt_version": "wiki-description-v1"
+      }
+    }
+  }
+}
