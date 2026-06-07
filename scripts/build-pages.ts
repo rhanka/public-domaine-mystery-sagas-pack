@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync, copyFileSync, readdirSync, existsSync } from "node:fs"
+import { cpSync, existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join, dirname, basename, extname } from "node:path"
 
 const ROOT = process.cwd()
@@ -8,7 +8,36 @@ const OUT = join(ROOT, "docs")
 mkdirSync(OUT, { recursive: true })
 mkdirSync(join(OUT, "wiki"), { recursive: true })
 
-copyFileSync(join(SRC_GRAPHIFY, "graph.html"), join(OUT, "graph.html"))
+function graphEntryHtml(): string {
+  return [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "<meta charset=\"utf-8\">",
+    "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "<title>Graph - Mystery Sagas Knowledge Graph</title>",
+    "<style>",
+    "html, body { margin: 0; width: 100%; height: 100%; overflow: hidden; background: #fff; }",
+    "#studio { border: 0; width: 100%; height: 100%; display: block; }",
+    ".no-script { font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; padding: 2rem; }",
+    "</style>",
+    "</head>",
+    "<body>",
+    "<iframe id=\"studio\" src=\"./studio/index.html\" title=\"Graphify Ontology Studio\"></iframe>",
+    "<noscript><p class=\"no-script\"><a href=\"./studio/index.html\">Open the Graphify Ontology Studio</a></p></noscript>",
+    "</body>",
+    "</html>",
+  ].join("\n")
+}
+
+const studioDir = join(SRC_GRAPHIFY, "studio")
+if (existsSync(join(studioDir, "index.html"))) {
+  rmSync(join(OUT, "studio"), { recursive: true, force: true })
+  cpSync(studioDir, join(OUT, "studio"), { recursive: true })
+  writeFileSync(join(OUT, "graph.html"), graphEntryHtml())
+} else {
+  throw new Error(`Standalone studio export not found at ${studioDir}. Generate .graphify/studio before building Pages.`)
+}
 
 const wikiDir = join(SRC_GRAPHIFY, "wiki")
 const wikiFiles = readdirSync(wikiDir).filter((f) => f.endsWith(".md"))
