@@ -1,210 +1,130 @@
 {
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/README.md": {
+  "CORPUS_LICENSE.md": {
+    "mtime": 1778043794848.1602,
+    "hash": "bdfd0c3f3bc0bc618e4e0634d9040f0d"
+  },
+  "README.md": {
+    "mtime": 1780335165433.18,
+    "hash": "e83bcbc0a357f7814521efc63c121f2a"
+  },
+  "corpus/README.md": {
     "mtime": 1778043910242.0684,
     "hash": "1f36adc684fe4888b980278c76721278"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/arsene-lupin/text.txt": {
+  "corpus/arsene-lupin/arsene-lupin/text.txt": {
     "mtime": 1778043906111.0718,
     "hash": "ea0d14aebc483db132d2dc08fba30352"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-blonde-lady/text.txt": {
+  "corpus/arsene-lupin/the-blonde-lady/text.txt": {
     "mtime": 1778043906308.0715,
     "hash": "1965f9414092801351998d2ff9eba749"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-crystal-stopper/text.txt": {
+  "corpus/arsene-lupin/the-crystal-stopper/text.txt": {
     "mtime": 1778043906703.0713,
     "hash": "a868fdc2950a83010fbba32acdbecac8"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt": {
+  "corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt": {
     "mtime": 1778043905918.0718,
     "hash": "c383636b214f0355b1c6dd6892b6a852"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-hollow-needle/text.txt": {
+  "corpus/arsene-lupin/the-hollow-needle/text.txt": {
     "mtime": 1778043906506.0715,
     "hash": "5434750e1cdef2dbda77a22dd006abf6"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt": {
+  "corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt": {
     "mtime": 1778043908206.07,
     "hash": "1136212eceb4a8cf61913f27ca23f460"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt": {
+  "corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt": {
     "mtime": 1778043908594.0698,
     "hash": "29273945feddd0b5465b34429bd84eac"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/the-red-thumb-mark/text.txt": {
+  "corpus/dr-thorndyke/the-red-thumb-mark/text.txt": {
     "mtime": 1778043908014.0703,
     "hash": "aa995d8ded53b687748f0bbf440b477d"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/the-vanishing-man/text.txt": {
+  "corpus/dr-thorndyke/the-vanishing-man/text.txt": {
     "mtime": 1778043908399.0698,
     "hash": "9297dae933506fa0239c2cdea7f23b0e"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/father-brown/the-innocence-of-father-brown/text.txt": {
+  "corpus/father-brown/the-innocence-of-father-brown/text.txt": {
     "mtime": 1778043907440.0706,
     "hash": "4c86a342654cde12df3d4a01b4029902"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/father-brown/the-secret-of-father-brown/text.txt": {
+  "corpus/father-brown/the-secret-of-father-brown/text.txt": {
     "mtime": 1778043907813.0703,
     "hash": "07ab3d37ebe7ffdd797d94df8c8489a2"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/father-brown/the-wisdom-of-father-brown/text.txt": {
+  "corpus/father-brown/the-wisdom-of-father-brown/text.txt": {
     "mtime": 1778043907626.0706,
     "hash": "a64647174d0b3d44065781fdbc2417e8"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/raffles/a-thief-in-the-night/text.txt": {
+  "corpus/raffles/a-thief-in-the-night/text.txt": {
     "mtime": 1778043910047.0686,
     "hash": "c1f9aeb347b0cf15ff39a315044f30a6"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/raffles/mr-justice-raffles/text.txt": {
+  "corpus/raffles/mr-justice-raffles/text.txt": {
     "mtime": 1778043910240.0684,
     "hash": "a947e19d7766f19d02048fb045d76b08"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt": {
+  "corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt": {
     "mtime": 1778043908958.0696,
     "hash": "d19a0e87a1066fb6f6360d84ceeeb6d5"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/raffles/the-amateur-cracksman/text.txt": {
+  "corpus/raffles/the-amateur-cracksman/text.txt": {
     "mtime": 1778043908771.0696,
     "hash": "d06c8dff69c7cad067daca142379fc56"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/a-study-in-scarlet/text.txt": {
+  "corpus/sherlock-holmes/a-study-in-scarlet/text.txt": {
     "mtime": 1778043904068.0732,
     "hash": "5fc1fc7c0a2ea2387ccdd1a5b5d50ded"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/his-last-bow/text.txt": {
+  "corpus/sherlock-holmes/his-last-bow/text.txt": {
     "mtime": 1778043905542.0723,
     "hash": "511d9973428501036daad96fff4ddc20"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt": {
+  "corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt": {
     "mtime": 1778043904525.073,
     "hash": "4a5188aaef4a526fd5438b8b14c2d49e"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt": {
+  "corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt": {
     "mtime": 1778043905735.072,
     "hash": "f3d145b237269280b9ff13f0b43b253c"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt": {
+  "corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt": {
     "mtime": 1778043904912.0728,
     "hash": "4ae3276d0141c6e123bea7f32a53c3f2"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt": {
+  "corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt": {
     "mtime": 1778043904728.0728,
     "hash": "1ac54761029b78968ae8329a87ca43a3"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt": {
+  "corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt": {
     "mtime": 1778043905166.0725,
     "hash": "f4e55950608b5a1f92c8a83731339673"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-sign-of-the-four/text.txt": {
+  "corpus/sherlock-holmes/the-sign-of-the-four/text.txt": {
     "mtime": 1778043904262.0732,
     "hash": "358c73a067502b37d0a781bbca5e1996"
   },
-  "/home/antoinefa/src/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-valley-of-fear/text.txt": {
+  "corpus/sherlock-holmes/the-valley-of-fear/text.txt": {
     "mtime": 1778043905354.0723,
     "hash": "53f0b55085a60954beac84f290e197cb"
   },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/README.md": {
-    "mtime": 1780277193812.2744,
-    "hash": "1f36adc684fe4888b980278c76721278"
+  "examples/graphify-three-works/README.md": {
+    "mtime": 1780335165434.18,
+    "hash": "5051b33b220eb7c3e080d36f308f00f9"
   },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/arsene-lupin/text.txt": {
-    "mtime": 1780277193815.2744,
-    "hash": "ea0d14aebc483db132d2dc08fba30352"
+  "graphify.yaml": {
+    "mtime": 1780335165436.18,
+    "hash": "47d2ffbe204929ccd98bad29b368ef83"
   },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-blonde-lady/text.txt": {
-    "mtime": 1780277193818.2744,
-    "hash": "1965f9414092801351998d2ff9eba749"
+  "graphify/README.md": {
+    "mtime": 1779464188779.0413,
+    "hash": "1a4686803f9568f7b66f6049781727fb"
   },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-crystal-stopper/text.txt": {
-    "mtime": 1780277193822.2744,
-    "hash": "a868fdc2950a83010fbba32acdbecac8"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/text.txt": {
-    "mtime": 1780277193825.2744,
-    "hash": "c383636b214f0355b1c6dd6892b6a852"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/arsene-lupin/the-hollow-needle/text.txt": {
-    "mtime": 1780277193829.2744,
-    "hash": "5434750e1cdef2dbda77a22dd006abf6"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/john-thorndyke-s-cases/text.txt": {
-    "mtime": 1780277193834.2744,
-    "hash": "1136212eceb4a8cf61913f27ca23f460"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/the-adventures-of-dr-thorndyke/text.txt": {
-    "mtime": 1780277193838.2744,
-    "hash": "29273945feddd0b5465b34429bd84eac"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/the-red-thumb-mark/text.txt": {
-    "mtime": 1780277193842.2744,
-    "hash": "aa995d8ded53b687748f0bbf440b477d"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/dr-thorndyke/the-vanishing-man/text.txt": {
-    "mtime": 1780277193846.2744,
-    "hash": "9297dae933506fa0239c2cdea7f23b0e"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/father-brown/the-innocence-of-father-brown/text.txt": {
-    "mtime": 1780277193849.2742,
-    "hash": "4c86a342654cde12df3d4a01b4029902"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/father-brown/the-secret-of-father-brown/text.txt": {
-    "mtime": 1780277193852.2742,
-    "hash": "07ab3d37ebe7ffdd797d94df8c8489a2"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/father-brown/the-wisdom-of-father-brown/text.txt": {
-    "mtime": 1780277193856.2742,
-    "hash": "a64647174d0b3d44065781fdbc2417e8"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/raffles/a-thief-in-the-night/text.txt": {
-    "mtime": 1780277193863.2742,
-    "hash": "c1f9aeb347b0cf15ff39a315044f30a6"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/raffles/mr-justice-raffles/text.txt": {
-    "mtime": 1780277193867.2742,
-    "hash": "a947e19d7766f19d02048fb045d76b08"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/raffles/raffles-further-adventures-of-the-amateur-cracksman/text.txt": {
-    "mtime": 1780277193869.2742,
-    "hash": "d19a0e87a1066fb6f6360d84ceeeb6d5"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/raffles/the-amateur-cracksman/text.txt": {
-    "mtime": 1780277193872.2742,
-    "hash": "d06c8dff69c7cad067daca142379fc56"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/a-study-in-scarlet/text.txt": {
-    "mtime": 1780277193874.2742,
-    "hash": "5fc1fc7c0a2ea2387ccdd1a5b5d50ded"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/his-last-bow/text.txt": {
-    "mtime": 1780277193877.2742,
-    "hash": "511d9973428501036daad96fff4ddc20"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-adventures-of-sherlock-holmes/text.txt": {
-    "mtime": 1780277193882.2742,
-    "hash": "4a5188aaef4a526fd5438b8b14c2d49e"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-case-book-of-sherlock-holmes/text.txt": {
-    "mtime": 1780277193886.2742,
-    "hash": "f3d145b237269280b9ff13f0b43b253c"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-hound-of-the-baskervilles/text.txt": {
-    "mtime": 1780277193889.2742,
-    "hash": "4ae3276d0141c6e123bea7f32a53c3f2"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-memoirs-of-sherlock-holmes/text.txt": {
-    "mtime": 1780277193895.2742,
-    "hash": "1ac54761029b78968ae8329a87ca43a3"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-return-of-sherlock-holmes/text.txt": {
-    "mtime": 1780277193901.2742,
-    "hash": "f4e55950608b5a1f92c8a83731339673"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-sign-of-the-four/text.txt": {
-    "mtime": 1780277193903.2742,
-    "hash": "358c73a067502b37d0a781bbca5e1996"
-  },
-  "/tmp/public-domaine-mystery-sagas-pack/corpus/sherlock-holmes/the-valley-of-fear/text.txt": {
-    "mtime": 1780277193907.2742,
-    "hash": "53f0b55085a60954beac84f290e197cb"
+  "graphify/ontology-profile.yaml": {
+    "mtime": 1779309617939.5352,
+    "hash": "faaf51606cccf0970f7f11cee7926a4a"
   }
 }
