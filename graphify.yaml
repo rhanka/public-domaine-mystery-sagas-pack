@@ -2,9 +2,9 @@ version: 1
 
 # Project-owned Graphify configuration for the curated mystery ontology UAT.
 # Profile mode is strictly opt-in: this file activates configured-profile
-# behavior. The committed `.graphify/` demo at the repo root is generated
-# in the default non-profile mode and stays untouched by these settings
-# (write_html / write_wiki kept off).
+# behavior. The committed `.graphify/` studio bundle is republished as a
+# portable UAT artifact; profile HTML/wiki writes stay disabled here so the
+# studio bundle is updated explicitly and QA-gated by the target below.
 
 profile:
   path: graphify/ontology-profile.yaml
@@ -54,3 +54,49 @@ outputs:
     reconciliation:
       decisions_path: graphify/reconciliation/decisions.jsonl
       audit_log_path: .graphify/ontology/reconciliation/applied-patches.jsonl
+
+quality:
+  targets:
+    mystery_public_studio:
+      kind: studio-static-bundle
+      bundle_path: .graphify/studio
+      publication:
+        blocking: true
+        require_resolved_manifest: true
+        deny_source_path_patterns:
+          - ".graphify/scratch/**"
+        data_allowlist:
+          - graph.json
+          - scene.json
+          - entities.json
+          - reconciliation-candidates.json
+          - workspace-manifest.json
+          - ontology/citations.json
+      citations:
+        extraction:
+          mode: all_extracted
+          require_producer_proof: true
+          contract_id: graphify_all_extracted_entity_citations_v1
+          allowed_contract_hashes:
+            - sha256:c4f4f4dd1d972896681723daa9388dc8e1bb33fbdc5b8a8f6ede96362d83e916
+          require_batch_coverage: true
+        display: full
+        inline:
+          mode: top_k
+          top_k: 8
+        require_sidecar: true
+        min_count_by_node:
+          character_sherlock_holmes: 89
+        no_shrink_by_node:
+          character_sherlock_holmes:
+            baseline_field: citation_count
+            max_drop: 0
+      graph:
+        min_nodes: 2091
+        min_edges: 3168
+        max_missing_descriptions: 0
+      reconciliation:
+        min_candidates: 31
+        require_groupable_by_type: true
+      communities:
+        require_semantic_labels: true
