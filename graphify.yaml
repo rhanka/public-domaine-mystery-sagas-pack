@@ -92,9 +92,40 @@ quality:
             baseline_field: citation_count
             max_drop: 0
       graph:
-        min_nodes: 2091
-        min_edges: 3168
+        min_nodes: 1983
+        min_edges: 4527
         max_missing_descriptions: 0
+        max_orphan_nodes: 0
+        forbidden_node_id_patterns:
+          - "^src_"
+          - "^scripts_"
+          - "^tests_"
+        forbidden_source_path_patterns:
+          - "src/**"
+          - "scripts/**"
+          - "tests/**"
+        allowed_node_types:
+          - Character
+          - Alias
+          - Work
+          - Saga
+          - Author
+          - Translator
+          - ChapterOrStory
+          - Case
+          - Event
+          - Fact
+          - CrimeOrScheme
+          - Motive
+          - ForensicMethod
+          - DisguisePersona
+          - Location
+          - Object
+          - Evidence
+          - Organization
+          - NarrativeRole
+        min_degree_by_type:
+          ChapterOrStory: 2
       reconciliation:
         min_candidates: 31
         require_groupable_by_type: true

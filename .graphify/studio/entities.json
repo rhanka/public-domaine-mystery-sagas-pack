@@ -187,7 +187,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "case_charmerace_burglary": {
     "id": "case_charmerace_burglary",
@@ -257,7 +257,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "case_gift_of_the_emperor": {
     "id": "case_gift_of_the_emperor",
@@ -337,7 +337,7 @@
     },
     "occurrences": null,
     "community": 99,
-    "community_name": "The Ides of March Case"
+    "community_name": "The Ides of March"
   },
   "case_imbert_safe": {
     "id": "case_imbert_safe",
@@ -367,7 +367,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "case_lowe_burglary": {
     "id": "case_lowe_burglary",
@@ -1087,7 +1087,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "chapter_asiss_p1_ch6": {
     "id": "chapter_asiss_p1_ch6",
@@ -1117,7 +1117,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "chapter_asiss_p2_ch2": {
     "id": "chapter_asiss_p2_ch2",
@@ -1127,7 +1127,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "chapter_asiss_p2_ch3": {
     "id": "chapter_asiss_p2_ch3",
@@ -1137,7 +1137,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "chapter_asiss_p2_ch4": {
     "id": "chapter_asiss_p2_ch4",
@@ -1147,7 +1147,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "chapter_asiss_p2_ch5": {
     "id": "chapter_asiss_p2_ch5",
@@ -1167,7 +1167,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "chapter_asiss_p2_ch7": {
     "id": "chapter_asiss_p2_ch7",
@@ -1497,7 +1497,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "chapter_hlb_devils_foot": {
     "id": "chapter_hlb_devils_foot",
@@ -1537,7 +1537,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "chapter_hlb_red_circle": {
     "id": "chapter_hlb_red_circle",
@@ -1557,7 +1557,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "chapter_hollow_needle_i": {
     "id": "chapter_hollow_needle_i",
@@ -1967,7 +1967,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "chapter_part2_ch4": {
     "id": "chapter_part2_ch4",
@@ -1997,7 +1997,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "chapter_part2_ch7": {
     "id": "chapter_part2_ch7",
@@ -2007,7 +2007,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "chapter_raffles_further_adventures_a_jubilee_present": {
     "id": "chapter_raffles_further_adventures_a_jubilee_present",
@@ -2087,7 +2087,7 @@
     },
     "occurrences": null,
     "community": 99,
-    "community_name": "The Ides of March Case"
+    "community_name": "The Ides of March"
   },
   "chapter_return_abbey_grange": {
     "id": "chapter_return_abbey_grange",
@@ -2107,7 +2107,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "chapter_return_charles_augustus_milverton": {
     "id": "chapter_return_charles_augustus_milverton",
@@ -2147,7 +2147,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "chapter_return_missing_three_quarter": {
     "id": "chapter_return_missing_three_quarter",
@@ -2447,7 +2447,7 @@
     },
     "occurrences": null,
     "community": 99,
-    "community_name": "The Ides of March Case"
+    "community_name": "The Ides of March"
   },
   "chapter_the_amateur_cracksman_the_return_match": {
     "id": "chapter_the_amateur_cracksman_the_return_match",
@@ -3337,7 +3337,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_agatha_milverton_housemaid": {
     "id": "character_agatha_milverton_housemaid",
@@ -3437,7 +3437,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_altamont": {
     "id": "character_altamont",
@@ -3497,7 +3497,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_anstey": {
     "id": "character_anstey",
@@ -3597,7 +3597,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_arthur_carstairs": {
     "id": "character_arthur_carstairs",
@@ -3927,7 +3927,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "character_brother_morris": {
     "id": "character_brother_morris",
@@ -3937,7 +3937,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_buller": {
     "id": "character_buller",
@@ -4017,7 +4017,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_captain_morstan": {
     "id": "character_captain_morstan",
@@ -4037,7 +4037,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_captain_raggerton": {
     "id": "character_captain_raggerton",
@@ -4087,7 +4087,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_cartwright": {
     "id": "character_cartwright",
@@ -4367,7 +4367,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_colonel_varney": {
     "id": "character_colonel_varney",
@@ -4407,7 +4407,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_constable_walters": {
     "id": "character_constable_walters",
@@ -4417,7 +4417,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_count_corbucci": {
     "id": "character_count_corbucci",
@@ -4617,7 +4617,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_dorak": {
     "id": "character_dorak",
@@ -4727,7 +4727,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_dr_huxtable": {
     "id": "character_dr_huxtable",
@@ -5127,7 +5127,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "character_elder_stangerson": {
     "id": "character_elder_stangerson",
@@ -5137,7 +5137,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "character_elsie_cubitt": {
     "id": "character_elsie_cubitt",
@@ -5207,7 +5207,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "character_evan_smith": {
     "id": "character_evan_smith",
@@ -5787,7 +5787,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_harris_valet": {
     "id": "character_harris_valet",
@@ -5987,7 +5987,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_horace_velmont": {
     "id": "character_horace_velmont",
@@ -6037,7 +6037,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_hugo_romaine": {
     "id": "character_hugo_romaine",
@@ -6107,7 +6107,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_inspector_craven": {
     "id": "character_inspector_craven",
@@ -6197,7 +6197,7 @@
     },
     "occurrences": null,
     "community": 99,
-    "community_name": "The Ides of March Case"
+    "community_name": "The Ides of March"
   },
   "character_inspector_mackinnon": {
     "id": "character_inspector_mackinnon",
@@ -6417,7 +6417,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_jack_stapleton": {
     "id": "character_jack_stapleton",
@@ -6557,7 +6557,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_james_todhunter": {
     "id": "character_james_todhunter",
@@ -6627,7 +6627,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "character_jephro_rucastle": {
     "id": "character_jephro_rucastle",
@@ -6657,7 +6657,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_joan_stacey": {
     "id": "character_joan_stacey",
@@ -6767,7 +6767,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "character_john_garrideb": {
     "id": "character_john_garrideb",
@@ -6797,7 +6797,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_john_hornby": {
     "id": "character_john_hornby",
@@ -6847,7 +6847,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_john_straker": {
     "id": "character_john_straker",
@@ -6887,7 +6887,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_jonas_oldacre": {
     "id": "character_jonas_oldacre",
@@ -6927,7 +6927,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_joseph_stangerson": {
     "id": "character_joseph_stangerson",
@@ -6977,7 +6977,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_juliet_gibson": {
     "id": "character_juliet_gibson",
@@ -7087,7 +7087,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_lady_galloway": {
     "id": "character_lady_galloway",
@@ -7287,7 +7287,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "character_leontine_zalti": {
     "id": "character_leontine_zalti",
@@ -7327,7 +7327,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_lord_amber": {
     "id": "character_lord_amber",
@@ -7367,7 +7367,7 @@
     },
     "occurrences": null,
     "community": 99,
-    "community_name": "The Ides of March Case"
+    "community_name": "The Ides of March"
   },
   "character_lord_falconroy": {
     "id": "character_lord_falconroy",
@@ -7507,7 +7507,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "character_ludovic_imbert": {
     "id": "character_ludovic_imbert",
@@ -7727,7 +7727,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_marlow_bates": {
     "id": "character_marlow_bates",
@@ -7747,7 +7747,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_marquis_of_marne": {
     "id": "character_marquis_of_marne",
@@ -7807,7 +7807,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_master_of_mountain": {
     "id": "character_master_of_mountain",
@@ -8017,7 +8017,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_miss_dobney": {
     "id": "character_miss_dobney",
@@ -8027,7 +8027,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_mme_fournaye": {
     "id": "character_mme_fournaye",
@@ -8067,7 +8067,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_mr_atkinson": {
     "id": "character_mr_atkinson",
@@ -8397,7 +8397,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_mrs_porter": {
     "id": "character_mrs_porter",
@@ -8457,7 +8457,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "character_mrs_smith": {
     "id": "character_mrs_smith",
@@ -8487,7 +8487,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_mundon_mandeville": {
     "id": "character_mundon_mandeville",
@@ -8787,7 +8787,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_patrick_royce": {
     "id": "character_patrick_royce",
@@ -8907,7 +8907,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_philip_hawker": {
     "id": "character_philip_hawker",
@@ -8947,7 +8947,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_pietro_venucci": {
     "id": "character_pietro_venucci",
@@ -9057,7 +9057,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_professor_crake": {
     "id": "character_professor_crake",
@@ -9207,7 +9207,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "character_rose_spender": {
     "id": "character_rose_spender",
@@ -9217,7 +9217,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "character_rosenthall": {
     "id": "character_rosenthall",
@@ -9377,7 +9377,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_signor_rulli": {
     "id": "character_signor_rulli",
@@ -9387,7 +9387,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_signora_maroni": {
     "id": "character_signora_maroni",
@@ -9597,7 +9597,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_sir_john_cockspur": {
     "id": "character_sir_john_cockspur",
@@ -9787,7 +9787,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_staples_butler": {
     "id": "character_staples_butler",
@@ -9857,7 +9857,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_thaddeus_sholto": {
     "id": "character_thaddeus_sholto",
@@ -9927,7 +9927,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_tito_castalotte": {
     "id": "character_tito_castalotte",
@@ -10047,7 +10047,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "character_victor_hatherley": {
     "id": "character_victor_hatherley",
@@ -10147,7 +10147,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "character_von_bischoff": {
     "id": "character_von_bischoff",
@@ -10257,7 +10257,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "character_william_hales": {
     "id": "character_william_hales",
@@ -10277,7 +10277,7 @@
     },
     "occurrences": null,
     "community": 71,
-    "community_name": "Black Peter"
+    "community_name": "Golden Pince-Nez"
   },
   "character_wilson": {
     "id": "character_wilson",
@@ -10767,7 +10767,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "crime_moonshine_death": {
     "id": "crime_moonshine_death",
@@ -11107,7 +11107,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "crime_sabotage_fountain_pen": {
     "id": "crime_sabotage_fountain_pen",
@@ -11437,7 +11437,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "event_death_of_sir_charles": {
     "id": "event_death_of_sir_charles",
@@ -11447,7 +11447,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "event_douglas_death_overboard": {
     "id": "event_douglas_death_overboard",
@@ -11487,7 +11487,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "event_hope_arrest": {
     "id": "event_hope_arrest",
@@ -11507,7 +11507,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "event_hope_pursuit_vengeance": {
     "id": "event_hope_pursuit_vengeance",
@@ -11547,7 +11547,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "event_jubilee_1897": {
     "id": "event_jubilee_1897",
@@ -11567,7 +11567,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "event_lodge_initiation": {
     "id": "event_lodge_initiation",
@@ -11577,7 +11577,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "event_lucy_drebber_marriage": {
     "id": "event_lucy_drebber_marriage",
@@ -11607,7 +11607,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "event_moving_to_221b": {
     "id": "event_moving_to_221b",
@@ -11637,7 +11637,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "event_second_arrest_of_lupin": {
     "id": "event_second_arrest_of_lupin",
@@ -11657,7 +11657,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "event_stapleton_disappears": {
     "id": "event_stapleton_disappears",
@@ -11667,7 +11667,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "event_trapping_birdy_edwards": {
     "id": "event_trapping_birdy_edwards",
@@ -11927,7 +11927,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "fact_hound_is_real_dog": {
     "id": "fact_hound_is_real_dog",
@@ -12097,7 +12097,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "method_body_substitution": {
     "id": "method_body_substitution",
@@ -12147,7 +12147,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "method_chloroform": {
     "id": "method_chloroform",
@@ -12317,7 +12317,7 @@
     },
     "occurrences": null,
     "community": 70,
-    "community_name": "Jefferson Hope"
+    "community_name": "Chapter I: On the Great"
   },
   "method_phosphorus_coating": {
     "id": "method_phosphorus_coating",
@@ -12327,7 +12327,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "method_poison_pills": {
     "id": "method_poison_pills",
@@ -12497,7 +12497,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "motive_revenge_for_lucy": {
     "id": "motive_revenge_for_lucy",
@@ -12927,7 +12927,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "object_bullet_killed_otto": {
     "id": "object_bullet_killed_otto",
@@ -13337,7 +13337,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "object_five_orange_pips": {
     "id": "object_five_orange_pips",
@@ -13757,7 +13757,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "object_looking_glasses_mirrors": {
     "id": "object_looking_glasses_mirrors",
@@ -13937,7 +13937,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "object_nail_scissors": {
     "id": "object_nail_scissors",
@@ -13997,7 +13997,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "object_oriental_dagger": {
     "id": "object_oriental_dagger",
@@ -14587,7 +14587,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "object_saradine_visiting_card": {
     "id": "object_saradine_visiting_card",
@@ -14777,7 +14777,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "object_speckled_band": {
     "id": "object_speckled_band",
@@ -14917,7 +14917,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "object_the_red_thumb_mark": {
     "id": "object_the_red_thumb_mark",
@@ -15327,7 +15327,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "organization_eyres_of_exmoor": {
     "id": "organization_eyres_of_exmoor",
@@ -15427,7 +15427,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "organization_imperial_yeomanry": {
     "id": "organization_imperial_yeomanry",
@@ -15487,7 +15487,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "organization_lodge_341": {
     "id": "organization_lodge_341",
@@ -15497,7 +15497,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "organization_merton_county_lodge_249": {
     "id": "organization_merton_county_lodge_249",
@@ -15547,7 +15547,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "organization_morrison_morrison_dodd": {
     "id": "organization_morrison_morrison_dodd",
@@ -15657,7 +15657,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "organization_second_sight_sisterhood": {
     "id": "organization_second_sight_sisterhood",
@@ -15897,7 +15897,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
+    "community_name": "Veiled Lodger"
   },
   "place_adams_house_putney": {
     "id": "place_adams_house_putney",
@@ -16087,7 +16087,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_beechwood_house": {
     "id": "place_beechwood_house",
@@ -16557,7 +16557,7 @@
     },
     "occurrences": null,
     "community": 48,
-    "community_name": "Bruce-Partington Plans Theft"
+    "community_name": "Bruce-Partington Plans"
   },
   "place_champion_arms_inn": {
     "id": "place_champion_arms_inn",
@@ -16737,7 +16737,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_copenhagen": {
     "id": "place_copenhagen",
@@ -16807,7 +16807,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_de_lara_house": {
     "id": "place_de_lara_house",
@@ -16847,7 +16847,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_devonshire_exmoor": {
     "id": "place_devonshire_exmoor",
@@ -17117,7 +17117,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "place_great_orme_street": {
     "id": "place_great_orme_street",
@@ -17167,7 +17167,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_grossenmark": {
     "id": "place_grossenmark",
@@ -17317,7 +17317,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "place_highgate_police_station": {
     "id": "place_highgate_police_station",
@@ -17557,7 +17557,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_lincoln_inn_jellicoe": {
     "id": "place_lincoln_inn_jellicoe",
@@ -17797,7 +17797,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_mews_tavern": {
     "id": "place_mews_tavern",
@@ -18147,7 +18147,7 @@
     },
     "occurrences": null,
     "community": 49,
-    "community_name": "Lady Frances Carfax Disappearance"
+    "community_name": "The Disappearance of Lady Frances"
   },
   "place_princetown": {
     "id": "place_princetown",
@@ -18337,7 +18337,7 @@
     },
     "occurrences": null,
     "community": 35,
-    "community_name": "John Ferrier"
+    "community_name": "Chapter II: The Flower of"
   },
   "place_sandhills": {
     "id": "place_sandhills",
@@ -18787,7 +18787,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_tobacconist_barber": {
     "id": "place_tobacconist_barber",
@@ -18857,7 +18857,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "place_university_of_london": {
     "id": "place_university_of_london",
@@ -18927,7 +18927,7 @@
     },
     "occurrences": null,
     "community": 20,
-    "community_name": "Boss McGinty / Black Jack"
+    "community_name": "Chapter III"
   },
   "place_vermissa_valley": {
     "id": "place_vermissa_valley",
@@ -19157,7 +19157,7 @@
     },
     "occurrences": null,
     "community": 24,
-    "community_name": "Garcia Murder"
+    "community_name": "Wisteria Lodge"
   },
   "place_yellowstone_river": {
     "id": "place_yellowstone_river",
@@ -19177,7 +19177,7 @@
     },
     "occurrences": null,
     "community": 42,
-    "community_name": "Killing of the Hound"
+    "community_name": "Death of Sir Charles Baskerville"
   },
   "place_york_college": {
     "id": "place_york_college",
@@ -19359,346 +19359,6 @@
     "community": 22,
     "community_name": "The Return of Sherlock Holmes"
   },
-  "scripts_build_pages": {
-    "id": "scripts_build_pages",
-    "description": {
-      "status": "generated",
-      "description": "build-pages.ts is the script that assembles the graphify GitHub Pages site, generating HTML entries and the index shell from the graph data."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_cname": {
-    "id": "scripts_build_pages_cname",
-    "description": {
-      "status": "generated",
-      "description": "The CNAME constant in scripts/build-pages.ts reads the CNAME environment variable and, if set, writes a CNAME file to the output directory to configure a custom domain for the GitHub Pages deployment."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_escapehtml": {
-    "id": "scripts_build_pages_escapehtml",
-    "description": {
-      "status": "generated",
-      "description": "escapeHtml() is a function in scripts/build-pages.ts that escapes HTML special characters in a string, used by htmlShell() and mdToHtml() when generating static pages."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_graphentryhtml": {
-    "id": "scripts_build_pages_graphentryhtml",
-    "description": {
-      "status": "generated",
-      "description": "The graphEntryHtml() function in scripts/build-pages.ts generates the HTML string for graph.html, an iframe wrapper that embeds the standalone Graphify Ontology Studio as the graph entry page."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_htmlshell": {
-    "id": "scripts_build_pages_htmlshell",
-    "description": {
-      "status": "generated",
-      "description": "htmlShell() is a function in scripts/build-pages.ts that wraps page content in the outer HTML shell structure, used alongside escapeHtml()."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_indexmdpath": {
-    "id": "scripts_build_pages_indexmdpath",
-    "description": {
-      "status": "generated",
-      "description": "The indexMdPath constant in scripts/build-pages.ts holds the resolved file path to the wiki's index.md file, used to generate the root index.html of the deployed GitHub Pages site."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_inlineformat": {
-    "id": "scripts_build_pages_inlineformat",
-    "description": {
-      "status": "generated",
-      "description": "inlineFormat() is a function in scripts/build-pages.ts that applies inline text formatting transformations, working together with mdToHtml() for rendering."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_mdtohtml": {
-    "id": "scripts_build_pages_mdtohtml",
-    "description": {
-      "status": "generated",
-      "description": "mdToHtml() is a function in scripts/build-pages.ts that converts a Markdown string to HTML, working with escapeHtml() and inlineFormat() to render wiki page content."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_out": {
-    "id": "scripts_build_pages_out",
-    "description": {
-      "status": "generated",
-      "description": "The OUT constant in scripts/build-pages.ts holds the path to the docs/ output directory where all built HTML pages, wiki files, studio assets, and deployment artifacts are written."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_pagehreffortitle": {
-    "id": "scripts_build_pages_pagehreffortitle",
-    "description": {
-      "status": "generated",
-      "description": "pageHrefForTitle() is a function in scripts/build-pages.ts that converts a page title to its corresponding HTML href, working alongside slugifyTitle()."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_resolvetitle": {
-    "id": "scripts_build_pages_resolvetitle",
-    "description": {
-      "status": "generated",
-      "description": "The resolveTitle() function in scripts/build-pages.ts resolves a raw wiki link target to a canonical title present in titleSet, normalizing whitespace to underscores, and returns null if no match is found."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_root": {
-    "id": "scripts_build_pages_root",
-    "description": {
-      "status": "generated",
-      "description": "The ROOT constant in scripts/build-pages.ts holds the current working directory path, used as the repository root from which all other paths in the script are derived."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_slugifytitle": {
-    "id": "scripts_build_pages_slugifytitle",
-    "description": {
-      "status": "generated",
-      "description": "slugifyTitle() is a function in scripts/build-pages.ts that converts a page title into a URL-safe slug, used by pageHrefForTitle() for link generation."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_src_graphify": {
-    "id": "scripts_build_pages_src_graphify",
-    "description": {
-      "status": "generated",
-      "description": "The SRC_GRAPHIFY constant in scripts/build-pages.ts holds the path to the .graphify/ directory within the repository root, used as the source for wiki markdown files and the studio export."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_studiodir": {
-    "id": "scripts_build_pages_studiodir",
-    "description": {
-      "status": "generated",
-      "description": "The studioDir constant in scripts/build-pages.ts holds the path to the .graphify/studio/ directory, which must contain a pre-generated standalone studio index.html before the pages build can run."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_titles": {
-    "id": "scripts_build_pages_titles",
-    "description": {
-      "status": "generated",
-      "description": "The titles array in scripts/build-pages.ts is derived from wikiFiles by stripping .md extensions, providing the list of page title strings used to build wiki HTML and populate titleSet."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_titleset": {
-    "id": "scripts_build_pages_titleset",
-    "description": {
-      "status": "generated",
-      "description": "The titleSet Set in scripts/build-pages.ts is constructed from the titles array and used for O(1) lookup during wiki link resolution to detect whether a linked title corresponds to an existing wiki page."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_wikidir": {
-    "id": "scripts_build_pages_wikidir",
-    "description": {
-      "status": "generated",
-      "description": "The wikiDir constant in scripts/build-pages.ts holds the path to the .graphify/wiki/ directory, which is the source folder containing all markdown files that are compiled into wiki HTML pages."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_build_pages_wikifiles": {
-    "id": "scripts_build_pages_wikifiles",
-    "description": {
-      "status": "generated",
-      "description": "The wikiFiles array in scripts/build-pages.ts is produced by reading the wiki directory and filtering for .md files, forming the complete list of markdown sources that will be compiled into HTML pages."
-    },
-    "occurrences": null,
-    "community": 27,
-    "community_name": "build-pages.ts"
-  },
-  "scripts_check_corpus": {
-    "id": "scripts_check_corpus",
-    "description": {
-      "status": "generated",
-      "description": "The check-corpus.ts script that validates the local corpus against the catalog, using main() and the corpusRoot variable alongside catalog.ts, gutenberg.ts, and index.ts to ensure all expected text files are present."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "scripts_check_corpus_corpusroot": {
-    "id": "scripts_check_corpus_corpusroot",
-    "description": {
-      "status": "generated",
-      "description": "The corpusRoot constant in scripts/check-corpus.ts holds the path to the corpus/ directory at the repository root, used as the base for enumerating and validating all downloaded corpus work files."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "scripts_check_corpus_main": {
-    "id": "scripts_check_corpus_main",
-    "description": {
-      "status": "generated",
-      "description": "The main() function in scripts/check-corpus.ts validates the full corpus by asserting the public-domain policy, loading the manifest, and verifying each work's SHA-256 digest and byte count against manifest expectations."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "scripts_deepen_graphify_semantic": {
-    "id": "scripts_deepen_graphify_semantic",
-    "description": {
-      "status": "generated",
-      "description": "deepen-graphify-semantic.ts is the script that runs the deepening step on graphify's raw semantic output, producing a deepened documentary graph using graphify-deepening.ts."
-    },
-    "occurrences": null,
-    "community": 123,
-    "community_name": "deepen-graphify-semantic.ts"
-  },
-  "scripts_deepen_graphify_semantic_deepened": {
-    "id": "scripts_deepen_graphify_semantic_deepened",
-    "description": {
-      "status": "generated",
-      "description": "The deepened variable in scripts/deepen-graphify-semantic.ts holds the result of calling deepenDocumentarySemanticGraph() on the raw graph, representing the semantically enriched graph written to the output file."
-    },
-    "occurrences": null,
-    "community": 123,
-    "community_name": "deepen-graphify-semantic.ts"
-  },
-  "scripts_deepen_graphify_semantic_raw": {
-    "id": "scripts_deepen_graphify_semantic_raw",
-    "description": {
-      "status": "generated",
-      "description": "The raw variable in scripts/deepen-graphify-semantic.ts holds the parsed SemanticGraph loaded from the input JSON file before any semantic deepening is applied."
-    },
-    "occurrences": null,
-    "community": 123,
-    "community_name": "deepen-graphify-semantic.ts"
-  },
-  "scripts_fetch_corpus": {
-    "id": "scripts_fetch_corpus",
-    "description": {
-      "status": "generated",
-      "description": "The fetch-corpus.ts script that downloads and stores corpus text files from Project Gutenberg, using the fetchText() and main() functions and the corpusRoot variable, coordinating with catalog.ts and gutenberg.ts."
-    },
-    "occurrences": null,
-    "community": 103,
-    "community_name": "fetch-corpus.ts"
-  },
-  "scripts_fetch_corpus_corpusroot": {
-    "id": "scripts_fetch_corpus_corpusroot",
-    "description": {
-      "status": "generated",
-      "description": "The corpusRoot constant in scripts/fetch-corpus.ts holds the path to the corpus/ output directory where all fetched and stripped Gutenberg texts and metadata files are written."
-    },
-    "occurrences": null,
-    "community": 103,
-    "community_name": "fetch-corpus.ts"
-  },
-  "scripts_fetch_corpus_fetchtext": {
-    "id": "scripts_fetch_corpus_fetchtext",
-    "description": {
-      "status": "generated",
-      "description": "fetchText() is a function in scripts/fetch-corpus.ts that fetches the text content of a corpus URL, called by main() in the corpus download script."
-    },
-    "occurrences": null,
-    "community": 103,
-    "community_name": "fetch-corpus.ts"
-  },
-  "scripts_fetch_corpus_main": {
-    "id": "scripts_fetch_corpus_main",
-    "description": {
-      "status": "generated",
-      "description": "main() is the entry-point function in scripts/fetch-corpus.ts that orchestrates downloading the public-domain mystery corpus texts using fetchText()."
-    },
-    "occurrences": null,
-    "community": 103,
-    "community_name": "fetch-corpus.ts"
-  },
-  "scripts_fetch_corpus_root": {
-    "id": "scripts_fetch_corpus_root",
-    "description": {
-      "status": "generated",
-      "description": "The root constant in scripts/fetch-corpus.ts holds the current working directory, used as the repository root from which the corpusRoot path is derived."
-    },
-    "occurrences": null,
-    "community": 103,
-    "community_name": "fetch-corpus.ts"
-  },
-  "scripts_generate_graphify_descriptions": {
-    "id": "scripts_generate_graphify_descriptions",
-    "description": {
-      "status": "generated",
-      "description": "The generate-graphify-descriptions.ts script that builds and writes documentary description records from a semantic graph, using buildDocumentaryDescriptionIndex() and graphify-descriptions.ts against a resolved graphHash and index."
-    },
-    "occurrences": null,
-    "community": 110,
-    "community_name": "generate-graphify-descriptions.ts"
-  },
-  "scripts_generate_graphify_descriptions_graphhash": {
-    "id": "scripts_generate_graphify_descriptions_graphhash",
-    "description": {
-      "status": "generated",
-      "description": "The graphHash variable in scripts/generate-graphify-descriptions.ts holds the SHA-256 hex digest of the graph.json file, embedded in the description index for cache invalidation when the graph changes."
-    },
-    "occurrences": null,
-    "community": 110,
-    "community_name": "generate-graphify-descriptions.ts"
-  },
-  "scripts_generate_graphify_descriptions_index": {
-    "id": "scripts_generate_graphify_descriptions_index",
-    "description": {
-      "status": "generated",
-      "description": "The index variable in scripts/generate-graphify-descriptions.ts holds the WikiDescriptionIndex produced by buildDocumentaryDescriptionIndex(), which maps node IDs to their generated wiki descriptions."
-    },
-    "occurrences": null,
-    "community": 110,
-    "community_name": "generate-graphify-descriptions.ts"
-  },
-  "scripts_generate_graphify_descriptions_semanticgraph": {
-    "id": "scripts_generate_graphify_descriptions_semanticgraph",
-    "description": {
-      "status": "generated",
-      "description": "The semanticGraph variable in scripts/generate-graphify-descriptions.ts holds the parsed SemanticGraph loaded from the semantic JSON file, passed to buildDocumentaryDescriptionIndex() to generate wiki node descriptions."
-    },
-    "occurrences": null,
-    "community": 110,
-    "community_name": "generate-graphify-descriptions.ts"
-  },
   "ship_gloria_scott": {
     "id": "ship_gloria_scott",
     "description": {
@@ -19708,556 +19368,6 @@
     "occurrences": null,
     "community": 25,
     "community_name": "Cardboard Box"
-  },
-  "src_catalog": {
-    "id": "src_catalog",
-    "description": {
-      "status": "generated",
-      "description": "catalog.ts defines the corpus catalog and public-domain policy assertions for the mystery saga authors (Chesterton, Doyle, Freeman) used by corpus-checking and fetching scripts."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_assertpublicdomainpolicy": {
-    "id": "src_catalog_assertpublicdomainpolicy",
-    "description": {
-      "status": "generated",
-      "description": "The assertPublicDomainPolicy() function in src/catalog.ts iterates over a list of Work objects and throws if any author or translator fails the life-plus-70 public-domain safety check for the given current year."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_chesterton": {
-    "id": "src_catalog_chesterton",
-    "description": {
-      "status": "generated",
-      "description": "The CHESTERTON constant in src/catalog.ts is a Person object representing G. K. Chesterton (1874–1936), used as the author field for all Father Brown works in the WORKS catalog array."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_doyle": {
-    "id": "src_catalog_doyle",
-    "description": {
-      "status": "generated",
-      "description": "The DOYLE constant in src/catalog.ts is a Person object representing Arthur Conan Doyle (1859–1930), used as the author field for all Sherlock Holmes works in the WORKS catalog array."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_freeman": {
-    "id": "src_catalog_freeman",
-    "description": {
-      "status": "generated",
-      "description": "Catalog entry object for R. Austin Freeman, author of the Dr. Thorndyke detective series, recording his biographical metadata and associated works in the corpus."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_hornung": {
-    "id": "src_catalog_hornung",
-    "description": {
-      "status": "generated",
-      "description": "Catalog entry object for E.W. Hornung, author of the Raffles gentleman-thief series, recording his biographical metadata and associated works in the corpus."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_jepson": {
-    "id": "src_catalog_jepson",
-    "description": {
-      "status": "generated",
-      "description": "Catalog entry object for Edgar Jepson, translator of French mystery works into English, recording his role and associated translations in the corpus."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_leblanc": {
-    "id": "src_catalog_leblanc",
-    "description": {
-      "status": "generated",
-      "description": "Catalog entry object for Maurice Leblanc, creator of the Arsène Lupin series, recording his biographical metadata and associated works in the corpus."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_listsagas": {
-    "id": "src_catalog_listsagas",
-    "description": {
-      "status": "generated",
-      "description": "Returns the complete ordered list of all sagas defined in the mystery corpus catalog, serving as the primary enumeration entry point for downstream processing."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_person": {
-    "id": "src_catalog_person",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript type representing a person (author or translator) in the catalog, capturing fields such as name, dates, and role."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_teixeira": {
-    "id": "src_catalog_teixeira",
-    "description": {
-      "status": "generated",
-      "description": "Catalog entry object for Alexander Teixeira de Mattos, English translator of the Arsène Lupin novels, recording his role and associated translations in the corpus."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_work": {
-    "id": "src_catalog_work",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript type representing a single published work (book or collection) in the corpus, capturing fields such as title, author, translator, and Gutenberg identifiers."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_workinput": {
-    "id": "src_catalog_workinput",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript type representing the raw, un-normalized input shape used to declare a work entry before it is processed into the canonical Work form."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_catalog_works": {
-    "id": "src_catalog_works",
-    "description": {
-      "status": "generated",
-      "description": "Exported array listing all corpus works defined in src/catalog.ts, used as the authoritative source of works for build and indexing pipelines."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "src_graphify_deepening": {
-    "id": "src_graphify_deepening",
-    "description": {
-      "status": "generated",
-      "description": "graphify-deepening.ts is the source module responsible for deepening the semantic graph by creating curated nodes, edges, and metadata edges during the graph enrichment process."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_createcuratededge": {
-    "id": "src_graphify_deepening_createcuratededge",
-    "description": {
-      "status": "generated",
-      "description": "createCuratedEdge() is a function in src/graphify-deepening.ts that creates a manually curated edge in the documentary semantic graph, using sourceRefForLocation() and called by deepenDocumentarySemanticGraph()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_createcuratednode": {
-    "id": "src_graphify_deepening_createcuratednode",
-    "description": {
-      "status": "generated",
-      "description": "createCuratedNode() is a function in src/graphify-deepening.ts that creates a manually curated node in the documentary semantic graph, using sourceRefForLocation() and called by deepenDocumentarySemanticGraph()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_createmetadataedge": {
-    "id": "src_graphify_deepening_createmetadataedge",
-    "description": {
-      "status": "generated",
-      "description": "createMetadataEdge() is a function in src/graphify-deepening.ts that creates a metadata edge linking a source file to its metadata node in the documentary semantic graph, used by deepenDocumentarySemanticGraph()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_createmetadatanode": {
-    "id": "src_graphify_deepening_createmetadatanode",
-    "description": {
-      "status": "generated",
-      "description": "createMetadataNode() is a function in src/graphify-deepening.ts that creates a metadata node representing the source file path in the documentary semantic graph, used by deepenDocumentarySemanticGraph()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_curated_detail_edges": {
-    "id": "src_graphify_deepening_curated_detail_edges",
-    "description": {
-      "status": "generated",
-      "description": "Constant array holding hand-curated edge definitions that are injected into the semantic graph during the deepening pass to enrich relationships not automatically inferred."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_curated_detail_nodes": {
-    "id": "src_graphify_deepening_curated_detail_nodes",
-    "description": {
-      "status": "generated",
-      "description": "Constant array holding hand-curated node definitions that are injected into the semantic graph during the deepening pass to add concepts not automatically extracted."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_curateddetailedge": {
-    "id": "src_graphify_deepening_curateddetailedge",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the required fields (source, target, relation, and optional metadata) for a single hand-curated edge entry in the deepening dataset."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_curateddetailnode": {
-    "id": "src_graphify_deepening_curateddetailnode",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the required fields (id, label, type, and optional metadata) for a single hand-curated node entry in the deepening dataset."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_deependocumentarysemanticgraph": {
-    "id": "src_graphify_deepening_deependocumentarysemanticgraph",
-    "description": {
-      "status": "generated",
-      "description": "deepenDocumentarySemanticGraph(), the core function in src/graphify-deepening.ts that enriches a semantic graph with curated nodes and edges using helpers createCuratedNode(), createCuratedEdge(), createMetadataNode(), createMetadataEdge(), and edgeKey()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_edgekey": {
-    "id": "src_graphify_deepening_edgekey",
-    "description": {
-      "status": "generated",
-      "description": "edgeKey() is a function in src/graphify-deepening.ts that computes a stable key for an edge in the documentary semantic graph, used by deepenDocumentarySemanticGraph()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_metadatapathforsourcefile": {
-    "id": "src_graphify_deepening_metadatapathforsourcefile",
-    "description": {
-      "status": "generated",
-      "description": "metadataPathForSourceFile() is a function in src/graphify-deepening.ts that computes the stable metadata node path for a corpus source file, referenced by createMetadataEdge(), createMetadataNode(), and metadataRefForSourceFile()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_metadatarefforsourcefile": {
-    "id": "src_graphify_deepening_metadatarefforsourcefile",
-    "description": {
-      "status": "generated",
-      "description": "metadataRefForSourceFile() is a function in src/graphify-deepening.ts that returns the reference string for a corpus source file's metadata node, used by createMetadataEdge() and createMetadataNode()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_part_of_types": {
-    "id": "src_graphify_deepening_part_of_types",
-    "description": {
-      "status": "generated",
-      "description": "Constant listing the node type strings that are eligible to participate in part_of hierarchical relationships when the semantic deepening pass resolves containment edges."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_semanticcitation": {
-    "id": "src_graphify_deepening_semanticcitation",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of a citation object attached to semantic graph nodes, capturing source work reference and passage metadata."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_semanticedge": {
-    "id": "src_graphify_deepening_semanticedge",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of an edge in the semantic graph, including source node id, target node id, relation type, and optional citation list."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_semanticgraph": {
-    "id": "src_graphify_deepening_semanticgraph",
-    "description": {
-      "status": "generated",
-      "description": "SemanticGraph is the TypeScript interface in src/graphify-deepening.ts defining the structure of the full documentary semantic graph, referenced by graphify-deepening.ts, graphify-descriptions.ts, and graphify-descriptions.test.ts."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_deepening_semanticnode": {
-    "id": "src_graphify_deepening_semanticnode",
-    "description": {
-      "status": "generated",
-      "description": "SemanticNode is the TypeScript interface in src/graphify-deepening.ts defining the shape of a node in the semantic graph, referenced by both graphify-deepening.ts and graphify-descriptions.ts."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_sourcerefforlocation": {
-    "id": "src_graphify_deepening_sourcerefforlocation",
-    "description": {
-      "status": "generated",
-      "description": "sourceRefForLocation() is a function in src/graphify-deepening.ts that builds a source reference string from a source file and location, used by createCuratedEdge() and createCuratedNode()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_deepening_workfromsourcefile": {
-    "id": "src_graphify_deepening_workfromsourcefile",
-    "description": {
-      "status": "generated",
-      "description": "workFromSourceFile() is a function in src/graphify-deepening.ts that derives a work node identifier from a corpus source file path, used by deepenDocumentarySemanticGraph()."
-    },
-    "occurrences": null,
-    "community": 28,
-    "community_name": "graphify-deepening.ts"
-  },
-  "src_graphify_descriptions": {
-    "id": "src_graphify_descriptions",
-    "description": {
-      "status": "generated",
-      "description": "graphify-descriptions.ts is the source module that implements the node description generation logic, including the documentary description index builder and fallback description type constants."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_builddocumentarydescriptionindex": {
-    "id": "src_graphify_descriptions_builddocumentarydescriptionindex",
-    "description": {
-      "status": "generated",
-      "description": "buildDocumentaryDescriptionIndex() is the main export function in src/graphify-descriptions.ts that builds the full WikiDescriptionIndex for all nodes in a SemanticGraph, calling createRecord() for each node."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_core_fallback_description_types": {
-    "id": "src_graphify_descriptions_core_fallback_description_types",
-    "description": {
-      "status": "generated",
-      "description": "Constant listing the node type strings for which a fallback auto-generated description must always be produced even when no curated description is present."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_createrecord": {
-    "id": "src_graphify_descriptions_createrecord",
-    "description": {
-      "status": "generated",
-      "description": "createRecord(), a function in src/graphify-descriptions.ts that constructs a single description record for a node, delegating to fallbackDescriptionForNode(), sha256(), and sourceRefsForNode()."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_description_by_id": {
-    "id": "src_graphify_descriptions_description_by_id",
-    "description": {
-      "status": "generated",
-      "description": "Map or Record in src/graphify-descriptions.ts that indexes curated description strings by their node ID, enabling O(1) lookup during description assignment."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_fallbackdescriptionfornode": {
-    "id": "src_graphify_descriptions_fallbackdescriptionfornode",
-    "description": {
-      "status": "generated",
-      "description": "fallbackDescriptionForNode() is a function in src/graphify-descriptions.ts that generates a generic fallback description for a node when no curated description exists, used by createRecord()."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_sha256": {
-    "id": "src_graphify_descriptions_sha256",
-    "description": {
-      "status": "generated",
-      "description": "sha256() is a utility function in src/graphify-descriptions.ts that computes a SHA-256 hash of a string or buffer, used by createRecord() to generate cache keys."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_sourcerefsfornode": {
-    "id": "src_graphify_descriptions_sourcerefsfornode",
-    "description": {
-      "status": "generated",
-      "description": "sourceRefsForNode() is a function in src/graphify-descriptions.ts that collects evidence references for a node from its attributes, used by createRecord() when building WikiDescriptionRecord objects."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_wikidescriptionindex": {
-    "id": "src_graphify_descriptions_wikidescriptionindex",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of the full description index object loaded from disk, mapping node IDs to their WikiDescriptionRecord entries."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_graphify_descriptions_wikidescriptionrecord": {
-    "id": "src_graphify_descriptions_wikidescriptionrecord",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of a single node description record in the index, capturing the description text and its source or confidence metadata."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "src_gutenberg": {
-    "id": "src_gutenberg",
-    "description": {
-      "status": "generated",
-      "description": "The gutenberg.ts module that handles Project Gutenberg text retrieval, providing sha256() and slugify() utilities used by the corpus-fetching infrastructure in fetch-corpus.ts and catalog.ts."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "src_gutenberg_sha256": {
-    "id": "src_gutenberg_sha256",
-    "description": {
-      "status": "generated",
-      "description": "Utility function in src/gutenberg.ts that computes the SHA-256 hex digest of a string, used to verify the integrity of downloaded Project Gutenberg corpus files."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "src_gutenberg_slugify": {
-    "id": "src_gutenberg_slugify",
-    "description": {
-      "status": "generated",
-      "description": "Utility function in src/gutenberg.ts that transforms a work title into a lowercase, URL-safe slug used to construct deterministic corpus file paths."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "src_gutenberg_stripgutenbergboilerplate": {
-    "id": "src_gutenberg_stripgutenbergboilerplate",
-    "description": {
-      "status": "generated",
-      "description": "Function in src/gutenberg.ts that detects and removes the standard Project Gutenberg header and footer boilerplate from a downloaded plain-text file, leaving only the literary content."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "src_index": {
-    "id": "src_index",
-    "description": {
-      "status": "generated",
-      "description": "The main entry-point module (src/index.ts) that exports the corpus data types CorpusManifest, CorpusManifestWork, LoadedCorpus, and LoadedCorpusWork, and the loadCorpusFromRoot() function used by downstream scripts."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "src_index_corpusmanifest": {
-    "id": "src_index_corpusmanifest",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of the corpus manifest JSON file, which lists all works included in a built corpus package."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "src_index_corpusmanifestwork": {
-    "id": "src_index_corpusmanifestwork",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of a single work entry within the corpus manifest JSON, capturing identifiers, paths, and metadata for that work."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "src_index_loadcorpusfromroot": {
-    "id": "src_index_loadcorpusfromroot",
-    "description": {
-      "status": "generated",
-      "description": "loadCorpusFromRoot() is a function in src/index.ts that loads the full mystery corpus from a root directory path, calling loadManifestFromRoot() to locate corpus entries."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "src_index_loadedcorpus": {
-    "id": "src_index_loadedcorpus",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of a fully loaded corpus object, combining the manifest metadata with the in-memory text content of all works."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "src_index_loadedcorpuswork": {
-    "id": "src_index_loadedcorpuswork",
-    "description": {
-      "status": "generated",
-      "description": "TypeScript interface defining the shape of a single loaded work, pairing its manifest metadata with the full text string of the work."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "src_index_loadmanifestfromroot": {
-    "id": "src_index_loadmanifestfromroot",
-    "description": {
-      "status": "generated",
-      "description": "loadManifestFromRoot() is a function in src/index.ts that loads the corpus manifest JSON from a root directory, used by loadCorpusFromRoot() to enumerate available texts."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
   },
   "story_blanched_soldier": {
     "id": "story_blanched_soldier",
@@ -20377,197 +19487,7 @@
     },
     "occurrences": null,
     "community": 84,
-    "community_name": "Murder of Ronder the Showman"
-  },
-  "tests_build_pages_test": {
-    "id": "tests_build_pages_test",
-    "description": {
-      "status": "generated",
-      "description": "build-pages.test.ts is the test file for the build-pages script in the mystery pack, exercising runBuildPages() with temp project directories to verify HTML page generation."
-    },
-    "occurrences": null,
-    "community": 111,
-    "community_name": "runBuildPages"
-  },
-  "tests_build_pages_test_runbuildpages": {
-    "id": "tests_build_pages_test_runbuildpages",
-    "description": {
-      "status": "generated",
-      "description": "Test helper function in tests/build-pages.test.ts that invokes the build-pages script against a temporary project directory to perform integration-level validation of the page-build pipeline."
-    },
-    "occurrences": null,
-    "community": 111,
-    "community_name": "runBuildPages"
-  },
-  "tests_build_pages_test_tempdirs": {
-    "id": "tests_build_pages_test_tempdirs",
-    "description": {
-      "status": "generated",
-      "description": "Variable in tests/build-pages.test.ts that holds the set of temporary directories created for the build-pages integration test, used for setup and cleanup."
-    },
-    "occurrences": null,
-    "community": 111,
-    "community_name": "runBuildPages"
-  },
-  "tests_build_pages_test_tempproject": {
-    "id": "tests_build_pages_test_tempproject",
-    "description": {
-      "status": "generated",
-      "description": "Variable in tests/build-pages.test.ts holding the temporary project structure (files and directories) assembled to serve as the input for the build-pages integration test."
-    },
-    "occurrences": null,
-    "community": 111,
-    "community_name": "runBuildPages"
-  },
-  "tests_catalog_test": {
-    "id": "tests_catalog_test",
-    "description": {
-      "status": "generated",
-      "description": "catalog.test.ts is the test file for the catalog module in the mystery pack, exercising catalog functions including allNames against the corpus entries."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "tests_catalog_test_allnames": {
-    "id": "tests_catalog_test_allnames",
-    "description": {
-      "status": "generated",
-      "description": "Test case in tests/catalog.test.ts that calls allNames() and asserts it correctly enumerates every author and translator name registered in the catalog."
-    },
-    "occurrences": null,
-    "community": 43,
-    "community_name": "allNames"
-  },
-  "tests_graphify_deepening_test": {
-    "id": "tests_graphify_deepening_test",
-    "description": {
-      "status": "generated",
-      "description": "graphify-deepening.test.ts is the test file for the graphify-deepening module in the mystery pack, testing the deepening step against the corpus index.ts and graph output."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "tests_graphify_deepening_test_graph": {
-    "id": "tests_graphify_deepening_test_graph",
-    "description": {
-      "status": "generated",
-      "description": "Test graph variable in tests/graphify-deepening.test.ts that provides the in-memory graph fixture passed to deepenDocumentarySemanticGraph() during unit tests."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "tests_graphify_descriptions_test": {
-    "id": "tests_graphify_descriptions_test",
-    "description": {
-      "status": "generated",
-      "description": "The test suite for the graphify descriptions module (tests/graphify-descriptions.test.ts), covering buildDocumentaryDescriptionIndex() and related functionality in graphify-descriptions.ts against a SemanticGraph fixture."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "tests_graphify_descriptions_test_graph": {
-    "id": "tests_graphify_descriptions_test_graph",
-    "description": {
-      "status": "generated",
-      "description": "Test graph variable in tests/graphify-descriptions.test.ts that holds the in-memory graph fixture used to exercise the description-generation functions."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "tests_graphify_descriptions_test_graphpath": {
-    "id": "tests_graphify_descriptions_test_graphpath",
-    "description": {
-      "status": "generated",
-      "description": "Test variable in tests/graphify-descriptions.test.ts holding the filesystem path to the JSON file from which the test graph is loaded for description tests."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "tests_graphify_descriptions_test_index": {
-    "id": "tests_graphify_descriptions_test_index",
-    "description": {
-      "status": "generated",
-      "description": "Test variable in tests/graphify-descriptions.test.ts holding the WikiDescriptionIndex instance loaded from disk and exercised by the description-generation test suite."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "tests_graphify_descriptions_test_missing": {
-    "id": "tests_graphify_descriptions_test_missing",
-    "description": {
-      "status": "generated",
-      "description": "Test case in tests/graphify-descriptions.test.ts that verifies the description-generation logic behaves correctly (e.g., uses fallback) when a node has no entry in the description index."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "tests_graphify_descriptions_test_requiredkinds": {
-    "id": "tests_graphify_descriptions_test_requiredkinds",
-    "description": {
-      "status": "generated",
-      "description": "Test variable in tests/graphify-descriptions.test.ts enumerating the node kind strings that must have descriptions present, used to assert completeness of the description index."
-    },
-    "occurrences": null,
-    "community": 36,
-    "community_name": "graph"
-  },
-  "tests_gutenberg_test": {
-    "id": "tests_gutenberg_test",
-    "description": {
-      "status": "generated",
-      "description": "gutenberg.test.ts is the test file for the gutenberg module in the mystery pack, testing functions that fetch and process raw Project Gutenberg text files."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "tests_gutenberg_test_raw": {
-    "id": "tests_gutenberg_test_raw",
-    "description": {
-      "status": "generated",
-      "description": "Test variable in tests/gutenberg.test.ts holding a raw Project Gutenberg text string (with header and footer boilerplate) used as input to verify stripGutenbergBoilerplate()."
-    },
-    "occurrences": null,
-    "community": 77,
-    "community_name": "raw"
-  },
-  "tests_load_corpus_test": {
-    "id": "tests_load_corpus_test",
-    "description": {
-      "status": "generated",
-      "description": "load-corpus.test.ts is the test file for corpus loading in the mystery pack, exercising loadCorpusFromRoot() against the corpusRoot path in a temporary working directory."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "tests_load_corpus_test_corpusroot": {
-    "id": "tests_load_corpus_test_corpusroot",
-    "description": {
-      "status": "generated",
-      "description": "Test variable in tests/load-corpus.test.ts holding the filesystem path to the test corpus root directory used as the base for corpus-loading integration tests."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
-  },
-  "tests_load_corpus_test_workdir": {
-    "id": "tests_load_corpus_test_workdir",
-    "description": {
-      "status": "generated",
-      "description": "workDir is the test variable in tests/load-corpus.test.ts that holds the temporary work directory path used to exercise loadCorpusFromRoot() during the test suite."
-    },
-    "occurrences": null,
-    "community": 61,
-    "community_name": "corpusRoot"
+    "community_name": "Veiled Lodger"
   },
   "translator_alexander_teixeira_de_mattos": {
     "id": "translator_alexander_teixeira_de_mattos",
