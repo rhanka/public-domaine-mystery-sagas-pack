@@ -92,9 +92,117 @@ quality:
             baseline_field: citation_count
             max_drop: 0
       graph:
-        min_nodes: 2091
-        min_edges: 3168
+        min_nodes: 1983
+        min_edges: 3693
         max_missing_descriptions: 0
+        max_orphan_nodes: 0
+        forbidden_node_id_patterns:
+          - "^src_"
+          - "^scripts_"
+          - "^tests_"
+        forbidden_source_path_patterns:
+          - "src/**"
+          - "scripts/**"
+          - "tests/**"
+        allowed_node_types:
+          - Character
+          - Alias
+          - Work
+          - Saga
+          - Author
+          - Translator
+          - ChapterOrStory
+          - Case
+          - Event
+          - Fact
+          - CrimeOrScheme
+          - Motive
+          - ForensicMethod
+          - DisguisePersona
+          - Location
+          - Object
+          - Evidence
+          - Organization
+          - NarrativeRole
+        min_degree_by_type:
+          ChapterOrStory: 2
+        max_degree_by_type_and_derivation:
+          ChapterOrStory:
+            citation_section_story_context: 30
+            source_location_story_context: 60
+        required_neighbor_ids_by_node:
+          chapter_adventures_speckled_band:
+            - character_helen_stoner
+            - character_dr_grimesby_roylott
+            - object_speckled_band
+            - place_stoke_moran
+          story_veiled_lodger:
+            - character_eugenia_ronder
+            - character_leonardo
+            - character_ronder_showman
+            - crime_ronder_murder
+            - object_sahara_king
+            - place_abbas_parva
+        forbidden_edges:
+          - source: object_speckled_band
+            target: chapter_adventures_beryl_coronet
+            relation: appears_in
+      scene:
+        forbidden_shape_by_type:
+          Alias:
+            - box
+            - roundedbox
+          Work:
+            - box
+            - roundedbox
+          Saga:
+            - box
+            - roundedbox
+          Author:
+            - box
+            - roundedbox
+          Translator:
+            - box
+            - roundedbox
+          ChapterOrStory:
+            - box
+            - roundedbox
+          Case:
+            - box
+            - roundedbox
+          Event:
+            - box
+            - roundedbox
+          Fact:
+            - box
+            - roundedbox
+          CrimeOrScheme:
+            - box
+            - roundedbox
+          Motive:
+            - box
+            - roundedbox
+          ForensicMethod:
+            - box
+            - roundedbox
+          DisguisePersona:
+            - box
+            - roundedbox
+          Location:
+            - box
+            - roundedbox
+          Object:
+            - box
+            - roundedbox
+          Evidence:
+            - box
+            - roundedbox
+          Organization:
+            - box
+            - roundedbox
+          NarrativeRole:
+            - box
+            - roundedbox
       reconciliation:
         min_candidates: 31
         require_groupable_by_type: true

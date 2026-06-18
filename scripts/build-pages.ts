@@ -8,6 +8,15 @@ const OUT = join(ROOT, "docs")
 mkdirSync(OUT, { recursive: true })
 mkdirSync(join(OUT, "wiki"), { recursive: true })
 
+
+function bindMirroredQaReport(bundleDir: string): void {
+  const reportPath = join(bundleDir, "quality-qa-report.json")
+  if (!existsSync(reportPath)) return
+  const report = JSON.parse(readFileSync(reportPath, "utf8")) as Record<string, unknown>
+  report.bundle_path = bundleDir
+  writeFileSync(reportPath, JSON.stringify(report, null, 2) + "\n")
+}
+
 function graphEntryHtml(): string {
   return [
     "<!DOCTYPE html>",
@@ -32,8 +41,10 @@ function graphEntryHtml(): string {
 
 const studioDir = join(SRC_GRAPHIFY, "studio")
 if (existsSync(join(studioDir, "index.html"))) {
-  rmSync(join(OUT, "studio"), { recursive: true, force: true })
-  cpSync(studioDir, join(OUT, "studio"), { recursive: true })
+  const pagesStudioDir = join(OUT, "studio")
+  rmSync(pagesStudioDir, { recursive: true, force: true })
+  cpSync(studioDir, pagesStudioDir, { recursive: true })
+  bindMirroredQaReport(pagesStudioDir)
   writeFileSync(join(OUT, "graph.html"), graphEntryHtml())
 } else {
   throw new Error(`Standalone studio export not found at ${studioDir}. Generate .graphify/studio before building Pages.`)

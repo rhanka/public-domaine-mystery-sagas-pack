@@ -23,7 +23,7 @@ node_types:
     aliases: [book, collection]
     source_backed: true
     visual_encoding:
-      shape: box
+      shape: hexagon
   Saga:
     aliases: [series, cycle]
     source_backed: true
@@ -43,7 +43,7 @@ node_types:
     aliases: [chapter, short story]
     source_backed: true
     visual_encoding:
-      shape: box
+      shape: dot
   Case:
     aliases: [mystery, investigation]
     source_backed: true
