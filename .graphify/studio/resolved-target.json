@@ -1,0 +1,106 @@
+{
+  "schema": "graphify_resolved_target_v1",
+  "target_id": "mystery_public_studio",
+  "target_hash": "sha256:88cafb492d5b5668f13b9496b7828f732bc2705d02af5687f3d8f19652a9ac60",
+  "graphify_version": "0.14.1-qa",
+  "producer": {
+    "name": "mystery_actualize",
+    "source_bundle": ".graphify/scratch/republish-0.14.1/bundle",
+    "note": "Republish existing 0.14.1 reassembly with full citation sidecar and resolved QA target."
+  },
+  "artifacts": {
+    "graph.json": {
+      "bundle_path": "graph.json",
+      "source_path": ".graphify/studio/graph.json",
+      "source_kind": "generated",
+      "sha256": "sha256:a84d65b7c80c0dd6cf69f274a3d0bd095798ffaaf227cd30c51ff377d4f2b2c5"
+    },
+    "scene.json": {
+      "bundle_path": "scene.json",
+      "source_path": ".graphify/studio/scene.json",
+      "source_kind": "generated",
+      "sha256": "sha256:f936d0fbb490d1b580061dc9cb59a5c677f955912f12ac0f7b47deffb3eaff81"
+    },
+    "entities.json": {
+      "bundle_path": "entities.json",
+      "source_path": ".graphify/studio/entities.json",
+      "source_kind": "generated",
+      "sha256": "sha256:8ffec07ac3fd20f42abf4c60832dbb500c196609bead66a917622bfee59e788d"
+    },
+    "reconciliation-candidates.json": {
+      "bundle_path": "reconciliation-candidates.json",
+      "source_path": ".graphify/studio/reconciliation-candidates.json",
+      "source_kind": "generated",
+      "sha256": "sha256:0bb12c923298c072d5f0f1357fde32a9a8fed0223e88f988af0228c4c59e8c8c"
+    },
+    "workspace-manifest.json": {
+      "bundle_path": "workspace-manifest.json",
+      "source_path": ".graphify/studio/workspace-manifest.json",
+      "source_kind": "generated",
+      "sha256": "sha256:1b27598ae8e4a99fef8975c28bb12300d72d9142a3b5c93c6f6aff8a91a705f9"
+    },
+    "ontology/citations.json": {
+      "bundle_path": "ontology/citations.json",
+      "source_path": ".graphify/studio/ontology/citations.json",
+      "source_kind": "generated",
+      "sha256": "sha256:c6d5daf15809ac2974a5905a2bd6192b15c669ac48d3857456943f3fa11a653b"
+    }
+  },
+  "resolved_policy": {
+    "corpus_type": "entity-corpus",
+    "citations": {
+      "extraction": {
+        "mode": "all_extracted",
+        "contract_id": "graphify_all_extracted_entity_citations_v1",
+        "contract_hash": "sha256:c4f4f4dd1d972896681723daa9388dc8e1bb33fbdc5b8a8f6ede96362d83e916",
+        "contract": {
+          "schema": "graphify_citation_extraction_contract_v1",
+          "id": "graphify_all_extracted_entity_citations_v1",
+          "mode": "all_extracted",
+          "requirements": {
+            "emit_all_extracted_citations_per_entity": true,
+            "bounded_samples_allowed": false,
+            "minimum_one_citation_only_allowed": false,
+            "same_entity_merge": "union_by_citation_identity",
+            "inline_projection_is_not_storage": true,
+            "full_store_required_when_display_full": true
+          },
+          "citation_identity": [
+            "source_file",
+            "page",
+            "section",
+            "paragraph_id"
+          ]
+        },
+        "assembly": {
+          "same_entity_merge": "union_by_citation_identity",
+          "dedupe_key": [
+            "source_file",
+            "page",
+            "section",
+            "paragraph_id"
+          ]
+        }
+      },
+      "describeCap": "all",
+      "display": "full",
+      "inline": {
+        "mode": "top_k",
+        "top_k": 8
+      },
+      "sidecar": {
+        "path": "ontology/citations.json",
+        "required": true
+      }
+    }
+  },
+  "extraction_units": [
+    {
+      "id": "republish-0.14.1-reassembly",
+      "source_path": ".graphify/studio/graph.json",
+      "contract_id": "graphify_all_extracted_entity_citations_v1",
+      "contract_hash": "sha256:c4f4f4dd1d972896681723daa9388dc8e1bb33fbdc5b8a8f6ede96362d83e916",
+      "citation_mode": "all_extracted"
+    }
+  ]
+}
