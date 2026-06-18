@@ -37,7 +37,7 @@ scripts/
 
 This repository commits a documentary Graphify UAT export in [.graphify](.graphify), generated from selected Sherlock Holmes, Arsene Lupin, Father Brown, Dr. Thorndyke, and Raffles works. The source bundle for the published studio lives in [.graphify/studio](.graphify/studio), and the Pages workflow copies it into `docs/studio` at deploy time.
 
-The committed visualization contains 2091 nodes, 3168 edges, and 133 named communities. It includes a full citation sidecar, while inline citations are capped to a top-8 display projection. It is backed by the project-owned ontology configuration in [graphify](graphify), and the 25-work source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
+The committed visualization contains 1983 nodes, 3693 edges, and 123 named communities. It includes a full citation sidecar, while inline citations are capped to a top-8 display projection. It is backed by the project-owned ontology configuration in [graphify](graphify), and the 25-work source selection plus regeneration notes live in [examples/graphify-three-works](examples/graphify-three-works).
 
 ## Commands
 

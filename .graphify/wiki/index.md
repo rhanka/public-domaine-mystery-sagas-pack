@@ -2,10 +2,10 @@
 
 Current published studio bundle:
 
-- 2091 nodes
-- 3168 edges
-- 133 named communities
-- 2091/2091 node descriptions present
+- 1983 nodes
+- 3693 edges
+- 123 named communities
+- 1983/1983 node descriptions present
 - 31 reconciliation candidates, groupable by type
 - 0 generic community labels
 
@@ -20,7 +20,7 @@ Current published studio bundle:
 - Target: `mystery_public_studio`
 - Bundle source: `.graphify/studio`
 - Status: passed
-- Checks: 6282 passed, 0 failed, 0 warned
+- Checks: 6095 passed, 0 failed, 0 warned
 - Report: `.graphify/studio/quality-qa-report.json`
 - Manifest: `.graphify/studio/resolved-target.json`
 
