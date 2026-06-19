@@ -307,3 +307,33 @@ outputs:
     wiki:
       enabled: true
       page_node_types: [Character, Work, Saga, Author, ChapterOrStory, Case, Fact, CrimeOrScheme, Motive, ForensicMethod, DisguisePersona, Location]
+
+# EVOL 3.a (v2, user-directed 2026-06-19): >=2-level taxonomy in 4 DOMAINS —
+# Narration / People / Case / Place. Sub-classes group several node_types into a
+# meaningful bucket; the 4 domains are the top-level collapse handles. Consumed
+# by graphify_ontology_class_hierarchies_v1 -> class-hierarchies.json, rendered by
+# the studio class-node toggle.
+class_hierarchies:
+  mystery_class_taxonomy_v1:
+    relation_type: subclass_of
+    membership_relation_type: has_instance
+    classes:
+      # 4 top-level domains (roots)
+      Narration: { parent: null }
+      People:    { parent: null }
+      Case:      { parent: null }
+      Place:     { parent: null }
+      # Narration — the storytelling / publication layer
+      Series:     { parent: Narration, member_node_types: [Saga] }
+      Work:       { parent: Narration, member_node_types: [Work, ChapterOrStory] }
+      Authorship: { parent: Narration, member_node_types: [Author, Translator] }
+      # People — agents
+      Person:       { parent: People, member_node_types: [Character, Alias, DisguisePersona, NarrativeRole] }
+      Organization: { parent: People, member_node_types: [Organization] }
+      # Case — the investigation matter
+      Inquiry:   { parent: Case, member_node_types: [Case] }
+      Act:       { parent: Case, member_node_types: [CrimeOrScheme, Event] }
+      Reasoning: { parent: Case, member_node_types: [Motive, Fact, ForensicMethod] }
+      Material:  { parent: Case, member_node_types: [Evidence, Object] }
+      # Place
+      Location:  { parent: Place, member_node_types: [Location] }
