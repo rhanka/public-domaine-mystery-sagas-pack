@@ -19,7 +19,7 @@
       "bundle_path": "scene.json",
       "source_path": ".graphify/studio/scene.json",
       "source_kind": "generated",
-      "sha256": "sha256:df03f06fd4b4e4e820c7bff90318dc7ac9a2c526feccf0ed756c810d5aa07669"
+      "sha256": "sha256:edc1f0f5d714886d405543269dd8c93276246335260cf0a374987d62dba558b4"
     },
     "entities.json": {
       "bundle_path": "entities.json",
@@ -37,7 +37,7 @@
       "bundle_path": "workspace-manifest.json",
       "source_path": ".graphify/studio/workspace-manifest.json",
       "source_kind": "generated",
-      "sha256": "sha256:0a0d3016eb66c0ac1637743079603e191b4a364f42d9ebab291e034997a9e752"
+      "sha256": "sha256:df74b497176ae273d25da53926d3d752582361d633de02c141457768fb33a884"
     },
     "ontology/citations.json": {
       "bundle_path": "ontology/citations.json",

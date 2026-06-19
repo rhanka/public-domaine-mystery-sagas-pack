@@ -2,15 +2,15 @@
   "schema": "graphify_qa_report_v1",
   "target_id": "mystery_public_studio",
   "target_hash": "sha256:c444f584bff5816314c3d2f41045611b00eaafa984fc1eda4d13f2ea69535b10",
-  "manifest_hash": "sha256:5e5172af4f94d4f314fbe1edb56d804a35412ff7a0091a9850081c16a9ab42ba",
+  "manifest_hash": "sha256:9be845c58925e49970dec53ff61d62155db42928bca43855d25c7f4beb6d293c",
   "bundle_path": "/home/antoinefa/src/public-domaine-mystery-sagas-pack/.graphify/studio",
   "artifact_hashes": {
     "entities.json": "sha256:68ca4ecf8c6a5bf6fa8d3997efe1f8613479895c903f9faa69656b2eeec633c2",
     "graph.json": "sha256:eca012636d3db9c08da6376e22d61d1ccd0b610b4ccfdc297222b7fe0104dc9f",
     "ontology/citations.json": "sha256:c6d5daf15809ac2974a5905a2bd6192b15c669ac48d3857456943f3fa11a653b",
     "reconciliation-candidates.json": "sha256:1233b4a06ad79800a9c69f25400ea5151e26c4f36389a0bf218ea2d16f20f6f3",
-    "scene.json": "sha256:df03f06fd4b4e4e820c7bff90318dc7ac9a2c526feccf0ed756c810d5aa07669",
-    "workspace-manifest.json": "sha256:0a0d3016eb66c0ac1637743079603e191b4a364f42d9ebab291e034997a9e752"
+    "scene.json": "sha256:edc1f0f5d714886d405543269dd8c93276246335260cf0a374987d62dba558b4",
+    "workspace-manifest.json": "sha256:df74b497176ae273d25da53926d3d752582361d633de02c141457768fb33a884"
   },
   "status": "passed",
   "summary": {
@@ -147,8 +147,8 @@
       "id": "manifest.artifacts.scene.json.sha256",
       "severity": "info",
       "message": "artifact hash must match bundle bytes",
-      "expected": "sha256:df03f06fd4b4e4e820c7bff90318dc7ac9a2c526feccf0ed756c810d5aa07669",
-      "actual": "sha256:df03f06fd4b4e4e820c7bff90318dc7ac9a2c526feccf0ed756c810d5aa07669"
+      "expected": "sha256:edc1f0f5d714886d405543269dd8c93276246335260cf0a374987d62dba558b4",
+      "actual": "sha256:edc1f0f5d714886d405543269dd8c93276246335260cf0a374987d62dba558b4"
     },
     {
       "id": "manifest.artifacts.entities.json.bundle_path",
@@ -246,8 +246,8 @@
       "id": "manifest.artifacts.workspace-manifest.json.sha256",
       "severity": "info",
       "message": "artifact hash must match bundle bytes",
-      "expected": "sha256:0a0d3016eb66c0ac1637743079603e191b4a364f42d9ebab291e034997a9e752",
-      "actual": "sha256:0a0d3016eb66c0ac1637743079603e191b4a364f42d9ebab291e034997a9e752"
+      "expected": "sha256:df74b497176ae273d25da53926d3d752582361d633de02c141457768fb33a884",
+      "actual": "sha256:df74b497176ae273d25da53926d3d752582361d633de02c141457768fb33a884"
     },
     {
       "id": "manifest.artifacts.ontology/citations.json.bundle_path",
