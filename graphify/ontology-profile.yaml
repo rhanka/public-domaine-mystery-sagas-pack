@@ -308,44 +308,32 @@ outputs:
       enabled: true
       page_node_types: [Character, Work, Saga, Author, ChapterOrStory, Case, Fact, CrimeOrScheme, Motive, ForensicMethod, DisguisePersona, Location]
 
-# EVOL 3.a: >=2-level ontology class taxonomy (consensus default = Opus variant,
-# decision D5 — pending user confirmation; codex's deeper PersonLike/MysteryMatter
-# nesting is the noted alternative). Leaf class names reuse the node_type names
-# (1:1 member_node_types); the intermediate super-classes (Agent, Creator, Place,
-# PhysicalEntity, Occurrence, Abstraction, Bibliographic) are the new collapse
-# handles. Consumed by the class-hierarchies emitter (graphify_ontology_class_
-# hierarchies_v1) -> class-hierarchies.json, rendered by the studio class-node toggle.
+# EVOL 3.a (v2, user-directed 2026-06-19): >=2-level taxonomy in 4 DOMAINS —
+# Narration / People / Case / Place. Sub-classes group several node_types into a
+# meaningful bucket; the 4 domains are the top-level collapse handles. Consumed
+# by graphify_ontology_class_hierarchies_v1 -> class-hierarchies.json, rendered by
+# the studio class-node toggle.
 class_hierarchies:
   mystery_class_taxonomy_v1:
     relation_type: subclass_of
     membership_relation_type: has_instance
     classes:
-      Thing:           { parent: null }
-      Agent:           { parent: Thing }
-      Person:          { parent: Agent }
-      Character:       { parent: Person, member_node_types: [Character] }
-      Alias:           { parent: Person, member_node_types: [Alias] }
-      DisguisePersona: { parent: Person, member_node_types: [DisguisePersona] }
-      NarrativeRole:   { parent: Person, member_node_types: [NarrativeRole] }
-      Collective:      { parent: Agent }
-      Organization:    { parent: Collective, member_node_types: [Organization] }
-      Creator:         { parent: Thing }
-      Author:          { parent: Creator, member_node_types: [Author] }
-      Translator:      { parent: Creator, member_node_types: [Translator] }
-      Place:           { parent: Thing }
-      Location:        { parent: Place, member_node_types: [Location] }
-      PhysicalEntity:  { parent: Thing }
-      Object:          { parent: PhysicalEntity, member_node_types: [Object] }
-      Evidence:        { parent: PhysicalEntity, member_node_types: [Evidence] }
-      Occurrence:      { parent: Thing }
-      Case:            { parent: Occurrence, member_node_types: [Case] }
-      CrimeOrScheme:   { parent: Occurrence, member_node_types: [CrimeOrScheme] }
-      Event:           { parent: Occurrence, member_node_types: [Event] }
-      Abstraction:     { parent: Thing }
-      Fact:            { parent: Abstraction, member_node_types: [Fact] }
-      Motive:          { parent: Abstraction, member_node_types: [Motive] }
-      ForensicMethod:  { parent: Abstraction, member_node_types: [ForensicMethod] }
-      Bibliographic:   { parent: Thing }
-      Saga:            { parent: Bibliographic, member_node_types: [Saga] }
-      Work:            { parent: Bibliographic, member_node_types: [Work] }
-      ChapterOrStory:  { parent: Bibliographic, member_node_types: [ChapterOrStory] }
+      # 4 top-level domains (roots)
+      Narration: { parent: null }
+      People:    { parent: null }
+      Case:      { parent: null }
+      Place:     { parent: null }
+      # Narration — the storytelling / publication layer
+      Series:     { parent: Narration, member_node_types: [Saga] }
+      Work:       { parent: Narration, member_node_types: [Work, ChapterOrStory] }
+      Authorship: { parent: Narration, member_node_types: [Author, Translator] }
+      # People — agents
+      Person:       { parent: People, member_node_types: [Character, Alias, DisguisePersona, NarrativeRole] }
+      Organization: { parent: People, member_node_types: [Organization] }
+      # Case — the investigation matter
+      Inquiry:   { parent: Case, member_node_types: [Case] }
+      Act:       { parent: Case, member_node_types: [CrimeOrScheme, Event] }
+      Reasoning: { parent: Case, member_node_types: [Motive, Fact, ForensicMethod] }
+      Material:  { parent: Case, member_node_types: [Evidence, Object] }
+      # Place
+      Location:  { parent: Place, member_node_types: [Location] }
