@@ -34,6 +34,24 @@ function graphEntryHtml(): string {
     "<body>",
     "<iframe id=\"studio\" src=\"./studio/index.html\" title=\"Graphify Ontology Studio\"></iframe>",
     "<noscript><p class=\"no-script\"><a href=\"./studio/index.html\">Open the Graphify Ontology Studio</a></p></noscript>",
+    // The studio listens for Ctrl+Shift+X (render-backend toggle) on its own
+    // window, but a keydown only reaches an iframe when it holds focus. Focus the
+    // frame on load / pointer-enter, and FORWARD the toggle shortcut from the
+    // parent so the WebGL2/Canvas2D switch works even before the user clicks in.
+    "<script>",
+    "(function(){",
+    "  var f=document.getElementById('studio');",
+    "  function focusStudio(){ try{ f.contentWindow.focus(); }catch(e){} }",
+    "  f.addEventListener('load', focusStudio);",
+    "  window.addEventListener('pointerdown', focusStudio);",
+    "  window.addEventListener('keydown', function(e){",
+    "    if(e.ctrlKey && e.shiftKey && (e.code==='KeyX' || (e.key||'').toLowerCase()==='x')){",
+    "      e.preventDefault();",
+    "      try{ f.contentWindow.dispatchEvent(new KeyboardEvent('keydown',{ctrlKey:true,shiftKey:true,code:'KeyX',key:'x',bubbles:true,cancelable:true})); }catch(err){}",
+    "    }",
+    "  });",
+    "})();",
+    "</script>",
     "</body>",
     "</html>",
   ].join("\n")
